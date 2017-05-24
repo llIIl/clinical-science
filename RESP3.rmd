@@ -1,0 +1,237 @@
+---
+title: "Resp III"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output: pdf_document
+---
+
+# Path
+
+-  Benign vs malignant
+    -  Look for how well defined the borders of the tumours are
+
+# Dumb Ca genetics?!
+
+## Oncogenes
+
+SNP: KRAS (colorectal cancer)
+
+Gene amplification (CNV): HER2/neu, MYCN
+
+Translocation: Bcr/Abl
+
+## TSG
+
+-  MSH2
+-  MLH1: lynch syndrome; predisp to colon cancer
+-  APC: adenomatous polyposis coli
+-  TP53: Li Fraumeni
+-  BRCA1: familial breast and ovarian cancer
+-  VHL: von hippel lindau syndrome
+-  RB: hereditary retinoblastoma
+
+# Pneumonia
+
+> including various classifications e.g. CAP vs. HAP, histological distribution, causative organism/agent etc.
+
+Atypical pneumonia zoonotic cause is Chlamydia psittaci.
+
+
+CAP: bacterial pneumonias often follow a viral URTI. Strep. pneumoniae is most common. Bacterial pneumonia has 2 patterns of anatomical distribution = {lobular bronchopneumonia = patchy consolidation (solidification of the lung due to exudate replacing air in the alveoli), lobar pneumonia = consolidation of a large portion or entire lobe}.
+
+Symptoms for CA(Bacterial)P: abrupt onset of high fever, shaking chills, and cough producing mucopurulent sputum; occasional patients have hemoptysis
+
+CA(Viral)P: from the RNA virus *influenzae*.
+
+HAP: *defined as pneumonia that develops in a patient hospitalised for longer than 48 hours (and is not incubating at the time of admission to hospital)*. Common in hospitalised individuals with severe underlying disease, immunosuppressed, or those on prolonged antibiotic regimens. Patients on mechanical ventilation are at high risk, and infections called ventilator-associated pneumonia. Gram-negative rods (members of *Enterobacteriaceae* and *Pseudomonas spp.*) and *S. aureus* are the most common isolates. S. pneumoniae is not common.
+
+Assess severity = {**C[U/O]RB-65** (confusion, urea/O2 sats < 90%, RR > 30, systolic BP < 90, age >65), SMART-COP is more predictive of need to go into ICU}.
+
+Ix: CHEM20, ABG, VBG, FBC, serum free cortisol, serum lactate levels. Sputum eval, imaging with CXR, chest CT, bronchoscopy, thoracentesis (essential in pt with parapneumonic pleural effusion), histo Ex.
+
+Mx: ANTIMICROBIALS then possibly analgesia, antipyretics, chest physiotherapy, IV fluids if indicated, pulse ox, O2 supplementation, resp therapy, suctioning, ventilation
+
+# Quiz
+
+Antibiotics = {isoniazid, cephalosporin, penicillin, tetracycline, tobramycin}
+
+-  Narrows spectrum = isoniazid
+-  Broadest spectrum = tetracycline
+-  Glycopeptides: Inhibition of cell wall synthesis.
+
+S. pneumoniae penecillin resistance is caused by mutations in the genes encoding penicillin-binding proteins.
+
+Hemagglutinin and Neuraminidase proteins determine influenza virus subtype
+
+Empirical therapy: Answer: antibiotic therapy commenced before the identification of the causative micro-organism is available.
+
+Antibiotic stewardship: the optimal selection, dosage, and duration of antimicrobial treatment that results in the best clinical outcome for the treatment or prevention of infection, with minimal toxicity to the patient and minimal impact on subsequent resistance
+
+Ix for pneumonia (justification is the most important):
+
+-  Radiology (chest XR, CT scan); confirms presence of pneumonia, and pattern (bronchopneumonia or lobar)
+-  Blood count: white cell count (host response); underlying anaemia
+-  Serum biochemistry: metabolic effects of respiratory disease, indicating severity
+-  Blood gases: assess severity, eg respiratory failure
+-  Sputum and blood cultures: determine causative organism.
+-  Serology:  determine causative organism
+-  Urinary antigens: determine causative organism.
+
+# Readings
+
+-  Atelectasis is air in the alveoli
+-  Pneumothorax is air in the pleural space
+-  Chronic interstitial (restrictive) lung diseases: heterogeneous group of disorders characterised by bilateral pulmonary fibrosis affecting walls of the alveoli. The hallmark of these disorders is reduced compliance (stiff lungs), which in turn necessitates increased effort to breathe (SOB = dyspnoea)
+    -  Idiopathic pumonary fibrosis: unknown, but probably genetic cause leading to fibrosis. Crackles on inspiration and progressive dyspnoea
+    -  Pneumonoconioses = breathing in mineral particles with the 3 most common agents = {coal dust, silica, asbestos}
+
+# CBL main case
+
+## Trigger 1
+
+69M, pleuritic (sharp on breathing in) CP, diaphoretic, has the "shivers", coughing and cranky.
+
+Hypo:
+
+-  Resp: pneumonia, pleuritis, empyema (pus in pleural space) [abscess is in parenchyma], ARDS, lung Ca (mesothelioma, adenomocarcinoma (glandular origin), SCC (most common in non-smokers), small cell carcinoma), PTX (pneumothorax), PE, trauma
+-  MSK: costochondritis (Tietze's), rib #, muscle strain
+-  CVS: ACS = {STEMI, NSTEMI, (un)stable angina}, IHD, pericarditis, aortic dissection, HF (can lead to SOB, coughing) $\rightarrow$ APO
+-  Anaphylaxis
+
+Reasons for refusing treatment
+
+-  Minimising/underestimating
+-  Negative experience with doctor
+-  Wants to be the tough guy
+-  Beliefs
+-  Religious
+
+
+## Trigger 2
+
+Pt has: no confusion, no drowsiness, no meds, 30 pack years smoking but quit 10 years ago, no alcohol, no recent travel, no recent vaccinations, retired gardener. Doesn't believe in doctors as father died due to post-surgical complications.
+
+Rule out: MSK, anaphylaxis
+
+Mech for symptoms:
+
+-  Sweating: sympathetic stimulation can occur during pain
+-  Shivering: hypothalamic set point is raised $\rightarrow$ shivering as body tries to increase body temperature. ASsociated with focal infection or systemic infection such as sepsis.
+-  Pleuritic chest pain: inflammation in the pleural space
+
+Occupation
+
+-  Gardener: more atypical infections due to shit in the soil such as pseudomonas
+-  Office: air con is likely to be legionella
+
+Resp Ex
+
+-  Inspection (start at hands and move towards chess): resp distress (use of accessory muscles), chest deformities (pectus excavatum), wasting/cachexia(systemic), cyanosis, CO~2~ retention
+-  Palpation: trachea to check if it is midline, ENT (look for lymph nodes), measure expansion of lung fields,
+-  Auscultation: pectoriloquy, bronchophony, aegophony
+-  Percussion
+
+Have to differentiate if acute vs acute on chronic (acute presentation of chronic disease).
+
+## Trigger 3
+
+Ex
+
+-  Vitals: tachycardic, tachypnoeic, hypotension, JVP not visible (not heart failure), febrile
+-  Hemi thorax on inspiration: consolidation
+-  Dullness to percussion: consolidation OR pleural effusion
+-  Breath sounds harsh and loud: normally high f are filtered out due to aeration of the lung, if harsh and loud = consolidation
+-  (No) Pleural rub suggests (no) inflammation of pleura
+
+How does a healthy person get pneumonia: smoking, occupation, environmental exposures, lack of vaccines, travel, exposure to infected hosts.
+
+CAP: Streptococcus pneumoniae (80%), haemopholius influenza (5%), mycoplasma, staph aureus  
+HAP (nosocomial): Staph aureus, E. coli, pseudomonas
+
+Pt is ill: Dx = pneumonia and early signs of septic shock
+
+Ix:
+
+-  Bloods (FBC, ABG, blood cultures (3 from 3 different sites whilst febrile), CRP/ESR, CHEM20)
+-  CXR
+-  Sputum samples: nasopharyngeal swab
+-  Still do heart stuff because of CP: such as ECG and troponin levels
+-  Urine samples
+
+## Trigger 4
+
+Type 1 resp failure: hypoxia *without* hypocapnoea
+
+CXR results: significant opacity (not consolidation) in the lobe. Check lateral and see costophrenic angle suggests against pleural effusion
+
+Microbial samples: sputum, nasopharyngeal aspirants (look for viruses)  
+Pt effort
+
+Low PaO2 due to shunting (V/Q mismatch) arising from blocked alveoli.
+
+Mx for *severe* strep use ceftriaxone + IV azithromycin (mainly for the atypical causes in case), O~2~, analgesia titrated to pain
+
+## Trigger 5
+
+Empirical treatments = guidelines, Take into consideration liver/kidney fn
+
+*Ceftriaxone* $\in$ Cephalosporin is a beta-lactam (along with penicillin); *azithromycin* $\in$ Macrolides which is a 50S inhibitor.
+
+Follow up after discharge: send him to a GP in 1 week for clinical review, CXR 6 weeks to ensure that the acute PC is gone and to see if there is any chronic comorbidities going on, possibly do vaccinations again
+
+## Trigger 6
+
+Complications of pneumonia: sepsis, abscess (focal area), emphysematous change, scarring, empyema (pus in the pleural cavity)
+
+# Short case I
+
+Setting: med student in darwin at GP rotations.
+
+Hx: 4F indigenous, woke up crying with right ear pain, paracetamol seems to settle it a bit
+
+DDx for ear pain (otalgia): otitis externa, otitis media, infn of auricle, mastoiditis, inflamm of ear drum, throat jaw sinuses
+
+What to ask about?
+
+-  SOCRATES about PC
+-  PMHx
+-  PSHx
+-  Medications
+-  Allergies
+-  Immunisation status
+-  Family Hx including if anyone else is unwell
+
+Ex:
+
+-  General Inspection
+-  Ex of ENT and full RESP as symptoms suggestive of URTI, and cervical lymph nodes
+-  Auscultate chest for murmurs/general health
+-  Assessment of hearing (Rinne and Weber testing or refer to audiologist)
+
+Eustachian tube connects ear with URT.
+
+Vaccine preventable causes of acute OM = {Streptococcus pneumoniae, Haemophilus influenzae, Influenza virus}
+
+Acute otitis media with effusion vs chronic suppurative otitis media
+
+-  Acute otitis media with effusion: no discharge, no perforation of tympanic membrane, ototoscope just looks red
+-  CSOM: perforated tympanic membrane with persistent drainage from middle ear. Long term damage includes = {hearing loss}
+
+# SC II
+
+Pt: 42F, usually healthy.  
+PC: Unwell 24 hours with fevers to 39, rigors, aches, sore throat, dry cough
+
+DDx: acute nature suggests infectious cause (think organisms, virulence factors, host factors). Pt has no history suggesting immunocompromised but it should be considered. Influenza
+
+Ex: vitals, whatever systems seem likely. Resp Ex.
+
+Ix:
+
+-  Bloods: FBC, CHEM20, cultures, sputum samples from nasopharyngeal swabs which get PCR'd
+
+Mx:
+
+-  Normally get lots of rest, sleep, fluids
+-  Antiviral treatment is indicated in pt with established complications, severe or requiring hospital admission, elderly, down syndrome, chronic resp, immunocompromised. Otherwise DON'T as it causes adverse side effects
+-  Get vaccine

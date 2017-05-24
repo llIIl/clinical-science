@@ -1,0 +1,304 @@
+---
+title: "Resp II"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output: pdf_document
+---
+
+# Quiz
+
+-  Restrictive: impairment of lung expansion
+-  Obstructive: increased resistance to airflow
+-  Tiotropium bromide: muscarinic antag
+-  Defns
+    -  Asthma: hyperreactivity resulting in episodic and reversible bronchoconstriction
+    -  Chronic bronchitis: chronic productive cough for at least 3 months over 2 consecutive years
+    -  Emphysema: permanent enlargement due to destruction of alveolar walls, without fibrosis
+    -  Interstitial lung disease: interstitial fibrosis with a restrictive pattern of spirometry
+-  Mech of coughing
+    1.  Close glottis in the larynx
+    2.  Contract expiratory muscles esp the abdominal
+    3.  Increase intrathoracic pressure
+    4.  Open glottis
+    5.  Air forced out through bronchi and larynx
+
+
+# Pulmonary mechanics
+
+## Surface tension
+
+Is a mixture of phospholipids and specific surfactant proteins. Has 3 functions:
+
+1.  $\Downarrow$elastic recoil of the lungs $\rightarrow$ reducing pressure needed to inflate them.
+2.  Allows surface forces to vary with alveolar SA $\rightarrow$ protecting against atelectasis.
+3.  Limits reduction of hydrostatic pressure caused by surface tension $\rightarrow$ reduces forces promoting transudation of fluid and intersitital oedema.
+
+## Forces to overcome during inflation
+
+3 forces:
+
+1.  Elastic recoil
+2.  Inertia: negligible
+3.  Resistance to flow
+
+Can be divided into work to overcome {elastic forces, flow resistance}.
+
+## Lung failure
+
+-  Type I: more emphysema
+-  Type II:
+
+CO2 retainers: chronic increased PaCO2 => decreased sensitivity in the central chemoceptors => hypoxia becomes main breathing drive => DON'T GIVE O2
+
+# Spirometry physiology prac
+
+## Instructions given to pt
+
+-  Upright position (standing or sitting but upright)
+-  Shoulder roll to relax
+-  Deep breath into until cant breathe anymore
+-  Make good seal around the mouthpiece
+-  Forcefully exhale as fast as possible for 6s + give encouragement
+    -  Uses abdominal and ext intercostal muscles to flatten the ribcage
+-  Repeat
+-  Compare results to predicted "healthy" values from some random table
+
+## Things affecting forced respiration
+
+-  Recoil of the lung: mainly from alveolar surface tension but also stretched connective tissue when full
+-  External muscles
+-  Airways
+
+## Results
+
+If FEV1:FVC < 0.7 then can only say *lung fn is impaired*.
+
+## Flow volume loop
+
+Measures Y-axis = flow (L/s); X axis = Volunme (L). The max(Y) is the PEF = peak expiratory flow which should be achieved before 15% of vital capacity has been exhaled due to elastic recoil. PIF = peak inspiratory flow which is not an indicator for anything as it is driven by muscles. In healthy: PEF > PIF due to the recoil of the lungs that promotes expiration and inhibits inspiration.
+
+Males have stronger internal intercostal muscles.
+
+## Pathologies
+
+### Large airway obstruction
+
+Decreases FEV1, normal FVC as it doesn't affect dynamic small airway closure.
+
+### Asthma
+
+Devcreases FEV1 and FVC as there is an increased airway resistance due to obstruction so when exhaling it loses pressure faster $\rightarrow$ early dynamic airway closure $\rightarrow$ air trapping.
+
+PIF is normal as our diaphragm is lowered and rib cage is raised. This decreases the intrapleural pressure which dramatically decreases pressure in the airways making them open even if they were obstructed. Therefore PIF is normal (flow is normal, but volume is not).
+
+### Emphysema
+
+Loss of lung tissue => decreases lung recoil => increased intrapleural pressure => early airway closure, decreased FVC, FEV1. It INCREASES PIF due to decreased recoil.
+
+### Restrictive disease
+
+Characterised by increase in FEV1/FVC.
+
+HOWEVER: Young asian females tend to be skinny, good muscles, small lungs, FEV1 could be 100% but don't have restrictive disease.
+
+# Pathology: POW = pneuomoconiosis
+
+## DDx for dyspnoea
+
+-  CVS: MI, cardiac failure, arrhythmia
+-  MSK: broken ribs, pectus excavatum, scoliosis
+-  Neurological: ALS, myasthenia gravis
+-  Psy: anxiety, panic attacks
+
+## Macroscopic
+
+-  Anthracosis: the black deposits throughout the lung are most likely from carbon particles
+-  Bullae: pockets of air that may have ruptured in the pathological slide.
+
+## Pathophysiology of antracosilicosis
+
+1.  Silica inhaled into lungs
+2.  Alveolar macrophage engulf the particles
+3.  Cytokines released and start process of inflammation
+4.  Inflamm damages area of the lung
+5.  Fibroblast prolif occurs as part of wound healing
+6.  Overtime, the silica particles outlive the macrophages and continues the process of inflamm.
+7.  Fibrosis resulting in formation of nodules and calcification
+
+## How does fibrosis cause SOB
+
+Pulmonary fibrosis is scarring of the lung tissue caused in this circumstance, from the presence of foreign body silica. The accumulaion of excess fibrous tissue thickens the walls of the alveoli and impairs oxygen diffusion into the pulmonary capillaries and overall oxygenation of blood leading to the sensation of shortness of breath.
+
+## Ix
+
+CT, CXR, Spirometry, ABG, tuberculin skin test, bronchoscopy. Don't have to use fine needle biopsy unless you are examining for cancers.
+
+## Histopathology
+
+-  Silicosis: has silicotic nodules which are densely fibrotic nodules within lymphovascular spaces in connective tissue septa and in subpleural locations. Many of the nodules contain significant amounts of carbon (anthrosilicosis). Refractile material would be visible under polarising light.
+-  Asbestosis:
+    -  Interstitial fibrosis: the alveolar walls and septa are markedly thickened and contain large amounts of fibrous connective tissue. Residual airspaces are distorted and may contain exudate and neutrophils, suggesting secondary pneumonia in this area.
+    -  Pleural plaque: the pleura is thickened by extensive fibrosis which is up to 5mm thick in this section.
+-  CWP: the coal macule consists of dust-laden macrophages. The coal nodules is a larger conglomeration, characterised by additional collagen fibers arrayed in a delicate network.
+-  Hypersensitivity pneumonitis: The interstitial areas are expanded and contain numerous lymphocytes, macrophages and some plasma cells. Non-caseating granulomas: They are seen in the alveolar walls and consist predominantly of epithelioid macrophages.
+
+# CBL main case
+
+## Trigger 1
+
+Even if man is "light-hearted" it is difficult to generally bring men into consultation. Men are generally less proactive about their health so if they are dragged in then it is likely to be serious. Men tend to minimise what is happening and he could be scared about what it is.
+
+Cues: diesel fitter, works open cut mine, maintains heavy machinery. SOB whilst fishing, 58M.
+
+**DDx for SOB:**
+
+-  Resp: asthma, COPD, pulmonary hypertension, coal workers pneumoconiosis, pulmonary fibrosis, interstitial lung disease, pneumonia, cystic fibrosis $\rightarrow$ bronchiectasis
+-  CVS: PE, IHD, heart failure
+-  MSK: diaphragmatic atrophy/rupture/malfunction/palsy (nervous damage), trauma, scoliosis, ankylosing spondilosis (spine stiffening)
+-  Autoimmune: Myasthenia gravis (autoimmune disorder that blocks transmission of nervous impulses; could have insidious onset)
+-  GIT: ascites, liver carcinoma, hernia
+-  CNS: phrenic nerve palsy, stroke
+-  Psych: anxiety
+
+**Further Hx**: Resp Qs = {smoking, dyspnoea, cough (productive/dry), what is in sputum (*red flag*: haemoptysis), audible breathing (wheezing/stridor), snoring (looking for obstructive sleep apnoea), chest discomfort (pain/tightness = can be something different e.g. asthma), fever (infective illnesses of the lungs)}. CVS Qs. SOCRATES of PC (if pain = TRUE).
+
+## Trigger II
+
+Cues: 18mo, no CP, no palpitations (*always ask cardiac questions with resp* as they tend to go together), no wheeze, few yrs cough worse in the mornings, brownish sputum (stuff breathe in is brown such as pollutants), no haemoptysis, no weight loss, shirt getting tighter (barrel chested $\leftarrow$ hyperinflated lungs $\leftarrow$ air trapping), pants looser (cachexia: muscle wasting as a result of hypoxaemia), smoking: 42 pack years, alcohol 2 standards a day is fine, no medications (less likely as ACE-I can cause dry hacking cough whilst he has productive cough), normal flu took him out for 7 weeks last year (likely he has underlying lung disease resulting in his increased susceptibility to a simple lung infection).
+
+Fam Hx: father died MI 79 which is fine as it is quite old.
+
+Hx: worked in mines since 18, never worked underground, exposure to gold silver and copper, often finishes work covered in dust and grime, never been exposed to uranium, asbestos, nickel.
+
+COPD is the overall diagnosis for {emphysema, chronic bronchitis} and it is usually a combination of the two at once. Dx criteria for chronic bronchitis: productive cough for $\geq3$ months in two consecutive years; emphysema: loss of lung parenchyma. 2 separate pathological mechanisms.
+
+Emphysema: perfusion stays the same whilst lung alveoli are damaged: decreased ventilation, and can form large air sacs called *bullae*. These expand during inspiration and compress other normal alveoli.
+
+Chronic bronchitis: pollutant damage irritates resp epithelium $\rightarrow$ excessive mucin production and smooth muscle proliferation which obstructs terminal bronchioles $\rightarrow$ inhibits air movement into it $\rightarrow$ mucin in the alveoli prevents oxygen diffusion. Therefore treatment involves: positive airway pressure to force airways open, draining the mucous. People bring air in and can't get it out due to airway trapping arising from *dynamic airway closure*.
+
+**Learn COPD mech**: hx of smoking
+
+**2 important genetic conditions**
+
+-  Cystic fibrosis
+-  $\alpha_{1}$ anti-trypsin deficiency: livers cannot produce the eponymous protein $\rightarrow$ trypsin is unopposed $\rightarrow$ widespread fibrosis + liver cirrhosis. Is *autosomal codominant*
+
+**2 parts to cough**
+
+-  What triggers the cough
+-  What activates the cough (which nerves, muscles)
+
+**Examination**
+
+-  Inspection
+-  Vitals
+-  General inspection {hands, arm, chest, head, neck; clubbing, work of breathing, cyanosis}
+-  Feel for a few things {symmetrical expansion during inspiration, vocal fremitus [vibrations upon phonation]}
+-  Auscultate {inspiration, expiration, diff lobes, axilla} [snake pattern to compare equivalent sides of the lungs]
+
+## Trigger III
+
+Cues: O/E: RR 20 is high normal/elevated, increased expiratory phase, barrel shaped chest, thin legs, using accessory muscles, percussion: hyper-resonant, inferior displacement of diaphragm ($\therefore$diaphragm is working *fine*), breath sounds reduced due to less air movement (not likely infn due to lack of crackles [i.e. pneumonia]), heart sounds normal, JVP not elevated, normal abdomen, no lymphadenopathy (argues against infn and cancer). Sats O~2~: 89%
+
+Obstructive: prolonged expiration phase as they are trying to get gas out ($\Downarrow$FEV~1~).
+
+Restrictive: decrease lung compliance from loss of lung elasticity (fibrosis) $\rightarrow$ more work during inspiration/can't breathe in as much.
+
+Ix to order:
+
+-  Blood: FBC ($\neg$ anaemic, white cell count to check inflamm), ABG (PCO2, PO2, pH), CRP/ESR (inflammation), CHEM20 (baseline liver/renal fn)
+-  CXR: flattening of the hemi-diaphragms consistent with hyperinflation in COPD, bullae, no consolidation (white full of blood/pus/sputum; as we expect to see full of air)
+-  Spirometry: FEV~1~, RV
+
+
+## Trigger IV
+
+Cues: ABG results: polycythaemic many cells in the blood referring to the Hb. *Chronic* and has been compensated by the high bicarbonate.
+
+CXR findings: flattening of the hemidiaphragms due to hyperinflation of the lungs, narrowing of the mediastinum, no evidence of fluid in the costophrenic angles (no blunting; which is the first place fluid *would* accumulate)
+
+$\frac{\text{FEV}_{1}}{\text{FVC}} < 0.7$ = COPD
+
+## Trigger V
+
+-  Although his findings is consistent with *coal miners lung*, his *Hx suggests not*.
+-  What would suggest occupational disease: relevant Hx
+-  Disability support pension: twice the dole
+
+Cycle of change for quitting smoking
+
+-  Pre-contemplative
+-  Contemplative
+-  Action
+-  Change
+-  Relapse
+
+Mx strategies: Goals = {risk reduction, optimise fn, improve symptoms, delay progression, minimise comorbidities, manage/prevent exacerbations}
+
+-  Pharmacological: nicotine replacement therapy (gum, lozenges, patches, spray, champix or varenicline [nicotonic-R antag; helps prevent cravings])
+
+\textbf{Learn Pharm for asthma and COPD:}
+
+-  SABA: salbutamol
+-  SAMA: ipratropium
+
+Maintainence:
+
+-  LABA: salmeterol
+-  LAMA: tiatropium
+
+## Trigger VI
+
+He is better as he is taking medications and quit smoking.
+
+People watching out for COPD action plan stuff.
+
+PO2 < 55mHG: O~2~ therapy
+
+
+# Short Case I
+
+Someone comes in with SOB what to ask them:
+
+-  SOCRATES for SOB
+-  Cough + types?
+-  Job Hx: possible exposures
+
+Exposure to insulation material: likely to have asbestos exposure.
+
+Ex:
+
+-  Resp: crackles, wheezes, barrel chest, deformities, altered percussion, use of accessory muscles
+-  CVS: HF, arrhythmias, murmurs, displaced apex beat. Assess for signs of *anaemia* such as pallor, tachycardias...
+
+Ix: to determine nature of resp condition
+
+-  Spirometry: $\Downarrow$FEV1 and FVC to 70% of normal and normal FEV1/FVC is consistent with mild restrictive. No improvement after bronchodilator is not reversible airway disease.
+-  CXR:
+
+Mx of asbestosis:
+
+-  Referral to thoracic physician
+-  Maximise QOL and lung fn
+-  Assess severity and fn impairment: give supp O~2~ if necessary.
+-  Give early antimicrobials if there is an infn
+
+# SCII
+
+Pt comes in with SOB
+
+Hx (same as above)
+
+DDx: most likely = {resp, CVS, haem/lymph}
+
+-  Sig hypotheses to consider: COPD, lung Ca, interstitial lung diseases
+-  Anaemia, CVS
+
+Ix:
+
+-  FBC, electrolytes, CHEM20
+-  Lung fn including Spirometry
+-  CXR
+-  CT scan?!
+
+Dx: idiotpathic pulmonary fibrosis. Causes persistent and progressive scarring of the alveoli $\rightarrow$ SOB(OE) + dry cough. Rate of disease progression is variable, more common in smokers, elderly, possible genetic. Limited therapies.

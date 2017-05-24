@@ -1,0 +1,294 @@
+---
+title: "Resp IV"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output: pdf_document
+---
+
+# Quiz
+
+-  Lung carcinogens: Arsenic (inorganic), asbestos, bis(chloromethyl) ether and chloromethyl methyl ether, chromium compounds, gamma radiation, ionizing radiation (X rays), mustard gas, nickel compounds, polycyclic aromatic hydrocarbons, radon decay products, soots, tars, mineral oils, vinyl chloride.
+-  A patient with a left-sided non-small cell lung cancer undergoes staging investigations which demonstrate the involvement of contralateral hilar lymph nodes (i.e. in the right hilum). According to the TNM system of classifying tumours, what 'N' classification would this receive? N3
+-  Paraneoplastic syndromes are distant effects of a tumour NOT related to the local presence of cancer cells. They are due the production of hormones or other humoral factors by the tumour cells, or to an immune reaction to the tumour.
+-  Methods of tissue sample in LC: Sputum / pleural fluid cytology, bronchoscopy, fine needle biopsy, mediastinoscopy, thoracoscopy, surgical biopsy.
+-  2 mycobacterial infections: TB and MAC
+-  Clinical Dx means that it does not need any testing.
+
+# Path POW
+
+Pt: 60M overweight presenting with gradually increasing SOB for 4/12. Worse on exertion, not when lying down. He has constant left-sided chest pain. A cough has lasted for 3/12. He has coughed-up blood several times.
+
+SR (Systems Review)
+
+-  Some increased hoarseness.
+-  A little more fatigued than usual.
+-  No dysphagia.
+-  No fevers.
+-  No abdominal pain.
+
+O/E (on Ex)
+
+-  Patient alert and oriented, but does not look well.
+-  Clothes hanging a little.
+-  No cervical or axillary lymphadenopathy
+-  L lower lobe stony dull to percussion
+-  L lung decreased expansion
+
+3 key investigations
+
+-  CXR
+-  ECG: cardiac fn but to rule out MI
+-  Spirometry: due to SOB
+-  FBC
+
+CXR demonstrated diffuse changes in the left lung and a single dominant nodule in the upper lobe of the left lung. A contrast CT chest was also ordered. Looks like pleura is most likely affected.
+
+-  This points towards Dx of pleural mesothelioma
+
+[Distinguishing between malignant and benign](malignant_vs_benign.png)
+
+Asbestos greatly increases risk, smoking is not associated with increased risk.
+
+Pathophys  
+Begins as multiple small nodules in the *parietal* pleura which eventually coaelesce. Forms a rind of tumour fusing the parietal and visceral pleurae, going on to encase the lung. Extension into the lung may occur along interlobal fissures. Despite minimal direct invasion of the lung parenchyma, pt experience symptoms due to reduced relative functional capacity. Mediastinum may shift *towards* the lesion.
+
+# Main case
+
+## Trigger 1
+
+51F, 7 weeks productive cough, change in sputum = {quality (type) = clear to cream to creamy brown, quantity (amount) = }. Afebrile, 33 pack year smoking Hx. Dx: COPD with acute bronchitis causing exacerbation. Bacterial superinfection (due to trashed epithelium) with the main causes Streptococcus and Staphylococcus.
+
+Safety netting: order a follow up.
+
+DDx:
+
+-  Resp: acute on chronic bronchitis (even though afebrile it doesn't rule it out as she might have had paracetemol), pneumonia, bronchiectasis (when the large airways dilate), acute bacterial exacerbation of asthma, post nasal drip (wouldn't expect), occupational (pneumonoconioses), pertussis (6 weeks of coughing), sarcoidosis (autoimmune diseases of the lung)
+-  CVS: LHF (pink frothy sputum)
+-  GIT: GORD
+-  Lung Ca
+
+Red flags: according the the lung Ca gp guide reading includes persistent cough > 3 weeks.
+
+Brown sputum: smoker (tar), blood, infections can cause funky coloured sputum,
+
+Haemoptysis DDx: PE, lung Ca, infection, trauma (pulmonary contusion), AVM: vascular malformation, autoimmune disorders (Goodpastures syndrome; Ig against basement membranes), blood coagulation problem such as haemophilia, could be masquerading as haematemesis (vomiting blood) or epistaxis (blood coming from the nose)
+
+Resp Hx: SOCRATES for PC, cough+sputum, SOB, noises (wheeze/stridor), pleuritic CP, trauma, vocal changes, URTI symptoms, travel, sick contacts, personal/fam Hx of atopy/asthma, B symptoms (night sweats, fever, weightloss) which are suggestive of malignancy
+
+Initial Mx: ok for typical bacterial infns, atypical wouldn't work for it (mycoplasma use azithromycin (macrolide))
+
+## Trigger 2
+
+Works in air con office: legionnaires disease (legionella). Parents born in China could mean Tb.
+
+SNAP = {smoking, nutrition, alcohol, physical activity (obstructive sleep apnoea)}
+
+If the SOB changed then the SOB on two flights of stairs is important. Follow up with "Is that usual/different compared to normal"
+
+DDx: rule out asthma (no fam Hx), pneumoconiosis (works in air con office), trauma, coagulopathies (has never seen blood in sputum before), Goodpastures (should be coughing out and peeing blood all the time), PE (no CP)
+
+Changes due to smoking: squamous cell metaplasia, goblet cell hyperplasia (see Resp II GIFT)
+
+5 A's of smoking
+
+-  Ask
+-  Assess (what stage of smoking): pt is pre-complentative
+-  Advise stop smoking
+-  Assistance (with shrink or nicotine patches)
+-  Arrange follow up
+
+Ex: inspection (fingers, cervical lymphadenopathies, ENT), auscultation (vocal resonance and tactile fremitus), percussion
+
+## Trigger 3
+
+Normal Ex but bad symptoms $\rightarrow$ have to do Ix
+
+-  Normal HR suggests against CVS (particular PE which would be tachycardic)
+-  Normal breath sounds suggests against pleural effusion
+-  Normal percussion suggests against consolidation and pleural effusion
+-  Abnormal
+
+Ix:
+
+-  Bloods: FBC ([Hb]), CHEM20, coags, CRP (inflamm response might suggests for malignancy), d-dimer to rule out PE
+-  Sputum cultures
+-  CXR
+-  Spirometry
+-  ECG
+
+Case summary: Christine is 51 F presenting with 7 weeks of productive cough. On the background of a 33 pack year smoking Hx and COPD. Symptoms:sputum has changed,..., no haemoptysis, no SOB, no CP. Ex: breath sounds *equal bilaterally* (makes it sounds better than just saying normal). On examination things are unremarkable. At this stage I'd like to organise (list Ix)
+
+## Trigger 4
+
+DDx for single pulmonary nodule: sarcoidosis, Tb, neoplasms (primary/secondary), granuloma, hamartoma (tissue elements normally found at that site but growing in a disorganized manner), teratoma (multiple germ cell types), choristoma (mass of histologically normal tissue in an abnormal location), aspergiloma (ball of fungus), cicatricial tissue,
+
+Lung Ca = {12% small cell, 70% are non-small cell, rest are metastases}. On CXR expect to see:
+
+-  Size and repidity of growth
+-  Irregular borders: some degree of asymmetry
+
+Routes of Ca spread
+
+-  Haematogenous
+-  Lymphatics
+-  Perineural spread: includes CSF
+-  Transcoelemic
+-  Direct invasion
+
+Further Ix:
+
+-  CT chest: confirm suspicions for lung Ca and location
+-  Sputum cytology: pt coughs out cells
+-  Biopsy
+    -  CT guided FNA (fine needle aspirate): by an interventional radiologist for lateral tumours
+    -  Bronchoscopy: look down vocal cords; useful for central tumours
+    -  Bronchioalveolar lavage: wash out
+
+Virtuous doctor: honesty, empathy, have to be transparent with pt "even though it is uncomfortable for me to say this, I have to be honest, it is possible you have cancer", not withhold information, courage to say that.
+
+## Trigger 5
+
+Adenocarcinoma most common with non-smokers.  
+SCC most common in smokers.
+
+Lung Ca usually presents as cough, haemoptysis, dyspnoea, pleuritic CP, change in voice (tumour obstructing recurrent laryngeal nerve). Pemberton's sign (raise hands and head turns red), paraneoplastic syndrome (malignant cell may produce hormones/peptides), horners syndrome (compression of sympathetic chain T1/T2 due to apical lung tumour).
+
+Needle biopsy:
+
+-  Risks: puncture an artery/vein $\rightarrow$ haemothorax, infn
+-  Benefits: clinically diagnosing which affects treatment
+-  Negative results does NOT exclude malignancy
+
+Cancers
+
+-  Grading:
+-  Staging: spread of the cancer, where is it likely to spread to (lymph, surrounding, distant), TNM = {t = size, nodes, metastases}
+
+## Trigger 6
+
+Most of the time it is about encouraging pt to make a change rather than castigating them.
+
+# Short case 1
+
+## Trigger 1
+
+48M homeless, alcoholic. Presenting feeling 'really bad', 2/7 Hx SOB slowly worsening, mild discomfort in his chest but only on deep inspiration. Denies recent weight loss and points to his abdo saying 'gut is getting bigger'.
+
+Alcoholic likely to have *aspirational pneumonia*: atypical pathogens and is usually *polymicrobial*
+
+DDx:
+
+-  PE: risk factors are malignancy, pregnancy, female (oestrogen; the pill), DVT, immobility, fam Hx, personal Hx | Use Wells score
+-  Pneumothorax: risk factor is tall and skinny, short onset pain and dyspnoea
+-  Pleural effusion: haemothorax, empyema because irritating the parietal pleura
+-  APO: less like as it wouldn't cause chest pain (also should have crackles)
+-  MI:
+-  GORD:
+
+Ex:
+
+-  Decreased breath sounds
+-  Stony dull percussion note: pathognomic of pleural effusion (duller than *dull percussion* which could be consolidation, hyper resonant percussion = pneumothorax)
+-  Decreased vocal resonance: not consolidation (which would amplify the sound)
+-  Abdo distended
+-  Ascites: fluid in the peritoneal space | caused by portal vein hypertension leading to fluid leaking into surrounding space likely to be from liver or RHF
+
+Ix:
+
+-  CXR: AP and lateral to locate it and distinguish between pneumonia or effusion
+-  Bloods: FBC+FILM (platelet count), coag profile (more likely to have a coagulopathy as he is an alcoholic which causes cirrhosis depressing fn of the liver [producing clotting factors]), EUC $\subset$ ELFT (electrolytes and liver fn test) $\subset$ CHEM20 (liver and kidney fn = ELFT + Ca, Mg, P), ESR/CRP
+
+## Trigger 2
+
+Pleural fluid has come back as serous (yellowish straw coloured) transudate. Both visually look the same.
+
+-  Transudate: serous fluid when congestion in capillaries to the point where fluid is pushed out of it. Junctions remain the same. Caused by increase in hydrostatic pressure in the venous system or a loss of oncotic pressure (proteins in the blood keeping fluid there; lack of protein can be caused by liver cirrhosis [hypoalbunaemia] or by kidney disease [nephrotic syndrome or hepatorenal syndrome which is leaky to protein] or by malnutrition).
+-  Exudate: junctions open so more stuff can go out: proteins and other stuff can go out. Inflammatory response (changes in vascular permeability) so proteins and even some cells can eat through. Bit worse as this is a sign of pathology.
+
+Pleuritic chest pain: worse on deep inspiration
+
+# Short case 2
+
+## Trigger 1
+
+Pt: 73M regular comes to local GP presenting feeling 'a bit off', noticed SOB and a persistent dry cough over the last few/12. Feeling tired/fatigued(?), has lost 6kg in the past 3/12. He has a 60 pack year smoking Hx and quit 3 years ago.
+
+-  Risk factors: smoking increases respiratory illnesses, age predisposes to Ca (telomeres shorten)
+-  Red flags: weight loss, feeling very tired, signs of cachexia (foundin Ca, AIDS, coeliac disease, COPD, MS, RA, CHF, tuberculosis, poisoning)
+
+DDx:
+
+-  Resp:
+    -  Exacerbation of COPD (emphysema)
+    -  Lung Ca: smoking increases risk
+    -  Asthma
+    -  Interstitial lung diseases: idiopathic pulmonary fibrosis (unknown pathophys; increased incidence in smokers) would lead to fibrosed alveoli resulting in a decrease in gas exchange
+    -  Viral infn
+    -  Bronchospasms
+    -  Allergies
+-  CVS: PE, LHF
+-  GIT: GORD
+-  Sleep: OSA
+-  ACE inhibitors
+
+Ex: what to focus on
+
+-  Inspection: is he looking well, work of breathing, mental state
+-  Vitals
+-  General inspection: hands, wrists, arms, face, ENT, neck (lymphadenopathies), chest
+-  Ante:
+    -  Palpate: expansion bilaterally, subcutaneous emphysema
+    -  Percuss: resonance
+    -  Auscultate: normal breath sounds, adventitia (wheezes, crackles), vocal resonance (bronchophony, whispering pectoriloquy, egophony)
+-  Post:
+    -  Palpate
+    -  Percuss
+    -  Auscultate
+-  CVS Ex: JVP, heart sounds
+
+## Trigger 2
+
+Ex results: looks tired and thin face, Wt 65kg, afebrile, RR 20, HR 76, BP 155/95, heart sounds dual - no murmurs, no Cx/supraclavicular lymphadenopathy, trachea mid-line, breath sounds reduced at right base, fixed inspiratory wheeze right mid zone, percussion normal bilaterally, abdomen NAD (nothing abnormal detected?), nil peripheral oedema.
+
+Ix ordered: CXR for chest signs and cough, bloods (FBC, electrolytes [U&E]?, CHEM20)
+
+Interpretation of Ex results:
+
+-  Positive: heart normal (awaiting bloods), afebrile = no infn, no lymphadenopathy (suggests against infn; Ca?), trachea midline (suggests against pneumothorax and atelactasis), abdo NAD = _____, nil peripheral oedema suggests against PVD and HF
+-  Negative: tired, weight loss, breath sounds reduced at right base (atelectasis (collapse of lung), consolidation, pleural effusion = things in pleural space blocking sound (hydrothorax, pneumothorax, empyema, haemothorax)), fixed (probs tumour) inspiratory wheeze right mid zone (means that the bronchioles are stenosed or obstructed which can occur from a tumour compressing it, foreign bodies, fibrosis)
+
+
+Appropriate imaging
+
+-  CXR: used first due to safety and cost
+-  CT: a lot more radiation. Can Dx nodules but low sensitivity in identifying malignancy.
+-  PET: gives metabolic information, thus has high sensitivity for malignancies. Used for *staging* of the Ca, usually after the Dx is confirmed
+-  Bone scan: area without PET
+-  MRI: Dan (or use in the brain)
+
+## Trigger 3
+
+Ix results: slight hypokalaemia
+
+Further Ix: bronchoscopy
+
+Dx: SCLC, paraneoplastic syndrome with ectopic ACTH production (Cushing's) accounting for some symptoms such as hypokalaemia, elevated BP, elevated glucose.
+
+SCLC: cell of origin are pulmonary neuroendocrine cells (why it has paraneoplastic effects). 12% of lung Ca, smoking related, extremely aggressive, and mestasises extremely early.
+
+Staging shows *limited stage* disease (confined to 1 hemithorax and within 1 tolerable radiation field). Mx: chemo and radiotherapy. Prophylactic cranial radiotherapy (radio the brain because SCLC is HIGHLY aggressive, and ensure it doesn't metastasise to the brain). Resection is not done as the Ca is too aggressive and by the time it has Dx then it is likely to have metastasised.
+
+2 years later Dx with *extensive stage* disease ($\neg$limited; Mx: chemotherapy alone) and dies.
+
+Paraneoplastic syndromes are when tumour secretes substances or hormones into blood stream.
+
+-  Cushings: [SCLC] ectopic production of ACTH | DDx: pituitary adenoma, cortical tumour of adrenal
+-  Humoural hypercalcaemia of malignancy (HHM): [SCC] PTHrP release by tumour causing osteoclastic bone resorption | DDx: metastatic spread into bone
+-  Lambert-Eaton myasthenic syndrome: [SCLC] auto-antibody production causing blockage of neuromuscular junction | DDx: myasthenia gravis
+-  Syndrome of inappropriate antidiuretic hormone secretion: [SCLC] lots of water retention
+
+Quitting smoking is tough:
+
+-  Weight gain: 1st year is the most, then rate decreases
+-  Psychoscocial effects: going against ingrained habits
+-  Still increased risk for lung Ca, but it drastically reduces. Never returns to the never smoked level.

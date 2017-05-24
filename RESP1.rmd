@@ -1,0 +1,120 @@
+---
+title: "Resp I "
+Author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output: pdf_document
+---
+
+# CBL
+
+## Main Case
+
+18F  wakes up at 6am can't breathe goes into ED. She is *too short of breath to speak*.
+
+Key processes in respiratory system
+
+-  *Respiration*: whole process = {breathing in, breathing out, cellullar respiration,...}
+-  *Ventilation (V)*: air going into alveoli
+-  *Perfusion (Q)*: air diffusing into blood
+-  *V/Q mismatch*: areas of lung are either not getting enough air or blood. E.g. APO (alveoli filled with fluid so no ventilation), PE (no blood flowing (no Q) whilst lung parenchyma are fine), pulmonary arteriole stenosis.
+    -  V/Q > 1: physiological dead space
+    -  V/Q < 1: physiological shunting
+
+Pathological process of noisy breathing: turbulent air flow against a smaller than usual airway diameter OR obstructed. What can cause this:
+
+-  Inside the lumen: excess mucus secretion, fluid = {blood, pus,...}
+-  Wall of the bronchiole: could get fattened due to acute inflammation of the walls $\rightarrow$ change in permeability of the walls due to cytokines $\rightarrow$ oedema $\rightarrow$ narrow.
+-  Outside the wall: smooth muscle contraction $\rightarrow$ bronchospasms.
+
+What causes central cyanosis: 30mmHg (increased) deoxyhaemoglobin
+
+DDx: asthma, COPD, anaphylaxis (typically causes obstruction in the large airways), PE, bronchitis, *foreign body obstruction* (common in children where they swallow a jelly bean, small car, or it could be a carcinoma)
+
+Can't breathe: have to immediately stabilise breathing: salbutamol ($\beta_{2}$-agonist) $\pm$ $O_{2}$
+
+### Trigger 2
+
+Explanations for vital signs:
+
+-  Tachypnoeic: hypoxaemic $\rightarrow$ $\Uparrow$respiratory rate.
+-  Tachycardic: hypoxaemia (low [O~2~] in the *blood*) $\rightarrow$ sympathetic stimulation $\rightarrow$ catecholamine release $\rightarrow$ postive chronotropy + inotropy.
+-  Hypertensive: trying to increase pressure and perfusion to the lungs
+-  *Pulsus paradoxus*: normally on inspiration there is increased venous return into RA $\rightarrow$ $\Uparrow$pressure. Paradoxus:  there is a decrease in pressure on inspiration which is weird. When there is an obstruction *inspiration is prolonged*: initial increase in pressure due to inspiration $\rightarrow$ drops as inspiration is prolonged.
+-  Wheeze: turbulent air flow
+-  Crackles: no oedema = {pus, blood,...}
+-  Reduced breath sounds: decreased alveolar ventilation (not moving air) and forced vital capacity (FVC; maximal inspiration) is decreased.
+    -  **Early dynamic small airway closure**: when pressure in pleural space > pressure in airways the small airways snap shut $\rightarrow$ can't exhale as much as inspired.
+-  Percussion hyper-resonant: lots of air in the lungs (like a drum). If it is dull to percussion then it is filled with fluid.
+-  Pulse Oximetry 75%: Widespread bronchodilation $\rightarrow$ decreased FVC and tidal volume $\rightarrow$ decrease oxygenation to pulmonary arterioles $\rightarrow$ decrease overall oxygenation of the blood.
+-  Temperature normal: no infn. In asthma increased mucus secretion $\rightarrow$ leads to infn. Infn can also exacerbate asthma.
+-  Wheezing higher on expiration: air is moving in but not out
+-  ABG analysis: used sometimes in COPD as O2 might kill them.
+
+Suggestive of asthma: wheeze, history
+
+Noisy breathing during inspiration (upper/large airway obstruction): *stridor* . Noisy breathing during exhalation (lower/small airway obstruction): wheeze.
+
+How to look after her:
+
+-  salbutamol inhaled through a spacer or through nebuliser (5mL of liquid salbutamol which "humidifies" the gas with it). Nebuliser $\neg$used when there is no airway obstruction, used when significant airway obstruction.
+-  $O_{2}$
+-  Oral prednisolone (steroid) or IV hydrocortisone
+
+## Trigger 3
+
+Presenting case to a consultant: **ISBAR** = {introduction, situation, background, assessment, recommendation}
+
+ABG: explanations on the pdf.
+
+Hypoxic: hypoxic-respiratory drive will activate (sensed by chemoceptors?)
+
+Drugs:
+
+-  Sympathetic: redirects blood *away* from GIT, skin
+-  $\beta_{2}$-agonist: bronchodilation, vasodilation to skeletal muscle
+-  Corticosteroids are *strong anti-inflammatories* by releasing annexin-1 that prevents TXN of phospholipase A
+-  Ipratropium bromide = muscarinic antagonist: inhibits PS-NS
+
+Ask her:
+
+-  What were you taking
+-  When did you stop taking meds
+-  How long she has been on for
+-  Assess asthma control: frequency of asthma vs asthma episodes (have you been hospitalised for asthma before [been in ICU; upregulates treatment])
+
+Symptoms of asthma: coughing (night), SOB, chest tightness
+
+Trigger asthma: irritants, infn, exercise, drugs (NSAIDs, $\beta$-blockers), anxiety attack
+
+Indications for CXR: assymetrical chest expansion (side could be full of fluid, pneumothorax), crackles, unequal air entry, febrile + symptoms suggesting pneumonia, haemoptysis.
+
+## Trigger 4
+
+Spirometry can measure:
+
+-  FEV~1~: how much air out in one second
+
+Textbook defn asthma: reversible airway obstruction ($\Delta$FEV~1~ > 200mL | 12%). Role of spirometry in acute: way more sensitive.  
+
+Combination of steroid (fluticasone) and $\beta$ agonist (salbutamol, turbutaline). Sometimes have to add a LABA (long acting $\beta$ agonist; salmetarlol, efametolol). Steroids can cause: immunosuppression, cushings, CNS, diabetes, $\therefore$ ICS (inhaled) is a method to get it to the lungs and prevent these systemic effects.
+
+Asthma medication has to be taken everyday as asthma is a *chronic inflammatory* process. If it is not taken then chronic inflammation is still occuring underneath. Corticosteroids prevent scarring,
+
+Explore reasons *why* people are not compliant: socio-economic barriers to health.
+
+Autonomy: four things required for providing consent (VICS)
+
+-  \textbf{V}oluntary
+-  \textbf{I}nformed
+-  (not) \textbf{C}oerced
+-  \textbf{S}pecific: has to be for a specific process rather than just "yeah you can treat my cancer"
+
+## Trigger 5
+
+Asthma NOT resolved. Cellular response occurs 8-12 hours after initial flare up.
+
+## Trigger 6
+
+Silent chest: no air moving at all.
+
+To improve patient adherence: education (written and visual explanation), asthma action plan, multidisciplinary team (abo health worker + pharmacist).

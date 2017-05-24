@@ -1,0 +1,305 @@
+---
+title: "Renal II"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output: pdf_document
+---
+
+# Quiz
+
+-  Small kidneys on ultrasound indicates kidney failure is *chronic* rather than *acute*. Incorrect answers = {metabolic acidosis, low eGFR, hyperkalaemia, resistant hypertension}.
+-  Dipstick shows haematuria: repeat dipstick test
+-  A 67 year old non-smoking man presents with an episode of fever for several days. Urine dipstick is positive for blood, nitrites, and leucocyte esterase. He reports several years of difficulty (hesitancy and dribbling) with urination. The most likely diagnosis is: UTI
+-  HIV can cause glomerulopathy
+-  Nephrotic syndrome most common cause
+    -  Children: minimal change (loss of negative charge)
+    -  Adults: focal segmental glomerulosclerosis
+
+# Reading
+
+## Acute kidney injury
+
+AKI risk factors include older age, diabetes, hypertension, obesity and cardiovascular disease. Further, pre-existing chronic kidney disease (CKD) has been found to be the most important risk factor for the development of AKI (10 times more likely). Also AKI $\rightarrow$ CKD.
+
+Prognosis: ranges from complete recovery through to mild CKD, severe kidney damage + long term dialysis, and death. Oliguria ($<400$mL/day) has worse prognosis. Anuria ($<100$mL/day) even worse.
+
+Defn: KDIGO definition defines AKI by a $\geq0.3$ mg/dl increase in creatinine or a $50\%$ increase above baseline within 48 hours, or a $\geq50\%$ increase in creatinine above baseline within 7 days.
+
+Categories
+
+-  Prerenal - As an adaptive response to severe volume depletion and hypotension, with structurally intact nephrons. Aetiology = {volume depletion (diuretics, vomiting, diarrhoea), decreased CO (HF, PE), systemic vasodilation (sepsis), afferent arteriolar vasoconstriction (hypercalcaemia, NSAIDS)}.
+-  Intrinsic/Intrarenal - In response to cytotoxic, ischaemic, or inflammatory insults to the kidney, with structural and functional damage. Aetiology = {vascular (renal artery/vein obstruction, malignant hypertension, transplant rejection), glomerular (anti-GBM, glomerulonephritis [RPGN]), tubular (acute tubular necrosis, crystals, drugs), interstitial (drugs, infn, systemic disease, acute interstitial nephritis)}.
+-  Postrenal - From obstruction to the passage of urine. Aetiology = {mechanical (stones, structure, fibrosis)}
+
+Complications
+
+-  CVS: HF, arrhythmias, pericarditis (rare; think additional Dx such as SLE)
+-  Resp: goodpastures, granlomatosis, sarcoidosis
+-  GIT: nausea, anorexia, vomiting, uraemia?!, gastric bleeding, pacnreatitis, jaundice, hepatitis
+
+Pathophysiology: tl;dr glomerular filtration depends on pressure gradient from glomerulus to bowman space.  
+Main determinant is renal blood flow (RBF). Reductions in RBF no matter the cause of AKI are a common pathological pathway for $\Downarrow$GFR. Prerenal = compromised renal perfusion. Intrinsic = usually glomerulus or tubule; ischaemic injury is the most common cause. Obstruction = increase in tubulur pressure decreases filtration driving force. This gradient equalises and renel efferent vasoconstriction. Depressed RBF leads to ischaemia and cell death. Inflammation comes in and cell injury occurs even after restoration. During this time tubular cell damage fucks up tight junctions => leakage of glom filtrate + dyaing cells enter tubules forming casts => decrease in GFR => oliguria.
+
+Restoration of RBF  
+Early RBF recovery has better prognosis. Once it is restored remaining nephrons increase filtration and hypertrophy, however if not enough nephrons left then these sclerose => more nephron loss. Hyperfiltration theory of renal failure: as nephrons die then puts more pressure on the rest which are then more prone to dying.
+
+# Path: revision
+
+Lack of oxygen to myocardial cells lead to myocardial infarction (cell death), which weakens the wall causing a rupture. This in turn results in blood entering the pericardial sac (haemopericardium). When enough blood accumulates, cardiac tamponade will occur and subsequently death.
+
+## Pot 1
+
+Hypertension is a pre-disposing factor for => hypertrophy of wall => MI => blood leaking => cardiac tamponade
+
+Histo: normal part can see nuclei in the myocardial cells. Infarcted area (no nuclei, can make out the cell; coagulative): blue stuff is neutrophil infiltrate and red stuff = RBCs (congestion). 1-2 weeks: fibroblasts come in; granulation tissue = {fibroblasts, new vessels, macrophages, xxxxxxx}.
+
+The following can all affect the severity of an infarct.
+
+-  Location, severity and rate of occlusion
+-  Duration of occlusion
+-  Metabolic/oxygen needs of the myocardium at risk
+-  Extent of collateral blood supply
+-  Coronary arterial spasm
+-  Other factors – heart rate, alteration in blood pressure.
+
+The sequence of events leading to artery occlusion are:
+
+1.  Sudden change in plaque morphology – haemorrhage, rupture, ulceration.
+2.  Exposed subendothelial collagen and plaque contents causing platelet adhesion and aggregation.
+3.  Vasospasm stimulated by platelet aggregation.
+4.  Other mediators activate the extrinsic pathway of coagulation leading to increased thrombus.
+5.  Occlusion.
+
+Subendocardial collagen/tissue needs to be exposed to trigger the coagulation cascade.
+
+MI outcomes:
+
+-  Cardiac tamponade
+-  Arrhythmias
+-  Ventricular aneurysms
+-   df
+
+
+## Pot 2
+
+A 27-year-old female patient presents to her GP one week after a tooth extraction.  She complains that she feels tired and has been having recurrent fevers.  On examination she is febrile and has peripheral oedema. Her pulse is rapid and thready.  On auscultation, a mitral stenosis murmur is heard.  She is immediately sent to the emergency department.
+
+Further history taking reveals that she had rheumatic fever as a child. RHD has smaller vegetations, fibrin brings about stenosis of the valve
+
+Urgent investigations are carried out including a chest Xray.  Unfortunately she dies soon after these are taken.
+
+Vegetations on heart valve - Rheumatic fever (acute immunologically mediated multisystem inflammatory disease that occurs a few weeks following an episode of group A Strep pharyngitis) leads to acute chronic rheumatic heart disease, which leads to chronic RHD (mitral stenosis commonest lesion) – fibrotic valvular disease – Left atrium dilates – congestion of lungs – Right ventricular hypertrophy (boot shaped heart) – dental extraction – infective endocarditis (bulky friable vegetations composed of thrombotic debris and organisma) – septicaemia and death.
+
+RVH leads to the boot shaped heart in the CXR.
+
+In regards to Non-infective endocarditis; deposition of small masses of fibrin, platelets and other blood components form on valve leaflets. The lesions are sterile.
+
+It is usually seen in debilitated patients eg. Cancer, where there is a hypercoaguable state which leads to ‘marantic vegetations’.
+
+## Pot 3
+
+Restrictive lung diseases: FEV1 and FVC both fall so no change in the ratio. Would be caused by secretion of fibrogenic cytokines by macrophages.
+
+Smoking => emphysema => centriacinar (not hereditary). $\alpha_{1}$-anti-trypsin would cause pan acinar
+
+CXR: Flattening of the diaphragm => lung spaces have enalarged. Heart looks tubular (narrowing)
+
+The loss of alveolar surface area due to emphysema makes it difficult for the patient to take in sufficient oxygen and excrete carbon dioxide at a sufficient rate. Since both the terminal bronchioles and alveoli along with the capillary bed have been destroyed, a matched defect exists between the ventilation and perfusion; areas of low ventilation also have poor perfusion.
+
+Despite the “matched” V/Q defect, overtime hyperventilation develops and cardiac output (CO) drops which leads to areas of poor blood flow in relatively well oxygenated areas. Due to this poor CO, the rest of the body suffers from tissue hypoxia.
+
+Pathogenesis of RHF: Matched V/Q defect --> Overtime hyperventilation develops --> Cardiac output drops --> Hypoxaemia --> Tissue hypoxia (this may cause polycythaemia)  and Increased CO2 retention (this may cause respiratory acidosis) --> Arterial vasoconstriction in lungs --> pulmonary hypertension --> Retrograde pressure build-up --> Elevated right ventricular pressure --> right ventricular hypertrophy --> right ventricular failure (Cor pulmonale)
+
+## Pot 4
+
+Bronchopneumonia: comorbidities predispose.
+
+List three possible complications of pneumonia.
+
+Abscess formation, empyema, septicemia, bronchiectasis.
+
+## Pot 5
+
+This x-ray shows a coin lesion in the right upper lobe.a
+
+Hamartoma: excess tissue in a normal location
+
+Choristoma: excess tissue in an abnormal location.
+
+
+## Pot 6
+
+ cavitating lesion
+
+Abscess vs cavity
+
+-  Abcsess is an area of necrosis that is well sealed
+-  Cavity: leaves behind a hole
+
+# Quiz
+
+# Main case
+
+## Trigger 1
+
+22F, fell from horse 1:45h ago, at rural hospital. Closed (within the skin; open means it breaks the skin and ready for osteomyolitis) spiral fracture of the 1/3 mid femur: neurovascular compromise suspected (scared of haematoma => compartment syndrome). Diastysis of pelvic symphysis. No haemoperitoneum. Circulating blood volume depletion estimated at 2L. Central venous line (so can pump lots in) and urinary catheter (measure urine output).
+
+Post-renal: stricture (narrowing), fistula
+
+$\0.5mL/kg/hr$ is the bare \textit{minimum} urine output.
+
+If the vasa recta are not perfused adequately => ischaemia of the tubules => necrosis. It does not have a compensatory mechanism so if perfusion drops then it just cannot perfuse the tubular cells.
+
+Ix: renal challenge: give a bolus of fluid, and examine if urine output increases. If so then it would be due to hypoperfusion.
+
+Hydration status:
+
+-  Underhydrated
+    -  Symptoms: dry mouth/lips, thirsty, sweating
+    -  Signs: postural tachycardia as there is not enough fluid reserve to bolster it, pallor, decreased skin turgor, decreased capillary refill, cold
+-  Overhydrated
+    -  Symptoms: pittal oedema, moist cough due to APO, SOB due to pleural effusion
+    -  Signs: added heart sounds, elevated JVP
+
+## Trigger 2
+
+Hydration status can be quantified by % volume loss.
+
+Issues with kidney damage
+
+-  Hyperkalaemia => ECG ASAP
+-  Uraemia (increase in urea)
+
+Ix to order:
+
+-  Bloods: FBC (anaemia), CHEM20 (electrolytes), coags, ABG (pH)
+-  Urine: dipstick (proteinuria, haematuria)
+-  Imaging: renal ultrasound (obstruction or not)
+
+## Trigger 3
+
+-  Urine osmolality = 302 $\approx$ 298 which is the blood osmolality. Means that kidneys are not doing anything.
+-  Urea is generally a marker for dehydration
+-  Renal ultrasound normal rules out post-renal causes
+
+Fn of the kidney
+
+A.  cid/base
+B.  P
+C.  (s)alt+$H_{2}O$
+D.  etox
+E.  PO: hormone to produce RBCs
+F.  luid balance
+
+Anion gap = [Na^+^]+[K^+^]-[Cl^-^]+[HCO~3~^-^]
+
+-  Small proteins have negative charge but we can't measure them. $\therefore$ gives indication that there is decreased kidney fn.-  \textbf{do some reading on this shit??}
+
+Principles of Mx: supportive management by intervening when necessary. This means maintaining the ABCDEF kindey fn see if she gets better. Also maintain fluids, electrolytes.
+
+## Trigger 4
+
+Serum biochemistry (CHEM20): creatinine: increased which is a marker that kidney fn is BAD
+
+Hyperkalaemic metabolic acidosis due to hypovolaemia.
+
+Deteriorating biochemical profile: tubular epithelial cells can't secrete K^+^, and they are starting to lyse which also spills K^+^ into the blood.
+
+Mx: e.g. acid/base: give bicarbonate. Compensate for metabolic acidosis.
+
+Histology: loss of tubular epithelial cells, inflammatory infiltrate
+
+## Trigger 5
+
+Dialysis: passive fluid movement across membrane. Has risks of clotting, infn. Types:
+
+-  Peritoneal: tenkoff catheter surgically implanted into ante abdo wall. Can do it at home, much greater $\mathbb{P}(Infection)$, not as effective as the other one.
+-  Haemodialysis: surgical induced fistula between radial artery and cephalic vein (AV fistula; vibrates/buzzes) which provides a large target for a cannula.
+-  CVVH: used in the ICU, can be in response to SIRS (systemic inflammatory response syndrome).
+
+## Trigger 6
+
+Histo: Loop of Henle sets up the concentration gradient in the filtrate, DCT ends up concentrating it. **Learn about countercurrent**.
+
+Takes time for re-epithelialisation to occur.
+
+# Short case 1
+
+## Trigger 1
+
+Failure to thrive: lower percentile of child weight growth. Causes:
+
+-  Malnutrition
+-  Neglect
+-  Chronic/severe infns
+
+Polydipsia: increased water intake
+
+-  Hyperglycaemia: glucose being spilled off and water is dragged along (Diabetes)
+-  Neurological
+
+## Trigger 2
+
+Low creatinine is never significant, we just care about high creatinine. Hyponatraemic, hypokalaemic, hyperchloraemic, metabolic acidosis (bicarbonate; guess). Serum biochemistry means there is losing ions, but the increased specific gravity means it is escaping through that. The level of ions suggests it is proximal tubule.
+
+Diabetes = high sugar in blood, high in urine
+
+Kidney disease = normal in blood, high in urine
+
+Rickets = failure to lay down bone. Laying bones requires Ca^2+^ or PO~4~^3-^, Ca^2+^ requires Vit D. So any of the three could be fucked.
+
+Ix extra to order:
+
+-  24h urine: analyse for eGFR, electrolytes, amino acids
+
+## Trigger 3
+
+Nephrotic syndrome means glomerulus is defective.
+
+Cystinosis => cysteine build up in proximal tubules => they start failing => lose electrolytes => Fanconi syndrome => decreased phosphate => decreased Ca absorption => rickles
+
+
+# Short case 2
+
+## Trigger 1
+
+32M playing rugby knee to left flank. Coliky abdo pain.
+
+Colicky pain = comes and goes but stays bad most of the time = {pregnancy, renal stones, biliary stones}. Is associated with peristalsis in hollow organ (bowel, ureter, bile duct, oesophagus) which results in the wave of pains.
+
+Exercise injury: probably not frank (macroscopic) haematuria but instead retroperitoneal bleeding.
+
+Infn of kidney = pyelonephritis (usually always bacterial and is quite painful).
+
+DDx for flank pain:
+
+-  Kidney: pyelonephritis, tumour, trauma
+-  Appendix: appendicitis
+-  MSK: trauma, unlikely for haematuria
+-  GIT: diverticulitis (diverticulum gets infected),  
+-  Fistula
+-  Could be referred pain (bladder: cystitis) that goes to kidneys
+
+Ix: to order
+
+-  Urinalysis and 24h
+-  FBC: check anaemia
+-  COAGS
+-  CHEM20
+-  Renal ultrasound
+-  Abdo x-ray
+
+Mx: if pain is rated >7 then give opiates. Usually give paracetemol + NSAID.
+
+## Trigger 2
+
+Dx: polycystic kidney disease. Requirements for Dx: a combination of fam Hx + cysts identified.
+
+PKD usually presents with pain and haematuria. Usually also have hypertension (due to fluid retention + activation of RAAS) and diastolic BP would increase. It causes stasis => kidney stone formation.
+
+Types
+
+-  Autosomal dominant PKD: (PKD1, PKD2; presents in adults) cysts form in organs such as liver, seminal vessels, vasculature and can lead to berry aneurysms
+-  Autosomal recessive PKD: (PKHD1; presents in children) gets both copies so presents in *utero*.
+
+Ascending cholangitis: name is poor but it means *infection* of biliary tree. Symptoms triad = {fever, jaundice, }.

@@ -1,0 +1,24 @@
+---
+title: "Renal III"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output: pdf_document
+---
+
+Path
+
+
+
+Dx of CKD requires:
+
+-  Decline of kidney function for 3 months or more \textbf{AND}
+-  Evidence of kidney damage (e.g. albuminuria or abnormal biopsy) textbf{OR}
+-  GFR <60 mL/min/1.73 m2
+
+Staging CKD
+
+-  Stage 1: Kidney damage with normal or increased GFR (>90 mL/min/1.73 m2)
+-  Stage 2: Mild reduction in GFR (60-89 mL/min/1.73 m2)
+-  Stage 3: Moderate reduction in GFR (30-59 mL/min/1.73 m2)
+-  Stage 4: Severe reduction in GFR (15-29 mL/min/1.73 m2)
+-  Stage 5: Kidney failure (GFR <15 mL/min/1.73 m2 or dialysis)

@@ -1,0 +1,264 @@
+---
+title: "Renal 1"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output: pdf_document
+---
+
+# Glomerulonephritis
+
+3 cell populations in glomerulus = {endothelial, mesangial cells, epithelial cells (foot processes and parietal), } + 2 structural units = {basement membrane, mesangium}
+
+Everything except for podocyte can regenerate
+
+# Quiz (predominantly on UTIs)
+
+-  Urine sample from 3/12 child: supra-pubic aspiration
+-  Major mechanism causing stress incontinence: urethral hypermobility
+-  Acute urinary retention requires urgen management
+-  Non surgical Mx of BPH: $\alpha$-adrenergic-receptor antagonists
+-  UTI w/ highly alkaline urine: *Proteus mirabilis*
+-  Phimosis: foreskin cannot be retracted over the glans
+-  Complicated UTI:
+    -  First episode of acute cystitis in a sexually active 20 year old female.
+	  -  *Acute pyelonephritis with fever in a 20 year old female.*
+	  -  Urethritis in a 25 year old man who does not practice safe sex
+	  -  Asymptomatic bacteriuria found on routine testing in a pregnant female
+	  -  Bacteriuria associated with an indwelling catheter in a patient with neurogenic bladder
+-  Lifetime prevalence of UTI in women: 50%
+-  Trabeculation of bladder wall is hypertrophy
+-  Medication associated with acute urinary retention: decongestant
+
+# Random
+
+## Targets of immune-mediated renal disease
+
+-  Normal constituents of the glomerulus (e.g. Goodpastures syndrome; type II hypersensitivity)
+-  Non-renal self antigens localised in globermuli => immune attack (e.g. SLE)
+-  Exogenous antigens that localise in glomerular capillaries (e.g. PSGN)
+
+# Main case
+
+## Trigger 1
+
+Allopurinol: xanthine oxidase inhibitor that reduces uric acid in the blood (treatment against gout)
+
+What can cause urine to be red?
+
+-  Blood (haemoglobin): test using urine microscopy/urinalysis = {ketones, villirubin / microscopy looks at RBCs, WBCs, epithelial cells {suggestive of non-midstream catch:not clean sample)} or urine dipstick test {protein (kidney disesae), pH, RBCs, leukocytes (WBCs), ketones(Diabetic Ketoacidosis; ketosis), specific gravity (osmolites/electrolytes in the urine), glucose (diabetes), bilirubin (cholestasis [nothing moving from gallbladder => spill into bloodstream]), nitrites (bacterial waste products)}
+-  Beetroot/foods
+-  Dehydration
+-  Drugs/medications
+-  Myoglobin
+-  Menstruation
+-  Porphyrins
+-  Urobulinogen
+-  Cholestasis: bile duct obstruction so it goes through the river (also has pale stools)
+
+Haematuria: could be non disease cause such as trauma or exercise induced haematuria. >10E6/L is the defn cut-off.
+
+Blood most likely to come from (trauma anywhere):
+
+-  Glomerulus: leaky
+-  Renal pelvis: due to calculi formation and trauma
+-  Ureter: not so much as not very vascular
+-  Bladder: cystitis, malignancy
+-  Urethra: STDs (chlamydia clear discharge, gonorrhoea is purulent)
+
+Pathological processes that can underlie haematuria:
+
+-  Inflammation
+-  Trauma
+-  Infection
+-  Malignancy
+-  Vasculopathy
+-  Autoimmune processes
+-  Obstruction: of any hollow viscous
+-  Necrosis/ischaemia: e.g. renal artery stenosis
+
+Questions to ask
+
+-  If pain => SOCRATES; ever had before
+-  Fam Hx
+-  Falls/trauma
+-  Sexual Hx
+-  Ever had before
+-  Fam Hx
+
+## Trigger 2
+
+Triage: sick/unwell/well: briefly check red flags $\rightarrow$ send for some Ix
+
+Focussed Ex: goes straight to the point/PC and deals with the less urgent stuff later, saves time
+
+Hypertension $\rightarrow$ Hypertensive nephropathy (direct). More common is hypertension * (indirect) glomerular disease $\rightarrow$ haemoturia
+
+Fenestrations in the foot processes of the podocytes. Allows small stuff and +ve ions.
+
+DDx:
+
+-  IgA nephropathy
+-  Malignancy
+-  Kidney stones
+-  Infections
+-  Trauma
+-  Glomerulonephritis: glomerular disease
+-  Coagulopathy such as haemophilia
+
+Largest issue with low EGFR is hyperkalaemia: cardiac arrhythmias + death
+
+Ix:
+
+-  CHEM20: electrolytes, kidney, liver fn
+-  Ultrasound KUB = {kidney, ureter, bladder}: see obstruction, fluid
+    -  Contrast CT KUB is the only thing that shows about stones
+-  Urinalysis
+-  Urine cytology = looking for cells in urine
+
+## Trigger 3
+
+Membranous glomerulonephritis: common from Hep C
+
+Dysmorphic red cells: have gone through the collecting tubules. Red cell casts: gone through the tubules  
+Are pathognomic of glomerular disease (blood not coming from UTI or kidney stones)
+
+Further Ix:
+
+-  24h urine collection
+-  Cystoscopy: puts camera into bladder, can argue against stones in the bladder, transitional cell carcinoma,...
+
+## Trigger 4
+
+Glomerulonephritis screen:
+
+-  AMA: against autoimmune disease
+-  dsDNA
+-  Anti DNAase B: used as a screen for post infectious GN
+-  Non nuclear auto-antibodies: Hep B, Hep C, and HIV
+-  C3 C4 complement: found in post-infectious GN
+-  ANCA: anti nuclear cytoplasm antibody
+-  Anti-glomerular basement membrane: important for collagen disease
+
+| Nephritic syndrome | Nephrotic syndrome |
+| ------------------------ | --------------------------- |
+| Blood in urine (RBC casts or dysmorphic cells) | Proteinuria >3.5g/24h |
+| PHAROH = {proteinuria, haematuria, azotaemia, RBC casts (dysmorphic), oliguria, hypertension} | Proteinuria +++, hyperlipidaemia|
+| Glomerulonephritis often a cause | ??? |
+
+## Takeaways
+
+-  Nephritic: PHAROH
+-  Nephrotic: 3.5g/24h proteinuria AND oedema due to loss of hypoalbuminaemia. Children show it in the face.
+
+Another way to look at it: glomerulonephropathies
+
+-  Proliferative: too many cells (pink and purple) in glomerulus
+-  Non-proliferative:
+
+Biopsy look at it
+
+-  H&E + microscopy
+-  Immunofluorescence:
+    -  Anti-GBM disease: the whole thing is lit up almost ribbon like
+    -  IgA nephropathy: granular so lots of focal deposits
+-  Electron microscopy
+
+Focal vs segmental
+
+-  Focal: whole glomerulus or part of glomerulus
+-  Segmental: whole kidney, or just a part of a kidney
+
+Watch the wikipedia [IgA nephropathy video](https://open.osmosis.org/). Tl;dr it is abnormally glycosylated IgA1 (malformed), don't get broken down and deposit in sites of filtration. Furthermore not recognised as self; breakdown in tolerance; immune complex deposition in mesangium. Immune response causes glomerular damage.
+
+# Short case 1
+
+## Trigger 1`
+
+Glomerulonapathies:
+
+-  Renal cause CVS: Decrease GFR => fluid retention => overloading the heart
+-  CVS causing renal: vasculitis/renal artery stenosis => kidney failure => fluid retention => overloading the heart
+
+Considering the timeframe: more like to have started a while ago and become protein ++++ in the past month.
+
+Foamy protein = {proteins (such as albumin), increased force of urine, dehydration}
+
+Glomerular damage => breach in the filtration system => heavy proteinuria.
+
+Ultrasound KUB: doesn't say much about renal vasculature but looks at flow in ultrasound. Doppler shows blood flow through renal arteries.
+
+Ix:
+
+-  Urinalysis
+-  24h urine collection: to see if it is actualyl nephrotic syndrome (by defn)
+-  Bloods = {FBC, CRP, CHEM20, ddimer, lipid profile as }
+-  Ultrasound KUB
+-  Doppler ultrasound
+
+UEC = urea, electrolytes, creatinine (EGFR)
+
+UEG = UEC + glucose
+
+LFTs = albumin
+
+If need both LFTs and UEC then use CHEM20
+
+## Trigger 2
+
+DVT and kidney fn: nephrotic syndrome => losing proteins such as clotting factors (loses anti-thrombotic, loses pro-thrombotic but loses more anti-thrombotic due to the number?!) => hypercoagulable state
+
+Hypertensive and kidney fn: decreased oncotic pressure
+
+3 most common nephropathies for nephrotic syndrome
+
+-  minimal change (children; bowmans space epithelial cells loses its negative charge, so not much morphological change)
+-  Membranous glomerulonephritis:
+-  Focal segmental glomerulosclerosis (FSGS):
+
+## Trigger 3
+
+Creatine clearance formula = Cockcroft-Gault Equation. Important as some drugs such as gentamicin have narrow therapeutic index.
+
+Renal disease staging
+
+1.  Normal eGFR, abno ultrasound
+2.  eGFR > 60
+3.  eGFR > 30
+    a.  eGFR > 45
+    b.  eGFR < 45
+4.  eGFR > 15
+5.  ESKD when eGFR < 15
+
+Prognosis if you have no idea: young male, no comorbidities, proteinuria is alright
+
+# Short case 2
+
+## Trigger 1
+
+-  Bilirubin breakdown clogged in liver, to avoid toxicity, body sends it ou bound to plasma in the urine (dark urine)
+-  Assessing hydration status in children: mucous secretions, cap refill (centrally; push on chest 5s and see it refills in 2s)
+-  Active urinary sedimen = {red cell casts, dysmorphic red cells}
+-  GS = goodpastures syndrome
+-  Henoch-Schonlein Purpura (HSP) = {Palpable purpura, abdo pain, arthralgia}
+
+## Trigger 2
+
+Hypertensive suggests renal disease.  
+
+Lymph nodes
+
+-  Tender lymph node = infn/inflamm.
+-  Non-tender lymph nodes = probs malignancy
+
+Hypertension
+
+-  Renal artery stenosis
+-  Cushings
+-  Renal disease
+-  Malignancy: paraneoplastic effects (Conns, phaeochromocytoma)
+
+Post infectious GN: circulating immune complexes form and clog up the glomeruli => inflamm response => damaged glomerular tufts => nephritic syndrome
+
+-  Type III due to immune complex
+
+Dysmorphic red cells pathognomic of glomerular disease
