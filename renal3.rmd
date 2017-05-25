@@ -5,15 +5,13 @@ date: "`r format(Sys.Date(), '%d %B %Y')`"
 output: pdf_document
 ---
 
-Path
-
-
+# Readings
 
 Dx of CKD requires:
 
 -  Decline of kidney function for 3 months or more \textbf{AND}
--  Evidence of kidney damage (e.g. albuminuria or abnormal biopsy) textbf{OR}
--  GFR <60 mL/min/1.73 m2
+-  Evidence of kidney damage (e.g. albuminuria or abnormal biopsy) \textbf{OR}
+-  GFR <60 mL/min/1.73 m^2^
 
 Staging CKD
 
@@ -22,3 +20,49 @@ Staging CKD
 -  Stage 3: Moderate reduction in GFR (30-59 mL/min/1.73 m2)
 -  Stage 4: Severe reduction in GFR (15-29 mL/min/1.73 m2)
 -  Stage 5: Kidney failure (GFR <15 mL/min/1.73 m2 or dialysis)
+
+See Dan's autoregulation of kidney [GIFT](https://drive.google.com/drive/folders/0B0QeJC_rDeMIYjZMU2VfQVR2RU0) 
+
+# Main case
+
+**Attach the image from the whiteboard**
+
+High anion gap is an indicator for metabolic acidosis. 
+
+Parenteral replacement is $\neg$oral (avoiding enteric system).
+
+Hypocalcaemia $\rightarrow$ hyperPTH and hypophosphataemia + hyperphosphaturia (lack of PO4 reabsorption in the nephrons).
+
+# Short case 1
+
+## Trigger 1
+
+35M presenting with increasing lethargy and weight loss. No fevers, night sweats, or pain.
+
+Past Hx: 12 years old Dx with T1D.
+
+Pathophysiology of diabetic nephropathy: glycosylation of basement membrane => leaky => proteins flow out => thickening of arteriole (mainly efferent) [vasoconstriction] => decreases blood flow to peritubular capillaries => they start dying.
+
+-  ACEi dilate efferent which renoprotects against this efferent constriction at the cost of decreased GFR
+-  Scarring due to HTN, glomerulopathy usually leads to atrophy due to fibrosis and it shrivels up, whereas due to diabetes has normal sized kidneys: sugar gets deposited in the kidney with sugar crystals and glycosylation (shit kidneys, low GFR, normal sized)
+
+Presentation for CKD does not have obvious symptoms. 
+
+## Trigger 2
+
+Antimicrobials
+
+-  Co-trimoxazole = trimethoprim + sulphamexazole (folic acid inhibitors at different parts in the pathway; synergistic). General prophylaxis against bacteria. Good against gram(+) such as Staph.
+-  Valganciclovir = antiviral. Targeting CMV
+-  Amphotericin lozenges = antifungal
+
+HLA-DR3,4 is *extremely* common with T1D. 
+
+Mechanisms of rejection
+
+1.  HLA incompatibility
+2.  ABO: blood type
+3.  Rh: rhesus factor
+4.  Cross-matching: check if recipient has any miscellaneous antibodies (anti-{Kell, Duffy, White} are some common ones)
+
+
