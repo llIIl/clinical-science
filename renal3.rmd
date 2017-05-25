@@ -65,4 +65,51 @@ Mechanisms of rejection
 3.  Rh: rhesus factor
 4.  Cross-matching: check if recipient has any miscellaneous antibodies (anti-{Kell, Duffy, White} are some common ones)
 
+Immunosuppresive agents:
 
+-  Calcineurin inhibitors: tacrolimus and cyclosporin act and prevent IL-2 formation => no T cells
+-  Antimetabolites: mycophenalate prevent B and T lymphocyte production
+-  IL-2 R antag: basilixamab
+
+Side effects: opportunistic infections, cushings, malignancy, osteoporosis (w/ glucocorticoids)
+
+# Short case 2
+
+## Trigger 1
+
+42M severe right flank pain and is now all the way to his groin. Pain is coming in waves and came in 1 hour ago. 
+
+DDx: renal colic caused by kidney stones (aka nephrolithiasis), biliary colic (gall stones biliary tree), pyelonephritis, PKD => cyst rupture, (Female can be ovarian stuff), renal capsule stretched, malignancy
+
+Colicky pain in hollow viscous with peristalsis.
+
+Pain radiation: referred pain due to nerves such as iliohypogastric
+
+Pathophysiology of HTN: build up of fluid => Down GFR => RAAS to increase BP. HTN is a risk factor for kidney stones 
+
+Ix to order:
+
+-  Xray KUB: Ca stones (80-90%) are visible since it is a metal
+-  Ultrasound KUB: visualise hydronephrosis (swollen proximal ureter and thin distal ureter) due to an obstruction, can see calcification, see if kidney is swollen, bladder = {stones in there?, vesicoureteral junction reflux}
+-  CT KUB: if ultrasound is not diagnostic
+-  CHEM20 can view the PO4, Ca2+, Mg2+, uric acid  which may cause the stone | measure eGFR which can indicate for surgery
+-  Urine MCS: bacteriuria, casts/dysmorphic red cells, pyelonephritis, septic cause, maybe see crystals (oxalate)
+-  FBC: white cells can indicate pyelonephritis
+-  Urinalysis: proteinuria or haematuria, nitrites pathognomic of UTI (which includes pyelonephritis)
+
+## Trigger 2
+
+Kidney stones often made up of: Ca, oxlate, NH4+, PO4, cysteine, nitrogen compounds
+
+Risk factors urolithiasis: Hx of gout, foods high in oxalate (beetroot, strawberries), alkaline urine (risk for uric acid stones), diabetes, immobility (stasis; such as from obstructive disease like **PKD**), males, fam Hx, drugs, dehydration
+
+Stones can lead to infection, hydronephrosis, decreased GFR, AKI => CKD, shitload of pain, rupture of ureter
+
+Lifestyle Mx: hydration, change diet (less of some shit, less beer), exercise
+
+Tx:
+
+-  Medical: lithotripsy can break the stone down if it is small enough (<2mm), alpha blockers or CCB (?!; is possible)
+-  Surgery: urological surgery (by putting a stent in and allowing it to pass through
+
+Key factor: if the stone is >10mm then operation. Not then try medical treatment
