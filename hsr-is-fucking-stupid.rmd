@@ -1,0 +1,92 @@
+---
+title: "MEDI7101 Individual Assigment"
+author: "Aaron Khoo | 43577367 "
+date: "27 May 2017"
+output: pdf_document
+---
+
+ATSI controlled health organisations vs private GP
+
+-  Similarities
+-  DIfferences
+-  DIscuss differences, explore why they exist, impact,
+
+Aboriginal community controlled health service (ACCHS) sector
+
+#  Health service delivery
+
+Delivery model={ usually private care
+
+Some deliver specialised stuff e.g. skin care gp
+
+GPs usually reactive models
+
+Multidisciplinary: physio, nutricianists, dieticians to imrpvoe service delivery. Limited number of agencies use this
+
+Private practices can subsidise mental health nurse from state and federal gov.
+
+Subsidises vaccinations provided reach criteria for state gov
+
+## Safety and quality
+
+set outside the practise: accreditation sets up this
+
+## demand for care
+
+
+Abos: up to 70s no specific community controlled services. Driven by community with community board structures. Only white medical staff, limited abo nurses|doctors. Demand for abo care not delivered by the state. 
+
+Universal health coverage cover 3 elements: universality/populations (which popns covered: medicare doesn't cover asylum seekers/refugees/visitors | many abos due to lack of documentation have not been recognised in far north qld. Changing to proactive model and pushing for abos to become clients) ||| Financial risk:freezing of medicare gap 
+
+Deadly choices:wells person check
+
+#  Health workforce
+
+Available: are staff there when they're needed. 
+
+Health staff feelign superior to pt?! Major driver of abos going to ACHSS is that other places treat them with disrespect/racism. *Responsiveness*. 
+
+ACCHS hjave dynamic workforce too: staff then transition elsewhere, or come in from overseas. 
+
+Need to register to database.
+
+ACCHSs workforce devn
+
+#  Health information and research
+
+Systems to the cloud, linkage between labs, and gps. Have to make use of this info at the practice level.
+
+GP: clinical data
+
+GPs tend to deal one to one basis diff to community controlled which is interested in the whole abo population. ACCHSs trying to target social determinants of health just starting to use thsi information.
+
+Social determinants of health poorly recorded such as employment, family status, accomodation.
+
+#  Medical products and technologies
+
+Seems to refer to national level. 
+
+In aus most of these decisions are made at commonwealth level ensuring quality, pbs ensures availability. Procurement isn't really an issue. New products are the issue: new products extremely expensive such as cancer drugs. Equitable access?! ACCHSs seek to cover gap so there is no financial disincentive for pt with healthcare card as they have to cover gap. 
+
+
+
+#  Healthcare financing
+
+Seems to refer to national level. Try to eliminate possibility that family pushed into financial hardship due to medical issues. 
+
+Medicare system good for both. Medicare returns. Mental health reimbursements, cervical smears
+
+GP funding driven by small business models usually, some being bought up by big GP.
+
+ACCHSs funding is tougher. Requires pt to be registed with medicare to get reimbursed but many abos are NOT registered. More exaggerated risk as people trained in smoking cessation will have trouble transitioning as commonwealth funding for this project dries up. Dentistry available which isn;t for GP.
+
+#  Leadership and governance
+
+GPs now run as networks as they are being bought up by conglomerates. Policy comes from top (commonwealth, state) and also comes from how services are run. 
+
+ACCHSs have clear formal and informal ways of doing things which are different. Accountability is also clearly different, 
+
+ACCHS more community represented
+
+GPs don't have much info of individual pt, not a strong way of analysing data (hospital, demographic). Continuity of care represents single individual || ACCHSs deal with population as a whole. Some potential clients are already happy with GP, but there is much of the population that does not have adequate medical contact.
+
