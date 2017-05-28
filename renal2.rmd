@@ -37,11 +37,11 @@ Complications
 -  Resp: goodpastures, granlomatosis, sarcoidosis
 -  GIT: nausea, anorexia, vomiting, uraemia?!, gastric bleeding, pacnreatitis, jaundice, hepatitis
 
-Pathophysiology: tl;dr glomerular filtration depends on pressure gradient from glomerulus to bowman space.  
-Main determinant is renal blood flow (RBF). Reductions in RBF no matter the cause of AKI are a common pathological pathway for $\Downarrow$GFR. Prerenal = compromised renal perfusion. Intrinsic = usually glomerulus or tubule; ischaemic injury is the most common cause. Obstruction = increase in tubulur pressure decreases filtration driving force. This gradient equalises and renel efferent vasoconstriction. Depressed RBF leads to ischaemia and cell death. Inflammation comes in and cell injury occurs even after restoration. During this time tubular cell damage fucks up tight junctions => leakage of glom filtrate + dyaing cells enter tubules forming casts => decrease in GFR => oliguria.
+Pathophysiology: tl;dr glomerular filtration depends on pressure gradient from glomerulus to bowmans space.  
+Main determinant is renal blood flow (RBF). Reductions in RBF no matter the cause of AKI are a common pathological pathway for $\Downarrow$GFR. Prerenal = compromised renal perfusion. Intrinsic = usually glomerulus or tubule; ischaemic injury is the most common cause. Obstruction = increase in tubulur pressure decreases filtration driving force. This gradient equalises and renel efferent vasoconstriction. Depressed RBF leads to ischaemia and cell death. Inflammation comes in and cell injury occurs even after restoration. During this time tubular cell damage fucks up tight junctions $\rightarrow$ leakage of glom filtrate + dying cells enter tubules forming casts $\rightarrow$ decrease in GFR $\rightarrow$ oliguria.
 
 Restoration of RBF  
-Early RBF recovery has better prognosis. Once it is restored remaining nephrons increase filtration and hypertrophy, however if not enough nephrons left then these sclerose => more nephron loss. Hyperfiltration theory of renal failure: as nephrons die then puts more pressure on the rest which are then more prone to dying.
+Early RBF recovery has better prognosis. Once it is restored remaining nephrons increase filtration and hypertrophy, however if not enough nephrons left then these sclerose $\rightarrow$ more nephron loss. Hyperfiltration theory of renal failure: as nephrons die then puts more pressure on the rest which are then more prone to dying.
 
 # Path: revision
 
@@ -49,7 +49,7 @@ Lack of oxygen to myocardial cells lead to myocardial infarction (cell death), w
 
 ## Pot 1
 
-Hypertension is a pre-disposing factor for => hypertrophy of wall => MI => blood leaking => cardiac tamponade
+Hypertension is a pre-disposing factor for $\rightarrow$ hypertrophy of wall $\rightarrow$ MI $\rightarrow$ blood leaking $\rightarrow$ cardiac tamponade
 
 Histo: normal part can see nuclei in the myocardial cells. Infarcted area (no nuclei, can make out the cell; coagulative): blue stuff is neutrophil infiltrate and red stuff = RBCs (congestion). 1-2 weeks: fibroblasts come in; granulation tissue = {fibroblasts, new vessels, macrophages, xxxxxxx}.
 
@@ -77,8 +77,7 @@ MI outcomes:
 -  Cardiac tamponade
 -  Arrhythmias
 -  Ventricular aneurysms
--   df
-
+-  df
 
 ## Pot 2
 
@@ -88,27 +87,27 @@ Further history taking reveals that she had rheumatic fever as a child. RHD has 
 
 Urgent investigations are carried out including a chest Xray.  Unfortunately she dies soon after these are taken.
 
-Vegetations on heart valve - Rheumatic fever (acute immunologically mediated multisystem inflammatory disease that occurs a few weeks following an episode of group A Strep pharyngitis) leads to acute chronic rheumatic heart disease, which leads to chronic RHD (mitral stenosis commonest lesion) – fibrotic valvular disease – Left atrium dilates – congestion of lungs – Right ventricular hypertrophy (boot shaped heart) – dental extraction – infective endocarditis (bulky friable vegetations composed of thrombotic debris and organisma) – septicaemia and death.
+Vegetations on heart valve $\rightarrow$ Rheumatic fever (acute immunologically mediated multisystem inflammatory disease that occurs a few weeks following an episode of group A Strep pharyngitis) leads to acute chronic rheumatic heart disease, which leads to chronic RHD (mitral stenosis commonest lesion) – fibrotic valvular disease $\rightarrow$  Left atrium dilates $\rightarrow$ congestion of lungs $\rightarrow$ Right ventricular hypertrophy (boot shaped heart) $\rightarrow$ dental extraction $\rightarrow$ infective endocarditis (bulky friable vegetations composed of thrombotic debris and organisma) $\rightarrow$ septicaemia and death.
 
 RVH leads to the boot shaped heart in the CXR.
 
 In regards to Non-infective endocarditis; deposition of small masses of fibrin, platelets and other blood components form on valve leaflets. The lesions are sterile.
 
-It is usually seen in debilitated patients eg. Cancer, where there is a hypercoaguable state which leads to ‘marantic vegetations’.
+It is usually seen in debilitated patients eg. Cancer, where there is a hypercoaguable state which leads to 'marantic vegetations'.
 
 ## Pot 3
 
 Restrictive lung diseases: FEV1 and FVC both fall so no change in the ratio. Would be caused by secretion of fibrogenic cytokines by macrophages.
 
-Smoking => emphysema => centriacinar (not hereditary). $\alpha_{1}$-anti-trypsin would cause pan acinar
+Smoking $\rightarrow$ emphysema $\rightarrow$ centriacinar (not hereditary). $\alpha_{1}$-anti-trypsin would cause pan acinar
 
-CXR: Flattening of the diaphragm => lung spaces have enalarged. Heart looks tubular (narrowing)
+CXR: Flattening of the diaphragm $\rightarrow$ lung spaces have enalarged. Heart looks tubular (narrowing)
 
 The loss of alveolar surface area due to emphysema makes it difficult for the patient to take in sufficient oxygen and excrete carbon dioxide at a sufficient rate. Since both the terminal bronchioles and alveoli along with the capillary bed have been destroyed, a matched defect exists between the ventilation and perfusion; areas of low ventilation also have poor perfusion.
 
-Despite the “matched” V/Q defect, overtime hyperventilation develops and cardiac output (CO) drops which leads to areas of poor blood flow in relatively well oxygenated areas. Due to this poor CO, the rest of the body suffers from tissue hypoxia.
+Despite the 'matched' V/Q defect, overtime hyperventilation develops and cardiac output (CO) drops which leads to areas of poor blood flow in relatively well oxygenated areas. Due to this poor CO, the rest of the body suffers from tissue hypoxia.
 
-Pathogenesis of RHF: Matched V/Q defect --> Overtime hyperventilation develops --> Cardiac output drops --> Hypoxaemia --> Tissue hypoxia (this may cause polycythaemia)  and Increased CO2 retention (this may cause respiratory acidosis) --> Arterial vasoconstriction in lungs --> pulmonary hypertension --> Retrograde pressure build-up --> Elevated right ventricular pressure --> right ventricular hypertrophy --> right ventricular failure (Cor pulmonale)
+Pathogenesis of RHF: Matched V/Q defect $\rightarrow$ Overtime hyperventilation develops $\rightarrow$ Cardiac output drops $\rightarrow$ Hypoxaemia $\rightarrow$ Tissue hypoxia (this may cause polycythaemia)  and Increased CO2 retention (this may cause respiratory acidosis) $\rightarrow$ Arterial vasoconstriction in lungs $\rightarrow$ pulmonary hypertension $\rightarrow$ Retrograde pressure build-up $\rightarrow$ Elevated right ventricular pressure $\rightarrow$ right ventricular hypertrophy $\rightarrow$ right ventricular failure (Cor pulmonale)
 
 ## Pot 4
 
@@ -120,20 +119,18 @@ Abscess formation, empyema, septicemia, bronchiectasis.
 
 ## Pot 5
 
-This x-ray shows a coin lesion in the right upper lobe.a
+This x-ray shows a coin lesion in the right upper lobe.
 
-Hamartoma: excess tissue in a normal location
-
-Choristoma: excess tissue in an abnormal location.
-
+-  Hamartoma: excess tissue in a normal location
+-  Choristoma: excess tissue in an abnormal location.
 
 ## Pot 6
 
- cavitating lesion
+cavitating lesion
 
 Abscess vs cavity
 
--  Abcsess is an area of necrosis that is well sealed
+-  Abscess is an area of necrosis that is well sealed
 -  Cavity: leaves behind a hole
 
 # Quiz
@@ -142,13 +139,13 @@ Abscess vs cavity
 
 ## Trigger 1
 
-22F, fell from horse 1:45h ago, at rural hospital. Closed (within the skin; open means it breaks the skin and ready for osteomyolitis) spiral fracture of the 1/3 mid femur: neurovascular compromise suspected (scared of haematoma => compartment syndrome). Diastysis of pelvic symphysis. No haemoperitoneum. Circulating blood volume depletion estimated at 2L. Central venous line (so can pump lots in) and urinary catheter (measure urine output).
+22F, fell from horse 1:45h ago, at rural hospital. Closed (within the skin; open means it breaks the skin and ready for osteomyolitis) spiral fracture of the 1/3 mid femur: neurovascular compromise suspected (scared of haematoma $\rightarrow$ compartment syndrome). Diastysis of pelvic symphysis. No haemoperitoneum. Circulating blood volume depletion estimated at 2L. Central venous line (so can pump lots in) and urinary catheter (measure urine output).
 
 Post-renal: stricture (narrowing), fistula
 
-$\0.5mL/kg/hr$ is the bare \textit{minimum} urine output.
+$0.5mL/kg/hr$ is the bare *minimum* urine output.
 
-If the vasa recta are not perfused adequately => ischaemia of the tubules => necrosis. It does not have a compensatory mechanism so if perfusion drops then it just cannot perfuse the tubular cells.
+If the vasa recta are not perfused adequately $\rightarrow$ ischaemia of the tubules $\rightarrow$ necrosis. It does not have a compensatory mechanism so if perfusion drops then it just cannot perfuse the tubular cells.
 
 Ix: renal challenge: give a bolus of fluid, and examine if urine output increases. If so then it would be due to hypoperfusion.
 
@@ -167,7 +164,7 @@ Hydration status can be quantified by % volume loss.
 
 Issues with kidney damage
 
--  Hyperkalaemia => ECG ASAP
+-  Hyperkalaemia $\rightarrow$ ECG ASAP
 -  Uraemia (increase in urea)
 
 Ix to order:
@@ -256,8 +253,7 @@ Ix extra to order:
 
 Nephrotic syndrome means glomerulus is defective.
 
-Cystinosis => cysteine build up in proximal tubules => they start failing => lose electrolytes => Fanconi syndrome => decreased phosphate => decreased Ca absorption => rickles
-
+Cystinosis $\rightarrow$ cysteine build up in proximal tubules $\rightarrow$ they start failing $\rightarrow$ lose electrolytes $\rightarrow$ Fanconi syndrome $\rightarrow$ decreased phosphate $\rightarrow$ decreased Ca absorption $\rightarrow$ rickles
 
 # Short case 2
 
@@ -276,7 +272,7 @@ DDx for flank pain:
 -  Kidney: pyelonephritis, tumour, trauma
 -  Appendix: appendicitis
 -  MSK: trauma, unlikely for haematuria
--  GIT: diverticulitis (diverticulum gets infected),  
+-  GIT: diverticulitis (diverticulum gets infected)
 -  Fistula
 -  Could be referred pain (bladder: cystitis) that goes to kidneys
 
@@ -295,7 +291,7 @@ Mx: if pain is rated >7 then give opiates. Usually give paracetemol + NSAID.
 
 Dx: polycystic kidney disease. Requirements for Dx: a combination of fam Hx + cysts identified.
 
-PKD usually presents with pain and haematuria. Usually also have hypertension (due to fluid retention + activation of RAAS) and diastolic BP would increase. It causes stasis => kidney stone formation.
+PKD usually presents with pain and haematuria. Usually also have hypertension (due to fluid retention + activation of RAAS) and diastolic BP would increase. It causes stasis $\rightarrow$ kidney stone formation.
 
 Types
 
