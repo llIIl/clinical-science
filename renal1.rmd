@@ -7,7 +7,14 @@ output: pdf_document
 
 # Glomerulonephritis
 
-3 cell populations in glomerulus = {endothelial, mesangial cells, epithelial cells (foot processes and parietal), } + 2 structural units = {basement membrane, mesangium}
+3 cell populations in glomerulus = {endothelial, mesangial cells, epithelial cells (foot processes and parietal)} + 2 structural units = {basement membrane, mesangium}
+
+Proliferative:
+
+-  Endothelial cells: Post infectious GN
+-  Mesangial cells: IgA nephropathy
+-  Parietal epithelial cells (lining bowmans capsule): crescentic GN (RPGN + nephritic syndrome)
+-  GBM: Anti-GBM autoimmune response against Type IV collagen
 
 Everything except for podocyte can regenerate
 
@@ -34,7 +41,7 @@ Everything except for podocyte can regenerate
 ## Targets of immune-mediated renal disease
 
 -  Normal constituents of the glomerulus (e.g. Goodpastures syndrome; type II hypersensitivity)
--  Non-renal self antigens localised in globermuli => immune attack (e.g. SLE)
+-  Non-renal self antigens localised in globermuli $\rightarrow$ immune attack (e.g. SLE)
 -  Exogenous antigens that localise in glomerular capillaries (e.g. PSGN)
 
 # Main case
@@ -45,7 +52,7 @@ Allopurinol: xanthine oxidase inhibitor that reduces uric acid in the blood (tre
 
 What can cause urine to be red?
 
--  Blood (haemoglobin): test using urine microscopy/urinalysis = {ketones, villirubin / microscopy looks at RBCs, WBCs, epithelial cells {suggestive of non-midstream catch:not clean sample)} or urine dipstick test {protein (kidney disesae), pH, RBCs, leukocytes (WBCs), ketones(Diabetic Ketoacidosis; ketosis), specific gravity (osmolites/electrolytes in the urine), glucose (diabetes), bilirubin (cholestasis [nothing moving from gallbladder => spill into bloodstream]), nitrites (bacterial waste products)}
+-  Blood (haemoglobin): test using urine microscopy/urinalysis = {ketones, villirubin / microscopy looks at RBCs, WBCs, epithelial cells {suggestive of non-midstream catch:not clean sample)} or urine dipstick test {protein (kidney disesae), pH, RBCs, leukocytes (WBCs), ketones(Diabetic Ketoacidosis; ketosis), specific gravity (osmolites/electrolytes in the urine), glucose (diabetes), bilirubin (cholestasis [nothing moving from gallbladder $\rightarrow$ spill into bloodstream]), nitrites (bacterial waste products)}
 -  Beetroot/foods
 -  Dehydration
 -  Drugs/medications
@@ -78,7 +85,7 @@ Pathological processes that can underlie haematuria:
 
 Questions to ask
 
--  If pain => SOCRATES; ever had before
+-  If pain $\rightarrow$ SOCRATES; ever had before
 -  Fam Hx
 -  Falls/trauma
 -  Sexual Hx
@@ -172,18 +179,18 @@ Watch the wikipedia [IgA nephropathy video](https://open.osmosis.org/). Tl;dr it
 
 # Short case 1
 
-## Trigger 1`
+## Trigger 1
 
-Glomerulonapathies:
+Glomerulopathies:
 
--  Renal cause CVS: Decrease GFR => fluid retention => overloading the heart
--  CVS causing renal: vasculitis/renal artery stenosis => kidney failure => fluid retention => overloading the heart
+-  Renal cause CVS: Decrease GFR $\rightarrow$ fluid retention $\rightarrow$ overloading the heart
+-  CVS causing renal: vasculitis/renal artery stenosis $\rightarrow$ kidney failure $\rightarrow$ fluid retention $\rightarrow$ overloading the heart
 
 Considering the timeframe: more like to have started a while ago and become protein ++++ in the past month.
 
 Foamy protein = {proteins (such as albumin), increased force of urine, dehydration}
 
-Glomerular damage => breach in the filtration system => heavy proteinuria.
+Glomerular damage $\rightarrow$ breach in the filtration system $\rightarrow$ heavy proteinuria.
 
 Ultrasound KUB: doesn't say much about renal vasculature but looks at flow in ultrasound. Doppler shows blood flow through renal arteries.
 
@@ -205,15 +212,16 @@ If need both LFTs and UEC then use CHEM20
 
 ## Trigger 2
 
-DVT and kidney fn: nephrotic syndrome => losing proteins such as clotting factors (loses anti-thrombotic, loses pro-thrombotic but loses more anti-thrombotic due to the number?!) => hypercoagulable state
+Hyperlipidaemia: lose proteins $\rightarrow$ liver detects this and compensates by producing more apolipoproteins/cholesterol  
+DVT and kidney fn: nephrotic syndrome $\rightarrow$ losing proteins such as clotting factors (loses anti-thrombotic, loses pro-thrombotic but loses more anti-thrombotic due to the number?!) $\rightarrow$ hypercoagulable state (antithrombin-3 mentioned in path tute)
 
 Hypertensive and kidney fn: decreased oncotic pressure
 
-3 most common nephropathies for nephrotic syndrome
+3 most common GN for nephrotic syndrome
 
 -  minimal change (children; bowmans space epithelial cells loses its negative charge, so not much morphological change)
 -  Membranous glomerulonephritis:
--  Focal segmental glomerulosclerosis (FSGS):
+-  Focal segmental glomerulosclerosis (FSGS): adults
 
 ## Trigger 3
 
@@ -257,7 +265,7 @@ Hypertension
 -  Renal disease
 -  Malignancy: paraneoplastic effects (Conns, phaeochromocytoma)
 
-Post infectious GN: circulating immune complexes form and clog up the glomeruli => inflamm response => damaged glomerular tufts => nephritic syndrome
+Post infectious GN: circulating immune complexes form and clog up the glomeruli $\rightarrow$ inflamm response $\rightarrow$ damaged glomerular tufts $\rightarrow$ nephritic syndrome
 
 -  Type III due to immune complex
 
