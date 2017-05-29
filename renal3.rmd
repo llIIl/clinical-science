@@ -5,6 +5,11 @@ date: "`r format(Sys.Date(), '%d %B %Y')`"
 output: pdf_document
 ---
 
+```{r setup, include=FALSE}
+setwd("~/Documents/uni_work/4_sem_1/7111/lectures/15_renal_iii/readings")
+```
+
+
 # Readings
 
 Dx of CKD requires:
@@ -21,11 +26,24 @@ Staging CKD
 -  Stage 4: Severe reduction in GFR (15-29 mL/min/1.73 m2)
 -  Stage 5: Kidney failure (GFR <15 mL/min/1.73 m2 or dialysis)
 
-See Dan's autoregulation of kidney [GIFT](https://drive.google.com/drive/folders/0B0QeJC_rDeMIYjZMU2VfQVR2RU0) 
+See Dan's autoregulation of kidney [**GIFT**](https://drive.google.com/drive/folders/0B0QeJC_rDeMIYjZMU2VfQVR2RU0) 
+
+# Quiz
+
+-  Which of the following drugs must be used with particular caution in elderly patients with an existing low eGFR? 
+    -  **Aspirin**
+-  Which of the following indicates that kidney failure is chronic rather than acute? 
+    -  Small kidneys
+-  Pathophysiologic mechanism implicated in the development of diabetic nephropathy?
+    -  Glomerulopathy due to glucose toxicity.
+-  Epithelial cells on urine microscopy indicates contamination.
+-  The commonest cause of death in severe chronic kidney disease is
+    -   vascular disease
+-  Greatest contributor to increase in CKD is diabetes mellitus NOT essential HTN/ageing population.
 
 # Main case
 
-**Attach the image from the whiteboard**
+![Was scribe](scibe-is-shit.jpg)
 
 High anion gap is an indicator for metabolic acidosis. 
 
@@ -41,7 +59,7 @@ Hypocalcaemia $\rightarrow$ hyperPTH and hypophosphataemia + hyperphosphaturia (
 
 Past Hx: 12 years old Dx with T1D.
 
-Pathophysiology of diabetic nephropathy: glycosylation of basement membrane => leaky => proteins flow out => thickening of arteriole (mainly efferent) [vasoconstriction] => decreases blood flow to peritubular capillaries => they start dying.
+Pathophysiology of diabetic nephropathy: glycosylation of basement membrane $\rightarrow$ leaky $\rightarrow$ proteins flow out $\rightarrow$ thickening of arteriole (mainly efferent) [vasoconstriction] $\rightarrow$ decreases blood flow to peritubular capillaries $\rightarrow$ they start dying.
 
 -  ACEi dilate efferent which renoprotects against this efferent constriction at the cost of decreased GFR
 -  Scarring due to HTN, glomerulopathy usually leads to atrophy due to fibrosis and it shrivels up, whereas due to diabetes has normal sized kidneys: sugar gets deposited in the kidney with sugar crystals and glycosylation (shit kidneys, low GFR, normal sized)
@@ -67,7 +85,7 @@ Mechanisms of rejection
 
 Immunosuppresive agents:
 
--  Calcineurin inhibitors: tacrolimus and cyclosporin act and prevent IL-2 formation => no T cells
+-  Calcineurin inhibitors: tacrolimus and cyclosporin act and prevent IL-2 formation $\rightarrow$ no T cells
 -  Antimetabolites: mycophenalate prevent B and T lymphocyte production
 -  IL-2 R antag: basilixamab
 
@@ -79,13 +97,13 @@ Side effects: opportunistic infections, cushings, malignancy, osteoporosis (w/ g
 
 42M severe right flank pain and is now all the way to his groin. Pain is coming in waves and came in 1 hour ago. 
 
-DDx: renal colic caused by kidney stones (aka nephrolithiasis), biliary colic (gall stones biliary tree), pyelonephritis, PKD => cyst rupture, (Female can be ovarian stuff), renal capsule stretched, malignancy
+DDx: renal colic caused by kidney stones (aka nephrolithiasis), biliary colic (gall stones biliary tree), pyelonephritis, PKD $\rightarrow$ cyst rupture, (Female can be ovarian stuff), renal capsule stretched, malignancy
 
 Colicky pain in hollow viscous with peristalsis.
 
 Pain radiation: referred pain due to nerves such as iliohypogastric
 
-Pathophysiology of HTN: build up of fluid => Down GFR => RAAS to increase BP. HTN is a risk factor for kidney stones 
+Pathophysiology of HTN: build up of fluid $\rightarrow$ Down GFR $\rightarrow$ RAAS to increase BP. HTN is a risk factor for kidney stones 
 
 Ix to order:
 
@@ -103,7 +121,7 @@ Kidney stones often made up of: Ca, oxlate, NH4+, PO4, cysteine, nitrogen compou
 
 Risk factors urolithiasis: Hx of gout, foods high in oxalate (beetroot, strawberries), alkaline urine (risk for uric acid stones), diabetes, immobility (stasis; such as from obstructive disease like **PKD**), males, fam Hx, drugs, dehydration
 
-Stones can lead to infection, hydronephrosis, decreased GFR, AKI => CKD, shitload of pain, rupture of ureter
+Stones can lead to infection, hydronephrosis, decreased GFR, AKI $\rightarrow$ CKD, shitload of pain, rupture of ureter
 
 Lifestyle Mx: hydration, change diet (less of some shit, less beer), exercise
 
