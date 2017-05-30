@@ -1,0 +1,89 @@
+---
+title: "Renal IV"
+author: "Aaron Khoo"
+date: "`r Sys.Date(format('%d %M %B'))`"
+output: pdf_document
+---
+
+# Main case
+
+## Trigger 1
+
+> ED, 72M severe lower abdo pain, NPU (not passed urine) 1/7, distressed, sweating and very restless.
+
+Sources of pain: urinary bladder, GIT (rectum), prostate, kidney radiating pain, urethra, distal ureter, radiating from gonads, Males: hernia, 
+
+Pathophysiological processes for pain: infn, inflamm, ischaemia, trauma, obstruction (could be benign thing), malignancy, herniation, fistulisation (abnormal connection between 2 epithelialised connections [pierced ears are a fistula]), autoimmune destruction (loss of tolerance)
+
+Nature of the pain: 
+
+-  Somatic vs visceral: things affecting visceral peritoneum would be very sharp due to lots of nerves
+-  Nociceptive (pain due to nociceptors detecting tissue damage. Cna be blocked with NSAIDS, opiods; sharp, burning) vs neuropathic (irritated/diseased nerves e.g. peripheral/autoimmune/diabetic neuropathy or obstructions; described as tingling, burning, pins and needles)
+-  Types of abdo pain: epigastric (foregut), umbilical (midgut), lower abdo (hindgut)?!?!: most likely to be hindgut pain (2/3 of transverse colon and down)
+
+Pathophysiological processes for decreased urine output: obstruction of {urethra, bladder, VUJ, ureter, renal pelvis}, obstruction due to {calculi, tumour (prostate, urothelioma, bladder), thrombus is rare, PKD, extraluminal compression symptoms e.g. from severe constipation}, drugs, hypovolaemia secondary to {dehydration, haemorrhage}, shocks, strictures (narrowing of ureter, urethra; more often congenital but severe UTI), neurological
+
+Mech behind restlessness and sweating: SNS activation, UTI could lead to delirium (acute state that can be resolved by correcting underlying cause). 
+
+Micturition reflex triggered at 400mL: get uncomfortable:
+
+-  Bladder: PS stimulation
+-  Internal sphincter: sympathetic from hypogastric N
+-  External sphincter: somatic
+
+## Trogger 2
+
+> No past Hx of note, no regular meds, bit of a cold recently and has taken some OTC decongestants. Decongestants block $\alpha$-adrenoceptors. Afebrile (suggests against UTI but it could be a trough in his temperature and peak later), hypertensive. He is hypertensive due to pain. 
+
+Risks of cathetirsation: urosepsis (septicaemia due to infection in the genitourinary system)
+
+$V(Urine)$: high is more likely acute obstruction, smaller could be from chronic urinary retention. Bladder can be percussed >150mL, palpable >200mL, acute obstruction V usually <1L, chronic V can be larger as they are desensitised.
+
+Medications interfering with micturition such as NSAIDS, decongestants for URTI
+
+Dipstick provides info about: proteinuria, haematuria, leukocytes, pH, ketones, nitrites, bilirubin. Due to the low sensitivity of urine dipstick we are unable to rule out specific pathologies. Dipstick must be considered in the full clinical context, and further analysis such as urinalysis would be necessary.
+
+## Trigger 3
+
+> Urinary hesitancy, urgency, nocturia, has weak stream. Has had pre-syncopal episode whilst straining to empty bladder. 
+
+Neurogenic bladder: problems with the nervous system causing urinary retention / incontinence. Have to empty this to prevent stasis => infn.
+
+Nocturia: waking up to piss at night. Pathophysiology: BPH, obstruction, polydipsia (hyperdynamic state; diabetes), if kidney can't concentrate urine, irritable bladder. 
+
+Prostate: inferior to bladder and anterior to seminal vesicles. Secretes stuff into the ejaculate. Prostate converts testosterone to DST (by 5-$\alpha$-reductase) which is 5 times more potent making it undergo hyperplasia and enlarge. 
+
+Bladder outlet obstruction anatomical causes: peyronie syndrome, rectum (faeces or tumour) can cause extraluminal compression, lymph nodes could cause commpression, abscess. Natural Hx: infn, VUR, hydronephrosis, bladder rupture.
+
+Clarifying dizziness: distinguishing between:
+
+-  Pre-syncope: feeling like about to lose consciousness; people often sit down. "Feel like you're going to pass out?"
+-  Vertiginous: "feel like the room is spinning around you?"
+
+Mechanism for dizziness when straining to void: increasing abdominal pressure => stimulation of vagal nerve => micturition syncope (emptying large amounts of V from bladder).
+
+Medications associated with micturition problems: NSAIDs, anti-cholinergics (biggest ones as the inhibit the ACh induced PS stimulation; oxybutynin, opiods, anti-depressants, amphetamines (SNS activation))
+
+Need to monitor to prevent him from going into retention and to prevent the urinary bag from going overflowing (prevent AKI and infn).
+
+## Trigger 4
+
+Trabeculated bladder: hypertrophy due to increased resistance (overcoming the obstruction of the enlarged prostate). 
+
+PSA elevation above normal range is significant (even if the real world it may be a really shit test). However the slow rise is reassuring compared to a massive sudden increase. 
+
+Reduced kidney fn: could be due to age, possibly due to HTN. 
+
+## Trigger 5
+
+UTIs: not common in males. Risk factors = urinary stasis. 
+
+Common bacteria are coliforms (from the colon; gram neg rods such as E. coli, Klebsiella)
+
+Symptomatic relief for prostatic hyperplasia:
+
+-  $\alpha$-blockers: prazosin
+-  5-$\alpha$-reductase inhibitors: finastemide
+-  Anti-cholinergics: oxybutynin
+
+
