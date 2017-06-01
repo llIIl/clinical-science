@@ -126,4 +126,46 @@ Medication: empaglutlozin blocks the SGLT-2 transporter so can't reabsorb sugar.
 
 # Short case 2
 
+## Trigger 1
 
+> 22/12M child, febrile, vomited, diarrhoea
+
+GIT symptoms from systemic things such as: thyroid problems, infn in urinary tract cytokines (IL-1, TNF-$\alpha$, IL-5), sick from URTI can give diarrhoea. 
+
+Pathophysiological processes causing fever: malignancy, infn, inflammation (autoimmune), medications/immunisations,
+
+Pathophys involved with diarrhoea and vomiting: fluid shifts associated with fever, inflamm, infn from {protozoa, bacteria, viral}, toxicity, thyrotoxicosis, pain, overeating, motion sickness, allergic response
+
+NSAIDS and paracetamol make fever abate. 
+
+Most common cause of fever in child: URTI such as otitis media, viral, skin infections
+
+Paediatrics is like veterinary science => have to ask random q's since child can't explain things themselves. \textbf{Always ask more and examine more in children}.
+
+Conditions not to miss in a febrile child (potentiall fatal or life altering)
+
+-  Ca
+-  Septic shock
+-  Meningococcal disease (Neiserria meningitis (gram neg coccus); meningitis): neck stiffness/rigidity, fever, koenig's sign, Brudzinski's sign (more for adults), rash (late sign; caused by septic emboli getting into tissue and causing microinfarctions => non-blanching rash which separates it from dermal rashes), decreased level of consciousness
+-  Measles: C's = {koplic spots (white spots in mouth), conjuctivitis, coryza}, fever
+
+## Trigger 2
+
+Lethargy is basically saying the child is unwell and needs some help. 
+
+Fever
+
+-  Duration: $\geq5$ days: have to consider Kawasaki disease which is an autoimmune disease
+-  Frequency: cyclical (malaria,...)
+
+Asymptomatic UTIs: no dysuria = {young, elderly}
+
+Take samples **before** starting antibiotic treatment.
+
+## Trigger 3
+
+Asymptomatic bacteriauria (bacteria in urine) which isn't a problem unless symptoms, pregnant, or transplant. 
+
+High fever usually indicates pyelonephritis (also common in first year of life) rather than cystitis. 
+
+Ureters implant obliquely on the bladder which is a functional valve (not anatomical).
