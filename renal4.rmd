@@ -7,6 +7,14 @@ output: pdf_document
 
 # Quiz
 
+-  Clavulanic acid contains beta-lactam, gets preferentially broken down by resistant bacteria. Therefore penicillin and cephalosporins can have an effect.
+-  Receptors
+    -  M~3~: ACh from parasympathetic pelvic nerve to contract detrusor
+    -  B~3~: hypogastric N (sym): noradrenaline relaxation of detrusor
+    -  $\alpha_{1}$ in the int sphincter: hypogastric N: contraction of ext sphincter
+    -  Nicotinic in the ext sphincter: somatic from pudendal nerve to contract it
+    -  Also sensory N AFFERENT in detrusor that is stimulated when bladder is stretched
+
 # Main case
 
 ## Trigger 1
@@ -89,6 +97,32 @@ Symptomatic relief for prostatic hyperplasia:
 -  Anti-cholinergics: oxybutynin
 
 # Short case 1
+
+## Trigger 1
+
+> 18F severe burning pain on urination. Offensive urine = smelly. Sexually active. No fever, sweats, nausea, or back pain.
+
+Organ systems involved = {urinary system, reproductive}
+
+Sexual Hx: STI, pregnancy, infn. Facilitates trauma for bugs. 
+
+Absence of systemic symptoms $\rightarrow$ localised: not urosepsis, pelvic inflammatory disease (sepsis within the abdomen)
+
+Well person Ix: don't really have to FBC since there is no education that there is systemic effects. 
+
+## Trigger 2
+
+Sensitivity and specificity of dipstick: low for both
+
+Empirical treatment: don't want disease progression, also provide some relief from symptoms (stinging during urination due to acidity of urine and also infn+inflammation)
+
+Trimethoprim: works most of the time for *E. coli*, low side effects, generally well tolerated (low allergies)
+
+## Trigger 3
+
+Antibiotic selection = {narrow spectrum, lowest dose, shortest time}
+
+Medication: empaglutlozin blocks the SGLT-2 transporter so can't reabsorb sugar. Makes people piss out 80g urine, helpful for diabetes, obese, bacteria in urine (increased risk of UTIs).
 
 # Short case 2
 
