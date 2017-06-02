@@ -1,0 +1,203 @@
+---
+title: "CVS 4"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Arrythmias
+
+## Bradycardias
+
+Caused by **2** things:
+
+1.  Reduced automaticity of SA node. Can occur during periods of increased vagal tone (sleep, carotid sinus massage), and secondary to drugs ($\beta$-blockers, Ca channel blockers).
+2.  Blocked conduction. AV block has 3 degrees = {first = abnormally long AV conduction time (PR interval > 0.22s), second = some atrial impulses are conducted to ventricles (skips a QRS once in a while), third = no association between atria and ventricular activities}.
+
+Often results in need for implantable device such as pacemaker.
+
+## Tachycardias
+
+Caused by **3** basic mechanisms:
+
+1.  Increased automaticity arising from more rapid phase 4 depolarisation.
+2.  Repolarisation is delayed (longer plateau phase) can trigger spontaneous depolarisations caused by reactivation of Na or Ca channels.
+3.  Most commonly, tachycardias from a reentrant circuit. Any condition that gives rise to parallel by electrically separate regions with different conduction velocities (e.g. border zone of MI, accessory AV connection)
+    -  Atrioventricular reentrant tachycardia (AVRT): accessory pathway such as WPW
+    -  AV nodal reentrant circuit (AVNRT): there is a slow pathway and fast pathway in the AV node. Premature beat may come at a time when fast is refractory but slow isn't $\rightarrow$ causes reentrant circuit inside AV node leading to SVT. 
+
+Management depends on **QRS complex width**. If:
+
+-  Narrow: then ventricular depol is occuring normally and arrhythmia is arising at or above AV node (supraventricular).
+-  Wide: ventricular conduction is $\neg$ normal. Either from ventricular tissue or SVT with aberrant conduction over His-Purkinje system or an accessory pathway.
+
+# Atrial fibrilation
+
+Most common sustained arrhythmia worldwide. High risk of **stroke**. Four categories: Paroxysmal (< 48 hours), persistent (>7 days), permanent (>1 year), lone (without evidence of structural heart disease).
+
+CHADS score gives risk for major AF-related thromboembolism. **CHADS** = {Cardiac failure, hypertension, age, diabetes mellitus, previous stroke}. If CHADS $\geq$ 2: long term oral anticoagulant therapy recommended (warfarin). This is as risk of GIT and intracranial haemorrhage from warfarin is outweighed by risk of stroke. **CHA~2~DS~2~-VASc** = {Congestive heart failure, hypertension, age (>75=2), diabetes mellitus, stroke Hx = 2, vascular disease, age (65-74 = 1), sex category (female = 1)}.
+
+Novel anticoagulants: using direct thrombin inhibitors. Thrombin converts fibrinogen $\rightarrow$ fibrin, factor Xa also a acceptable target as one molecule of fXa generates more than 1000 thrombin molecules. Thrombin inhibition leads to reduced fibrin formation, reduces thrombin generation, and inhibits platelet activation. Direct thrombin inhibitor also can inactivate fibrin-bound as well as free thrombin in thrombus expansion. Direct thrombin inhibitor = dabigatran (twice-daily). Not used in valvular AF and if patient has mechanical heart valves. fXa inhibitor = {rivaroxaban (once-daily), apixaban (twice-daily)}. However these might be more expensive, no routine coagulation assay available, and no antidote for anticoagulation. Not recommended for those with renal disease.
+
+HAS-BLED: risk factors for bleeding in people with AF. \textbf{HAS-BLED} = {Hypertension, Abnormal renal or liver function, Stroke (Hx), Bleeding (Hx or predisp), Labile INRs, Elderly (age >65 years), Drugs (antiplatelets, NSAIDs, alcohol)}
+
+-  Rate control: if pt has persistent AF (e.g. 1 week). These drugs are used to control rapid ventricular HR.
+-  Rhythm control: using anti-arrhythmic drugs to get back into sinus rhythm: used if pt is highly symptomatic.
+-  Post anticoagulation give *combination of digoxin, atenolol, verapamil*
+
+# Quiz
+
+-  Arrhythmia with prolonged QT segment is Torsade de pointes. Often caused by antipsychotic medications (which prolong QT interval)
+-  Delta wave is wolfe parkinson white syndrome
+-  WARFARIN TO AF.
+-  Elevated JVP can suggest obstructive shock. Post pacemaker insertion if it happens then complication in cardiac perforation can lead to cardiac tamponade (build up in pressure in the pericardial sack). Infection would NOT lead to elevated JVP
+-  CXR: L and R main pulmonary arteries form hilar shadows (not bronchi). Abnormal cardiothoracic ratio > 50% is cardiomegaly. Curve of the aortic arch above the L hilum is called the aortic knucle.
+
+ECG:
+
+-  1mv signal moves stylus 10mm vertically
+-  QRS represents V *depolarisation* whereas ST segment is when the ventricles are *depoalrised*
+-  Lead II represents potential diff between L leg and R arm
+
+Respiratory sinus arrhythmia is normal and HR increases on inspiration.
+
+Cardiac tissue with slowest rhythmicity is ventricular muscle NOT purkinje fibres.
+
+Digoxin inhibits Na-K ATPase indirectly reducing the inward transport of sodium ions and outward exchange of calcium ions in myocytes.
+
+Triggered activity: abnormal action potentials triggered by preceding AP. Seen as spontaneous APs during phase III or IV (*afterdepolarisations*) and usually occurs in situations where there is an abnormally long AP (such as long QT syndrome).
+
+JVP should decrease on inspiration. If it *increases*: kussmauls sign.
+
+# CBL
+
+# Short Case 2: Slow and steady
+
+### Trigger 1
+
+**What could it be?**:
+
+-  High prob: CVS related since it is CVS week = {arrhythmias, AF (especially since older people can't tell onset?), valvular issues (aortic stenosis leads to decrease blood and hence decreased perfusion to brain, also mitral regurg), CAD}
+-  Serious not to be missed: cancer (leukaemia)
+-  Pitfalls: anaemia
+-  Masquerades: old age, she has been drugged by someone else and is going to die, dehydration (hypovolaemia), low BSL, UTI,
+
+Think of wide DDx for presyncopal
+
+-  Low bsl
+-  Dehydration
+-  UTI
+-  Vestibular infection
+
+**Further Hx**: Vitals from more recently + SOCRATES (Site, onset, character, radiations, associations, time course - does it follow a pattern, exacerbating/relieving factors, severity) + impact on daily life + what does she think it is. Ask specific stuff about if she is unwell, medications, has she collapsed and lost consciousness.
+
+**Approach**: old lady with some risk of cardiovascular disease and she has had presyncope. Corridor thoughts: what you think when walking to pt. Get relevant Hx (+further) and check for red flags (chest pains, dyspnoeic, new onset confusion = dropped GCS, low urine output).
+
+Ex: vitals $\rightarrow$ systems (CVS $\rightarrow$ resp $\rightarrow$ GIT $\rightarrow$ CNS) $\rightarrow$ urinalysis + ECG + spirometry + pulse oximeter + BSL + (fundoscopy)
+
+### Trigger 2 - note that ALL heart block are defined by PR > 0.2s.
+
+**ECG findings systematically**: Narrow then ventricular depol is occurring normally and arrhythmia is arising at or above AV node (supraventricular).
+
+-  Name/date: assume true for (n in 1:2)
+-  Rate: $\frac{300}{7.5} = 40$, P-wave rate $\approx$ 300/6 = 50/min
+-  Rhythm: says sinus rhythm but there doesn't seem to be relationship between P and QRS, look at RR only??. Regular PP, RR rhythm.
+-  Axis: seems legit
+-  Wave morphology: no pathological q waves. No U waves (path >0.5mm deflection after T wave seen in V2 and V3 - found in hypothermia, antiarrhythmic drugs). There are some weird QRS because the P pops up.
+-  Intervals: PR is variable (abnormal), QRS = 0.100s (normal/narrow), RR = 7.5*0.20 = 1.5s, QT = 500m (long).
+-  Segment: ST is not elevated.
+
+**Narrowed DDx**
+
+-  Cardiac:
+    -  Complete heart block as the AV node is not letting stuff through. Therefore ventricular escape rhythm is coming from bundle branch-purkinje system. Aetiology: MI, could be congenital but unlikely because she is so old. AV-nodal blocking drugs (e.g. calcium-channel blockers, beta-blockers, digoxin). Ischaemic heart disease.
+    -  Murmur radiates to carotids is aortic stenosis.
+    -  [\textbf{\textit{Cannon waves}}](https://www.youtube.com/watch?v=gMBZMQwoi_I): when the V contract the AV valve is closed, but if the A contracts at the same time then blood goes out back into the jugular. Found in arrythmias.
+-  Non-cardiac: cancer, hyperkalaemia
+
+**Mx**: Probably urgent management as she is looking quite unwell and scared of cardiogenic shock. Needs to be paced. 
+
+**Further Ix**: bloods (FBC & film, electrolytes (CHEM20), TSH, troponin). TTE (Transthoracic echo), CXR
+
+### Trigger 3
+
+**Haemodynamic stability**: defined with a systolic blood pressure (SBP) >90 mmHg, a heart rate <120 beats/min and without clinical signs of shock.
+
+[\textbf{\textit{Medications}}](https://tgldcdp-tg-org-au.ezproxy.library.uq.edu.au/viewTopic?etgAccess=true&guidelinePage=Cardiovascular&topicfile=arrhythmias-acute-management&guidelineName=Cardiovascular&sectionId=toc_d1e106#toc_d1e175): is atropine as it is a negative chronotrope. For most bradycardias whilst waiting for transcutaneous pacing and specialist intervention use: 0.5-1.5 mg IV, repeated 15 mins if necessary. Atropine is muscarinic antag. Or it could be isoprenaline positive inotropic and chronotropic effects.
+
+**Possible reversible causes**: medications.
+
+**Complications**: decrease CO, inadequate perfusion (syncope, pre-syncope, SOB), SCD, heart failure
+
+**Permanent pacemakers**: pacing spikes mostly visible in the unipolar leads.
+
+-  Unipolar pacemakers where there is only one lead connecting it to the body. Used in cases where AV conduction is likely to return. E.g. used if normal AV conduction but SA disorder then paces RA.
+-  Dual chamber pacemakers: have pacing electrodes in both the RA and the RV. Allows maintenance of A and V relationship - can increase rate during exercise. Dual-chamber pacemaker implantation in the RV outflow tract is good for third degree AV block.
+-  Dual site A pacing: 2 A leads, 1 in RAA and other in coronary sinus.
+-  Biventricular pacemakers: leads in RA RV LV. Useful in patients with heart failure who have evidence of abnormal intraventricular conduction (LBBB etc.)
+
+
+-  Single chamber V pacing - RV associated with increased mortality in patients with impaired V fn.
+-  Dual chamber pacing
+-  Single chamber
+
+Abnormal rhythm can be hypomagnesium/calcaemia (mg, Ca)
+
+
+# Short Case 1 - VT can lead to VF $\rightarrow$ die
+
+Extremely high tachyarrhythmias mean that decreased SV. Therefore decreased perfusion to the coronary arteries (during diastole) leading to ischaemia. ANS via adrenaline ($\beta$-agonist)
+
+Pathological increases in HR
+
+-  Hypovolaemic shock
+-  Stress mediated by adrenaline
+-  Drug use
+-  Pain
+-  Fever
+-  Sepsis
+-  Hyperthyroid state
+-  PE
+
+Hyperdynamic praecordium = heaves.
+
+### Trigger 2
+
+Someone goes into ED do ECG, IV access and take bloods.
+
+Valsalva manoeuvre: increased intrathoracic pressure pushes blood away from pulmonary veins to the the LA increasing pressure on Vagus nerve. Carotid sinus massage: can cause vagus to start firing $\rightarrow$ $\Uparrow$PS.
+
+People with Hx of MI are more likely to get MI and arrhythmias.
+
+Peaked T waves: bigger than expected gives the earliest sign of STEMI (hyperacute). Hyperkalaemia $\rightarrow$ DO ECG (massive risk factor for VT and death).
+
+Broad QRS Ddx: ventricular origin (VT or VF) or above + something else.
+
+ST depression = ISCHAEMIA. Can be without athero (due to occlusion, bronchospasms, sepsis as blood pressure gets too low)
+
+Treatment of SVT as VT is fine. VT as SVT is not fine. VT until proven otherwise usually in broad QRS.
+
+### Trigger 3
+
+Guy has had cardiac arrest due to rapid deterioration and lack of perfusion to the heart. Has ischaemia.
+
+Cardiac catheterisation is where they put a catheter through vein towards aortic valve. Coronary angiography then releases radioactive dye when AV closed. This allows for real time fluoroscopy. Electrophysiology then goes in further to looks at electrical impulses.
+
+Shock pt for pulseless VT and any VF. Only used for some haemodynamically unstable SVT. VF has no synchrony, shock for VT has to be in synchrony with the cardiac cycle to prevent R on R which is bad.
+
+Angina is restricted to poor pipes (coronary vessels).
+
+RBBB leads to right axis deviation and has qRSR' in V1.
+
+BBB:
+
+-  Right: MARROW shows M shaped thing in V1 and W in V6
+-  Left: WILLIAM shows the opposite of RBB
+
+# Conduction system of heart
+
+SA $\rightarrow$ **internodal** $\rightarrow$ AV node

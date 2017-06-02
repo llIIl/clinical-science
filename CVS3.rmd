@@ -1,0 +1,170 @@
+---
+title: "CVS 3"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output: pdf_document
+---
+
+# ECG changes from infarct
+
+| Location | Coronary Artery | ST elevation | Reciprocal depression |
+| ------------ | ------------ | ------------ | ------------ |
+| Anterior | LAD | V1-V6 | None |
+| Septal | LAD-septal branches | V1-V4; disappearance of septum Q in V5-V6 | none |
+| Lateral | LCX | I, aVL, V5, V6 | II, III, aVF |
+| Inferior | RCA | II, III, aVF | I, aVL |
+
+# Angina
+
+-  Variant/printzmetal's angina: occurs without provocation, usually at rest due to coronary artery spasm.
+    -  ECG: ST elevation during the pain; hyperventilation and cold-pressor testing required.
+-  ECG for angina: transient ST depression + enlarged QRS complex
+
+# MI
+
+-  **STEMI**: transmural infarct; **NSTEMI**: subendocardial infarct
+-  Noninfarcted segments undergo hypertrophy and dilation: known as ventricular remodelling. Dilation may outweigh hypertrophy $\rightarrow$ $\Uparrow$O~2~ demand and depressed cardiac fn.
+-  Myocardial stunning is the reversible reduction of heart contractility fn
+-  On the spot ECG at presentation CANNOT exclude MI
+-  ECG ST elevation in II, III, aVF are suggestive of *inferior* MI.
+-  Unstable angina and STEMI are frequently indistinguishable at initial evaluation.
+-  First treatments and considerations: morphine, oxygen, aspirin, and nitrates (remember MOAN).
+
+## Cardiac markers
+
+-  Lactate dehydrogenase: isoenzyme LD1 is used, LD2 NOT used
+-  Creatine kinase in the heart:  40% CK-MB and 60% CK-MM
+-  Troponins:  TnT and TnI are used
+-  Myoglobin is used alongside primary markers to act as a negative indicator of MI
+
+# Venous thromboembolism
+
+-  Patients age has no effect on duration and intensity of DVT therapy
+-  Maintaining normal venous haemodynamics
+    -  Thoracic and cardiac pump
+    -  Respiratory pump
+    -  Valvular competence
+-  Post thrombotic syndrome: long term complication of DVT
+-  Paget Von Schroetter Syndrome: DVT but for the upper limb (is rare).
+-  Well's score: risk of DVT
+-  Thrombus has one of four outcomes
+    1.  Propagation towards heart
+    2.  Embolisation
+    3.  Dissolution through fibrinolysis: e.g. tPA = tissue plasminogen activator
+    4.  Organisation + recanalisation: ingrowth of smooth muscle, fibroblasts, and endothelium into thrombus. Makes vessels in thrombus allowing blood to flow through again. 
+
+# Cholesterol
+
+-  LPL activated by apoC2 which makes them smaller.
+-  Bile acid binding resins can $\Downarrow$[Cholesterol] along with the statins (HMG-CoA reductase inhibitors). Bile acid resins also work such as cholestyramine.
+-  Steps of cholesterol biosynthesis
+    1.  Acetyl-CoA $\rightarrow$ HMG CoA
+    2.  HMG CoA $\rightarrow$ melanovate by HMG CoA reductase
+    3.  Mevalonate produces intermediates
+    4.  Cholesterol synthesis
+-  HDL carries cholesterol away from the tissues to the liver.
+
+# Path
+
+## Atherosclerosis
+
+Morphological features:
+
+1.  Irregular, yellow to white, raised deposits called 'plaques'
+2.  Multiple, widely distributed and coalescing atherosclerotic plaques
+3.  Areas of ulceration of plaques, with thrombosis
+
+Pathogenesis flow
+
+1.  Endothelial injury
+2.  Platelet adhesion
+3.  Accumulation of lipoproteins in the vessel wall.
+4.  Recruitment and adhesion of monocytes and their differentiation to macrophages
+5.  Lipid accumulation within the macrophages - Foam cells
+6.  Smooth muscle cell recruitment
+7.  Smooth muscle cell proliferation and release of extracellular matrix
+
+Likely pathological event
+
+-  Impaired renal fn: progressive stenosis
+-  Thrombotic stroke: plaque rupture
+-  AMI: plaque rupture
+
+Complications of atherosclerotic plaque
+
+-  **Plaque rupture**: Pro-coagulant molecules within the plaque are exposed to circulating blood $\rightarrow$ lead to formation of a thrombus and infarction of the supplied tissue $\rightarrow$ Unstable angina, myocardial infarction, thrombotic stroke
+-  **Haemorrhage**: An intramural haematoma can form secondary to plaque rupture $\rightarrow$ Myocardial infarction, thrombotic stroke
+-  **Embolisation** of the plaque fragments: Disrupted fragments from the atherosclerotic plaque can embolize to distal vascular sites $\rightarrow$ Embolic stroke (and not thrombotic stroke!)
+-  **Aneurysm**: the fibrous plaque increases pressure in the vessel media and can provoke weakening of elastic tissue, with subsequent dilatation of the artery $\rightarrow$ Abdominal aortic aneurysm
+
+Developed plaque formed from: fibrosis of vascular intima and *low* grade chronic inflammation around lipid deposits.
+
+# CBL
+
+**SOCRATES is a better for emergencies**
+
+## Main case
+
+### ACS
+
+Overall disease until we decide whether it is:
+
+-  Ischaemia - lack of O~2~ which is reversible. **ST depression is ischaemia**.  
+`CP <- "chest pain"`; `OE <- "on exertion"`
+    -  **stable angina** (CP OE)
+    -  **unstable angina** (CP $\pm$ OE): caused due to *dynamic* obstruction of one or more coronary arteries.
+-  Infarction - necrosis due to lack of O~2~
+    -  **NSTEMI** (ST normal, troponin +) - minor troponin leak from a more minor infarct
+    -  **STEMI** (ST elevation, troponin doesn't matter) - full thickness/transmural infarct
+
+If diagnosed with (N)STEMI then straight to cath lab for PTCA (= percutaneous transluminal coronary angioplasty = STENT). CABG = coronary artery bypass graft.
+
+### Oxygen mask
+
+Uncomplicated MI - nope, but if there is evidence of shock, dyspnoea then give O~2~.
+
+### DDx for chest pain
+
+-  Cardiac
+-  GIT
+-  Respiratory
+-  Musculoskeletal
+-  CNS
+
+## Short case I
+
+Right leg pain 3 days after plane flight
+
+-  DDx for leg pain: DVT, claudication (ischaemia to the lower extremities), muscle cramps, myopathy, myocitis (inflammation of muscle (not)infective + (not)auto-immune), trauma, bone diseases (osteosarcoma, metabolic bone disease), CNS (sciatic neuropathy = pain in the sciatic nerve AND below the knee), infection in the skin (cellulitis more likely on just one leg), varicose veins, inflammation of the lymph system, bakers cyst (cyst in the popliteal fossa which may burst)
+
+In some occlusions the warm blood from deep veins is shunted to the superficial veins making the superficial veins WARM which is not inflammation.
+
+D-Dimer is a fibrin degradation product. During blood clot fibrinolysis (degradation) occurs which D-Dimer forms as a product. However D-Dimer is present in a range of conditions so it is not specific. Diseases associated wtih elevated D-Dimer: thrombosis anywhere, blood transfusion, pregnancy (pro-thrombotic state), cancers,
+
+**Pre-test probability** = probability of diagnosis before the results from the test come back. So if they both show the same thing then it is likely. Sorts out false positives and negatives.
+
+**Sensitivity and specificity** = *Sp In Sn Out meaning* that specificity rules things in, sensitivity rules things out. Sensitivity detects that something is wrong.
+
+Phrm
+
+-  Antiplatelets - stop aggregation - aspirin, clopidogrel, ticagrelor
+-  Anticoagulants - heparin, warfarin, clexane
+    -  Warfarin - vit k reductase inhibitors and vit k is necessary for (2, 7, 9, 10) [australian tv channels]. Lots of variation in metabolism so people have to keep on getting blood tests each week to find the necessary amount. Is reversible so can quickly remove it's effects which is faster than NOACs
+    -  Novel oral anti-coagulants (**NOACs**) - thrombin antagonists (which converts fibronigen $\rightarrow$ fibrin). {Dabigatran, rivaroxaban, apixaban}. These are orals, but chronic renal failure, *less intra-cranial haemorrage, more GIT haemorrage*.
+
+## Short Case II
+
+SMOKING IS A RISK FACTOR FOR VASCULAR DISEASES
+
+Vasculopath - high risk for vascular diseases
+
+Temperature
+
+-  Arterial insufficiency - cold as blood is WARM
+-  Venous insufficiency - warm as blood is shunted from deep veins to superficial veins
+
+## PVD
+
+-  Ankle/brachial index measurement is a screen for PVD
+-  Drugs used are cilastazol amd naftidrofuryl
+-  PAD $\subset$ PVD

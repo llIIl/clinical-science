@@ -1,0 +1,272 @@
+---
+title: "CVS I"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output: pdf_document
+header-includes: \usepackage{wrapfig}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=FALSE)
+setwd("/home/khoo/Documents/uni_work/4_sem_1/7111/lectures/4_cvs_i/readings")
+library(png)
+library(grid)
+library(gridExtra)
+```
+
+# ECG
+
+```{r images, out.width="350px", fig.align="center", fig.pos="H"}
+img1 <-  rasterGrob(as.raster(readPNG("heartwiring.png")), interpolate = FALSE)
+img2 <-  rasterGrob(as.raster(readPNG("ecg.png")), interpolate = FALSE)
+grid.arrange(img1,
+             img2,
+             ncol = 2)
+```
+
+SA node in RA, then depolarisation spreads through atrial muscle fibres. Delay when it reaches the AV node. Then goes down bundle of His which divides into right and left branches. Purkinje fibres through ventricular muscle. The normal heart rhythm with electrical activation starting from the SA node is known as "sinus rhythm".
+
+The electrical change depends on the muscle mass, $\therefore$ electrical change for the contraction of the atria is small. Parts of ECG:
+
+-  \textbf{P}-wave: contraction of atria (depolarisation)
+-  \textbf{QRS}-complex: ventricle depolarisation and atria repolarisation (hidden by the massive ventricles)
+-  \textbf{T}-wave: ventricle repolarisation
+-  \textbf{U}-wave: origin uncertain, but it might represent repolarisation of papillary muscles. If it follows a normal T-wave then it is assumed to be normal.
+
+The **R-R interval** gives the heart rate. Each square on the ECG printout is 0.2s, so 5 squares is 1s. **PR interval** is the time taken for excitation to spread from SA node through atrial muscles and AV node, and into the ventricular muscles. Normal interval is 120-220ms with the delay taken up by the AV node.
+
+\pagebreak
+
+**Six 'standard' leads**.
+
+-  I, II, VL look at the left lateral surface of heart
+-  III, VF at the inferior surface
+-  VR examines RA
+-  6 V leads look at the heart in a horizontal plane.
+    +  V~1~ and V~2~ RV
+    +  V~3~ and V~4~ septum between ventricles and ante wall of LV
+    +  V~5~ and V~6~ ante and lat walls of LV
+
+**ECGs**
+
+```{r normalecg, out.width="380px", fig.align="centre"}
+knitr::include_graphics("ecgnormal.png")
+```
+
+Causes of different heart rates
+
+| **Sinus bradycardia** | **Sinus tachycardia** |
+| --------------------- | --------------------- |
+| Physical fitness | Exercise, pain, fright |
+| Vasovagal attacks | Obesity |
+| Hypothermia | Pregnancy |
+| Hypothyroidism | Anaemia |
+| | Thyrotoxicosis |
+| | CO~2~ retention |
+
+Tall P-waves may indicate atrial hypertrophy which can be significant if there is evidence of ventricular hypertrophy.
+
+# Cardiovascular risk assessment
+
+1.  Ascertain history of established CVD.
+2.  Check for clinically high conditions such as BG, BP, eGFR lipid levels.
+3.  Calculate cardiovascular risk based on Framingham risk charts (using Australian ones).
+4.  Exclude underestimation of risk. Family history, smoking status, exercise, and diet.
+5.  Management: Diet or drug therapy.
+
+**Relative risk** is comparing groups such as smoker vs non-smokers. **Absolute risk** is the $\mathbb{P}(\text{Getting disease})$
+
+# Septic shock
+
+Bacterial infections can become generalised leading to severe sepsis and septic shock.
+
+Pathogen leads to specific responses as well as generalised host response mechanisms resulting in a mix of pro- and anti-inflammatory responses.
+
+**Pro-inflammatory:** Activation of vascular endothelial cells leads to thrombosis, increased vascular permeability, and vasodilation. This leads to a warm shock where patient is warm and flushed but not perfusing organs adequately. The thrombosis can cause disseminated intravascular coagulation => bleeding factors.
+
+**Anti-inflammatory:** inhibition of pro-inflammatory cytokines and suppressing immune cells. It may control the inflammation but increase secondary infection susceptibility.
+
+Organ disfunction arises from reduced tissue perfusion from the combination of {hypotension, interstitial oedema, microvascular thrombosis}. Also metabolic disturbances such as hyperglycaemia and cortisol release.
+
+To stabilise a patient in shock?
+
+-  Oxygen
+-  Insert IV and take full bloods for culture
+-  Start fluids – normal saline bolus at 20ml/kg/hr
+
+## Infective endocarditis
+
+-  Main organism is: *Streptococcus viridans*
+-  First line treatment: penicillin; IV drug users: vancomycin or gentamycin.
+
+# CVS exam
+
+-  Bruit $\subset$ murmur. Bruit is a murmur in the arteries
+-  Thrills - palpable heart murmurs
+-  Heaves - praecordial movements felt with the heel of the palm on the sternal border
+
+# Pulse Pressure
+
+-  **Narrow**: decreased SV
+-  **High**: high SV such as after exercise
+
+# Heart sounds
+
+> S1 -----Systole----- S2 --Diastole-- S1
+
+Thus S1 is closure of mitral and bicuspid valves. S2 is closure of aortic and pulmonary valves.
+
+## Is there a murmur?
+
+When does murmur occur?
+
+-  Systole
+-  Diastole
+
+Using S1 and S2 to orient ourself, we can figure out when it occurs. If this is too difficult to figure out, we can feel the carotid pulse which corresponds with systole (sound heard corresponding should be S1).
+
+## Split second heart sound
+
+During inspiration causes more blood to go to the lungs, $\therefore$ pulmonary valve closes *second* (i.e. after the aortic valve).
+
+## What valves correspond with murmur?
+
+Murmur during **systole**
+
+-  **Open (A & P)**: could be stenosed
+-  **Closed (T & M)**: regurgitation
+
+## Location
+
+1.  **Aortic area**: *right* upper sternal border in the 2nd ICS (intercostal space)
+2.  **Pulmonary area**: *left* upper sternal border in 2nd ICS
+3.  **Tricuspid area**: 5th ICS inferior to pulmonary area (+ **erbs** which is 3rd ICS)
+4.  **Mitral area**: 4th ICS mid-clavicular line
+
+If murmur is loudest in the aforementioned areas then it is highly like that that specific valve is involved
+
+## Systolic murmurs
+
+-  **Aortic stenosis**: **crescendo-decrescendo (diamond shaped murmur)**. Makes the most sound when blood is pumped hardest (i.e. the middle of systole). The sound also radiates outwards towards the carotid because the carotid is a branch of the aorta. **Ejection click**.
+-  **Pulmonary stenosis**: basically the **same** thing that doesn't radiate to the carotids. Heard in the pulmonary area.
+-  **Mitral regurgitation**: **pan-systolic murmur (flat murmur)** meaning it occurs throughout the whole of systole. This is as the $\text{P}_{\text{LV}} > \text{P}_{\text{LA}}$ throughout the duration of systole. This radiates to the axilla and is heard from the mitral area duh.
+-  **Tricuspid regurgitation**: same thing but heard from tricuspid area. Causes a *pulsatile liver*
+-  **Mitral valve prolapse**: **mid-systolic click** with a **late systolic murmur** (as it doesnt close properly) when the valve reopens in the middle of S1 and S2. Non-ejection click.
+
+## Diastolic murmurs
+
+-  **Aortic regurgitation**: heard from the left sternal border (bit inferior to pulmonary area). **Early diastolic decrescendo murmur** because right when the aortic valve is supposed to close at S2, it doesn't fully meaning that blood rushes in instantly. The LV soon fills from the LA which makes it decrescendo as the $P_{LV}$ increases.
+-  **Pulmonary regurgitation**: same shit as above but on the right sternal border.
+-  **Mitral stenosis**: LV rapidly fills at the beginning of diastole ($\Delta P$ is maximal) and the stenotic valve leaflets *snap* open. Leads to an **opening snap followed by mid diastolic rumble (decrescendo-crescendo)**
+-  **Tricuspid stenosis**: **same** thing in tricuspid area.
+
+## Extra heart sounds
+
+The systolic clicks and opening snaps are extra heart sounds covered above.
+
+These are heard when patient rolls onto their left so the heart is closer to the rib cage.
+
+-  **S3**: **volume overload** typically heard right after S2 (diastole) during the rapid filling period as ventricle fills up really quickly tensing up the chordae tendinae which makes the sound. **Ventricular gallop** tensing the chordae tendinae
+-  **S4**: **pressure overload** such as during hypertension. Concentric hypertrophy in the LV making it stiffer. Sound heard is when the atrium contracts to get the last bit of blood out into a hypertrophied ventricle. Therefore it is heard just **before S1**. This and S3 are heard best in mitral. **Atrial gallop**. This is always pathological.
+
+# CBL
+
+## Short case II
+
+Risk factors for vascular disease (ABCDE)
+
+-  Age
+-  BP
+-  Cigs
+-  DM (diabetes mellitus)
+-  Excess cholesterol
+-  Family Hx
+-  Gender
+-  Hx of personal vascular disease
+
+Hypertension
+
+-  Vascular
+    -  LV hypertrophy $\rightarrow$ LV failure.
+    -  LV cardiomyopathy as LV gets too big it can't accept enough blood into it.
+    -  Microtears in the endothelium
+-  Brain
+    -  Increased intracranial pressure $\rightarrow$ headaches
+    -  $\Uparrow$ risk of aneurysm rupture
+    -  Vessel can just burst $\rightarrow$ haemorrhagic stroke (ischaemic stroke is the other one)
+-  Eyes - contains small vessels
+-  Kidney
+    -  Glomeruli explode $\rightarrow$ nephron
+
+# Quiz
+
+## Sympathetic receptors
+
+-  $\alpha_{1}$ - vasoconstriction in many vascular beds. Pupil dilation.
+-  $\beta_{1}$ - inotropy and chronotropy in the *heart*
+-  $\beta_{2}$ - vasodilation to *sk muscle* as you have to fight things, decreased motility in *GIT*, relaxation of tracheal/bronchial smooth muscle in *lungs* allowing more air in.
+
+## Antihypertensive drugs
+
+$\beta$-blocker AND non-dihydropyridine calcium channel blocker is BAD and increasese risk of heart block.
+
+ACE inhibitors are usually appropriate first line treatments for 53 year old, no evidence of target organ damage.
+
+Avoid $\beta$ blocker with someone that has asthma. If given: this would cause bronchoconstriction - asthmatics already have this.
+
+## Standing after being in a supine position
+
+When a person stands from lying, blood pools in the legs so that venous return decreases. This results in $\Downarrow$ CO and arterial pressure $\rightarrow$ baroreceptors detect the fall and the vasomotor centre is activated to increase sympathetic and decrease parasympathetic outflow.
+
+
+# Thrombosis
+
+## Virchows triad (risk factors)
+
+-  Endothelial damage
+-  Hypercoagubility of the blood
+-  Altered blood flow (stasis or turbulence)
+
+## What happens to thrombus
+
+-  Resolution: lysis by fibrinolytic system
+-  Organisation: granulation tissue ingrowth from vessel wall
+-  Recanalisation: development of new vessels through occlusion
+-  Embolism:
+
+# Embolism
+
+-  Thrombi, bone marrow, fat, air, N~2~, can all embolise.
+-  Car crash with compound fracture of femur: fat and amniotic fluid emboli
+
+# Haemostasis
+
+-  Vascular phase
+-  Platelet phase: activation and aggregation $\rightarrow$ primary platelet plug
+-  Coagulation phase: tissue factors = {I,..., XIII}-{VI}. {II, VII, IX, X} are vit-k dep. Goal is to convert Prothrombin $\rightarrow$ Thrombin which catalyses Fibrinogen $\rightarrow$ Fibrin.
+-  Fibrinolytic phase: so it doesn't clot everywhere
+
+## Again from a quiz though
+
+1.  Vasoconstriction
+2.  Platelet adhesion to exposed tissue
+3.  Platelet activation to form platelet/haemostatic plug
+4.  Reinforcement of plug with fibrin
+
+Virchows triangle: endothelial damage is the most important.
+
+Platelets can be activated by thrombin through: protease activated receptor (PAR)
+
+# Infarcts
+
+Necrosis due to ischaemia from occluded vessel.
+
+Types:
+
+-  Red (haemorrhagic) vs white (anemic): end organs
+-  Septic (infn): inf endocarditis vs bland
+
+MI:
+
+-  Transmural: full thickness $\rightarrow$ path q waves
+-  Subendocardial: just partial section of myocardium 

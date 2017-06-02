@@ -1,0 +1,149 @@
+---
+title: "CVS 2"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+setwd("/home/khoo/Documents/uni_work/4_sem_1/7111/lectures/5_cvs_ii/reading")
+```
+
+# Alveolar air equation
+
+$$ P_{A}O_{2} = P_{I}O_{2}- \frac{P_{A}CO_{2}}{R}$$
+
+where $P_{I}O_{2}$ = 150mmHg unless using oxygen mask and R = 0.8. $P_{A}CO_{2}=P_{a}CO_{2} \approx 40mmHg$.
+
+## Haemoglobin
+
+O~2~ binding is affected by:
+
+-  $pO_{2}$
+-  pH: Bohr effect
+-  2,3-BPG: binds and stabilises deoxy form
+
+## Shunts
+
+-  Anatomical not sensitive to enriched O2 in inspired air
+-  Physiological are responsive
+-  Severity usually measured by shunt equation or alveolar-arterial oxygen difference.
+
+$$ P_{(A-a)}O_{2}$$
+
+# Double density sign
+
+Seen on frontal chest radiograph in the presence of LA enlargement. From ante view, LA is hidden behind the other chambers, however enlargement can cause this to be seen as an extra shadow parallel to the right heart border (double density sign)
+
+# Silent MI
+
+Commonly occurs in older patients with diabetes. Diabetes puts them at risk of autonomic denervation in the heart leading to a silent MI.
+
+# Pain in lower limb
+
+> A 50-year-old man with a history of atrial fibrillation presents with sudden onset of pain in his right leg. On examination, his right leg is cold and pale and no pulses are palpable.
+
+Probably femoral artery *embolism.* Patients with femoral artery *thrombosis* will usually have a history of claudication and long history of ischaemic symptoms including rest pain in the later stage.
+
+# CXR
+
+Will not be able to examine for PE. Good to exclude other causes of dyspnoea such as collapse lung, pneumonia,...
+
+# Congenital heart defects
+
+## Acyanotic
+
+Most common. May have left-to-right shunts, such as various septal defects which result in additional flow from the systemic to the pulmonary circulation. This extra flow increases the normal work of the heart and may lead to chamber dilation, increase in pulmonary blood flow, arrhythmia, and in some cases, heart failure resulting from increased cardiac work.
+
+## Obstruction?
+
+Other patients may have valvular and/or arterial obstruction (such as pulmonary or aortic stenosis, or coarctation of the aorta). These may produce pressure load on the upstream ventricles, and in severe cases impair cardiac muscle function. Valve regurgitation may be seen in some patients as well.
+
+## Cyanotic
+
+Least common. E.g. tetralogy of Fallot, transposition of the great arteries, and the wide variety of single ventricle lesions). These patients have a right-to-left shunt, with desaturated blood entering the systemic circulation without first passing through the lungs, and producing lower than normal systemic
+
+# CBL Short case 1
+
+Prolapse (just move further and further apart. As it worsens then regurg worsens) vs regurgitation
+
+## Trigger 1
+
+Damaged valve $\rightarrow$ turbulent flow $\rightarrow$ **platelet and fibrin deposition on valves** $\rightarrow$ better spot for bacteria to grow (vegetation)
+
+6 months ago became symptomatic of mitral valve prolapse $\rightarrow$ mitral valve regurgitation.
+
+Mitral regurgitation $\rightarrow$ LV hypertrophy and LA dilation as compensatory mechanisms. Common cause is weakening of connective tissue which gets worse with age. Murmur is systolic which radiates to the axilla (armpit). Might feel a thrill and a hyperdynamic apex beat.
+
+Peripheral stigmata of infective endocarditis:
+
+-  Oslers nodes
+-  Janeway lesions
+-  Splinter haemorrhages
+
+## Trigger II
+
+BP bit low $\rightarrow$ possible hypotensive shock. $\Delta$Blood Pressure $\rightarrow$ So he doesn't have orthostatic (straight/standing) hypotension. Defined by change in 15 systolic and 10 diastolic is a sign of hypotension.
+
+## Trigger III
+
+Drugs
+
+-  Benzyl penicillin - IV penicillin
+-  Flucloxacillin has increased activity against staph and strep
+-  Gentamycin - gram neg
+
+ECG can pick up from echo
+
+-  LV hypertrophy - elevated R wave
+-  LA hypertrophy - bifid p wave
+-  A hypertrophy -  Elevated p wave
+
+Diagnosing IE
+
+-  Dukes criteria - 2 major, 0 major 5 minor, 1 major 3 minor.
+    -  Major: Positive blood cultures at multiple times (12 hour apart), vegetation on echo
+    -  Minor: splinter haemorrhages
+
+# SC II
+
+DDx of exclusion: aging.  
+
+DDx
+
+-  pulmonary hypertension, lung cancer, COPD due to smoking, asthma.
+-  cardiac: worsening stenosis, heart failure
+
+Risk factors for AS: ABCDE cardiovascular risk factors as athero causes AS
+
+-  Stiffening due to athero
+-  Thickening
+
+Symptoms - angina, SOBOE, weak pulse pressure (difference between systolic and diastolic; waterhammer pulse), weak and slow pulse, syncope reduced blood to brain
+
+
+# Quiz
+
+## Thrombolysis + contraindications
+
+Thrombolysis (clot buster; t-PA enhances plasmin production which degrades fibrin) used in MI, PE, stroke (ischaemic). **Absolute contraindications** = {hx of haemorragic stroke, hx internal bleeding, head trauma, suspected aortic dissection}
+
+## Sinus rhythm
+
+SA node (= sinus node) is the main pacemaker
+
+## D-dimer
+
+Is a fibrin degradation product present after a blood clot is degraded by fibrinolysis. Can be used to help diagnose thrombosis: if negative + low pre-test probability then it rules out thromboembolism.
+
+## Troponins
+
+Integral to muscle contraction in cardiac muscle. Used as diagnosis to differentiate between unstable angina and MI. Post-MI troponin may be high for 2 weeks.
+
+## Endocardium
+
+Serous membrane covering **inner surface of the heart** is endocardium NOT visceral pericardium
+
+# Mitral regurg
+
+Extremely common with an extremely heterogeneous aetiology. Damage, ruptured chordae tendinae, infarction, infection, trauma, iatrogenic,...

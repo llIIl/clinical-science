@@ -1,0 +1,310 @@
+---
+title: "CVS 5"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+setwd("/home/khoo/Documents/uni_work/4_sem_1/7111/lectures/8_cvs_v/readings")
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Quiz
+
+## Medications
+
+-  Dobutamine: Is a $\beta_{1}$ agonist so it will increase myocyte contractility and HR.
+-  Diltiazem: reduces afterload and hence myocardial work.
+-  $\beta$-blockers used in HF are only: metoprolol, bisprolol, and carvedilol
+
+## Acute Rheumatic Fever
+
+Symptoms:
+
+-  Subcutaneous nodules
+-  Carditis
+-  Polyarthritis
+-  Chorea
+-  **Pathognomic**: aschoff bodies
+
+## Aschoff nodules
+
+Aschoff nodules are composed of T lymphocytes (not B lymphocytes) and multinucleated giant cells. Not seen until the subacute or chronic phase of rheumatic carditis. 
+
+## Ventricular assist device
+
+Given to advanced HF pt with good prognosis. 
+
+## Complications of advanced heart failure
+
+-  Hyponatremia
+-  Impaired liver fn
+-  Thromboembolism
+-  Arrhythmias
+-  NOT \textbf{hyper}natremia
+
+## Pericardial tap
+
+aka pericardiocentesis: needle and catheter remove fluid from pericardium. 
+
+Pericardial fluid has an exponential pressure volume relationship.
+
+# Readings
+
+## CXR
+
+```{r image, out.width="500px"}
+knitr::include_graphics("cxr.png")
+```
+
+[\textbf{\textit{url}}](http://www.radiologymasterclass.co.uk/tutorials/chest/chest_pathology/chest_pathology_page8#top_1st_img)
+
+-  Septal lines are a specific sign of interstitial oedema in suspected heart failure. If not suspicious of HF then conditions causing lymphatic obstruction can be a cause.
+-  Alveolar oedema: general shadowing of the lungs. Dense airspace due to fluid filling alveoli and small airways radiating from the hilar regions.
+-  LV aneurysm: it just sticks out on the side
+-  Consolidation of the lingula: poorly defined L heart border due to consolidation in the adjacent lingula.
+
+# Random path terms
+
+-  Petechiae: pinpoint areas of haemorrhage on skin or mucous membranes reflecting bleeding from capillaries.
+-  Purpura: haemorrhages of skin or mucous membranes larger than petechiae.
+-  Suppuration: formation/discharge of pus
+-  Empyema: pus in cavity or hollow organism
+-  Coagulative necrosis (heart): 3 characteristics = {loss of nuclei, increased eosinophilia of the cytoplasm, maintenance of the remnants of the cell outline}
+-  Liquefactive necrosis: complete dissolution of cells and other structures
+-  Fat necrosis: seen in adipocytes as a result of trauma or release of lipases
+-  Karryorrhexis: fragmentation of the nucleus seen in necrotic and apoptotic cells
+-  Exudate: protein rich fluid resulting from the selective extravasation of plasma in response to changes in vascular permeability during inflammation
+
+# POW Week 8
+
+-  Measure someones BP and it is 160/90. Not hypertension unless it is *measured again*
+-  Cardiac hypertrophy (not hyperplasia as mature myocytes cannot divide) is a response to increased BP
+-  LVH response to increase in systemic BP; RVH response to increase pulmonary BP
+-  Types of hypertrophy
+    -  Concentric: increase pressure causes thickening of walls but lumen roughly the same
+    -  Eccentric: volume overload (increase in end diastolic volume) causes increase in lumen size whilst walls may/not hypertrophy
+-  Causes of cardiac hypertrophy
+    -  MI: loss of some of the cardiac muscle causes remaining muscle to adapt to increased workload
+    -  Hypertrophic cardiomyopathy: genetic mutation causing thickening
+    -  Cor pulmonale: pulmonary arterial hypertension leading to RV failure
+    -  Aortic stenosis: valvular disease causing increased pressure load on RV
+-  Outcomes of LVH:
+    -  Increased tissue pressure in wall, harder for blood to perfuse during diastole
+    -  Increased muscle mass requires more oxygen
+    -  Combination of above 2 predisposes to ischaemic conditions
+
+
+# Random notes on ECG
+
+-  AF loses *atrial kick* and is a dribbly pattern
+-  AFlutter is sawtooth baseline and occurs after the formation of a reentrant circuit
+-  SVT: very fast rate with narrow QRS and
+-  Second degree heart block 2:1 means that every alternative P wave doesn't conduct a QRS
+-  Junctional (escape) rhythm: pacemaker from AV node or bundle of His. Absent or inverted P waves in lead II. Due to not much atrial contraction there is also loss of atrial kick
+-  Accelerated junctional: loses P and T waves
+-  Junctional tachy: (my own words) shark tooth QRS
+-  Premature ventricular complex (PVC): increase in autorhythmicity or reentry
+-  If P waves abnormal but still in sinus rhythm then it is NSR with PAC (premature atrial complex)
+
+# CBL main - waking up breathless
+
+## Trigger 1
+
+68 F: Dyspnoea, orthopnoea (dysponea whilst being straight), PND, panicky, easy fatigueability, reduced exercise tolerance (e.g. can't push her buggy around anymore), chest tightness
+
+-  SOB at night
+    -  PND: peripheral venous blood redistributed to lungs. Increased venous return $\rightarrow$ more blood in pulmonary circulation $\rightarrow$ increase preload $\rightarrow$ LV can't keep up pumping into systemic circulation (LV failure) $\rightarrow$ congestion in the lungs $\rightarrow$ transient oedema
+    -  Difference between PND and orthopnea: **PND**: go to sleep easily but then they wake up. Often decompensated orthopnea vs **Orthopnea**: difficulty falling asleep as SOB as soon as lying down. Ask by "do you get SOB when trying to sleep"
+    -  COPD, asthma, OSA
+-  SOBOE: typically symptomatic of IHD (CAD is just related to state of arteries).
+-  **Chest pain DDx $\Leftarrow$ MEMORISE**:
+    -  Cardiovascular - pericarditis, IHD
+    -  Respiratory: PE, pneumonia $\rightarrow$ pleuritis
+    -  MSK: costochondritis (Tietze syndrome: palpation causes pain),
+    -  GIT: gastritis $\pm$ ulceration (peptic ulcer), reflex, oesophageal spasm
+    -  NS: thoracic nerve root irritation (compression of nerve root), herpes zoster (shingles)
+    -  $\psi$: anxiety
+-  Tiredness: infection, anxiety, depression, anaemia, cancer, IHD, vavlular disease, thyroid disease
+-  Hypoxaemia $\rightarrow$ sympathetic drive $\rightarrow$ panic attack (/disorder: repeated unpredictable panic attacks or spending lots of time about the impending panic attacks. Need to treat AND educate patients)
+-  What do next? Hx (HPC,  systems review, meds, surgical Hx, family Hx, Allergies) $\rightarrow$ Ex $\rightarrow$ blah blah
+
+## Trigger II
+
+-  Acute on chronic: chronic disease that suddenly becomes more acute
+-  Chest discomfort/**anything**: cardiac until proven otherwise - do ECG. Something that can't be missed.
+-  Narrow Dx to cardiovascular: due to family Hx of vascular disease, hypertension. Probs not respiratory: has no palpitations, fever, cough or wheeze, does not smoke.
+-  Calcium channel blockers
+    -  Dihydropyridines: amlodipine, nifedipine $\Leftarrow$ ACTS PERIPHERALLY
+    -  Non-dihydropyridines: verapamil & diltiazem $\Leftarrow$ acts centrally. Slows conduction through the AV node, negative inotropic and chronotropic activity.
+-  Potential Dx: heart failure $\rightarrow$ crackles of lung bases, pitting oedema, elevated JVP, displaced apex beat, S3 (increased V filling pressures), might feel heaves
+-  Pulsatile liver is pathognomic of tricuspid regurg
+
+## Trigger III - where did her HF come from? Cardiomyopathy
+
+-  Turbulent flow in the femoral arteries: stenosis, atherosclerosis
+-  Bibasal crackles: APO $\rightarrow$ oedema fluid could be pus (pneumonia), blood, interstitial fluid. Lots of things that cause it, but in this pt other symptoms suggests oedema fluid
+-  AV nipping and silver wiring: signs of hypertensive retinopathy (signs of hypertension in the eye)
+-  She needs treatment but not that urgent as sats O~2~ is not that bad
+-  Ix: ECG, bloods (FBC, CHEM20 - kidney(could lead to fluid retention $\rightarrow$ overload)/liver(late sign)/electrolytes(retention of Na due to RAAS leads to water retention + hyper/hypo-kalaemia lead to arrhythmias), **BNP** (peptide released from ventricles; use if not sure about HF: high = HF), troponin, lipid profile), CXR, echo
+-  Hypercholesterolaemia $\subset$ Dyslipidaemia (too much or too little anything)
+
+## Trigger IV
+
+**ECG**:
+
+-  Right axis deviation suggests RBBB
+-  Path Q waves in V1, V2, V3: previous anterior MI
+-  Lead III: the notching in the QRS complex suggests BBB
+-  S waves normal in I and II
+-  PR interval long = first degree heart block
+-  Broad QRS: either ventricular or atrial with aberrant conduction through AV node (this is more likely since she has BBB)
+-  V1: T wave is the inversion and sort of cuts the S wave off (change in gradient)
+
+**Blood test results**:  Has dyslipidaemia. Thyroid fn measured as TH affects HR and contractility by the SNS. BNP is a specific test: can help see if treatment is working.
+
+**CXR** signs of HF: may not see all 5, but quick to identify
+
+-  A: alveolar oedema (bat wings) - cloudiness near the hilum
+-  B: kerley B lines: septal thickening
+-  C: Cardomegaly (Cardio thoracic ratio)
+-  D: diverted upper vasculature: blood gets shunted to the top of the lungs since there is too much fluid. Basically see what you usually see inferior, see it superior
+-  E: effusion: blunting of the costophrenic angles due to fluid build up
+
+Pansystolic murmur means not surprising that there is tricuspid regurg (radiates to axilla?)
+
+Echo gives valves and LV EF
+
+Silent MI: most common in diabetics, can happen in women
+
+## Trigger V
+
+-  All Ca2+ channel blockers are contraindicated in HF as it decreases contractility of the heart.
+-  Frusemide keeps Na and loses K, so give with K supplement (Span K)
+-  Don't start medications that decrease work of the heart until *euvolaemic* - oedema is gone.
+-  ACE inhibitor: dry cough due to bradykinin. Decreases BP and also helps with cardiac myocyte remodelling after an infarct.
+-  Aspirin: low dose acts as antiplatelet agent by working on ADP.
+
+## Trigger VI
+
+-  Myocardial perfusion scan: uses radioactive contrast and get stressed through drugs (usually dobutamine which is a sympathetimimetic)
+-  Multivessel disease means it is good for CABG. If just a single vessel then it is not worth
+-  Stress testing is to examine perfusion. Usually stress echo $\rightarrow$ something not moving $\rightarrow$ angiogram
+-  PTCA = percutaneous transluminal coronary angioplasty is an alternative to the heart surgery
+-  Bypass surgery can result in death, haemorraghe, clotting, infn
+-  LV failure can lead to RV failure leading to congestive HF.
+
+[\textbf{\textit{Good ecg website}}](http://www.skillstat.com/tools/ecg-simulator)
+
+# Midsem quizzes
+
+## CVS anat and physiology
+
+-  If SA node fails then AV node takes over. Internodal pathways don't do anything. 
+-  Long saphenous vein is *superficial*
+-  Aortic valve has 3 cusps; right coronary, left coronary, and *posterior*/non-coronary cusps.
+-  LAD is most prone to obstruction
+-  Paradoxical embolism: taken from venous system to arterial (such as through patent foramen ovale)
+-  VSD is a L$\rightarrow$R shunt; tricuspid atresia is a R$\rightarrow$L shunt - an ASD *and* VSD must be present for blood to be pumped due to the RV atrophy. Hence it is a shunt.
+-  Azygous vein is on the *right* and *posterior* thoracic wall
+-  Opthalmic artery is a branch of the *internal carotid*
+-  **$\Uparrow$Pulse pressure caused by:
+    -  $\Downarrow$aortic compliance
+    -  $\Uparrow$stroke volume
+    -  Hypertension
+
+## Embryo
+
+-  Just after endocardial tubes have fused this is the order of blood flow: sinus venosus, primordial atrium, primordial ventricle, bulbus cordis, aortic sac
+-  Development of foramen ovale: common atrium starts by growing septum primum downwards $\rightarrow$ ostium primum randomly forms and disappears $\rightarrow$ above an ostium secundum forms $\rightarrow$ septum secundum forms which is slightly offset forming a one-way valve.
+    -  Tl;dr Septum primum, ostium secundum, foramen ovale, septum secundum
+-  Ductus arteriosus closes due to
+    -  Increased arterial oxygenation
+    -  Decreased pulmonary vascular resistance
+    -  $\Downarrow$Prostaglandin E~2~
+
+## Reperfusion injury
+
+-  O~2~ is incompletely reduced by damaged mt $\rightarrow$ $\Uparrow$O~2~ free radicals
+-  Influx of activated leukocytes increases inflamm damage
+
+# Short case 1
+
+## Trigger 1
+
+-  Cardiac pain (ischaemic) is not usually sharp (instead crushing, heavy, dull).
+-  Chest pain to ignore MI: 3 P's = {palpable, pleuritic (breathing makes it worse), positional (pain changes on changing position)}
+-  Positional chest pain likely pericarditis: pericarditis is inflammation of pericardium, moving around causes friction which irritates the already inflammed pericardium, gravity puts pressure on the pericardium.
+-  Chest pain is usually urgent: DDx = cardiovascular, resp, neuro, musculoskeletal
+-  What other info is needed: SOCRATES, PMHx (could be used to rule out oesophageal reflux,...), PSHx, medications, allergies
+
+## Trigger 2
+
+-  ECG
+    -  Widespread ST elevation can be found in pericarditis
+    -  Look for deep S waves in V1, V2
+-  Pulsus paradoxus: drop in pressure during inspiration where you'd usually expect an increase due to increased venous return.
+    -  Pericardial effusion is fluid around the heart
+    -  Pericardium filled with fluid is known as tamponade.
+-  Becks triad to Dx tamponade: hypotension, raised JVP, soft heart sounds
+-  Ix: bloods (FBC for anaemic, CRP/ESR, troponin, cultures, CHEM20 especially because have to check renal/kidney fn before giving them medication, coagulation panel in case he is just bleeding into it, BNP in case HF)
+-  Pericardial tap to drain the fluid
+
+## Trigger 3
+
+-  CXR: round heart is a sign of pericardial effusion
+-  3 layers of the heart: endocardium, myocardium, epicardium
+-  Troponin leak from the myocytes adjacent to the epicardium because of inflammation
+-  BNP raised: decreased aortic BP (hypotension) causes $\Uparrow$BNP
+-  ISBAR = {identify, situation, background, assessment, recommendation}
+    -  "On Ex"
+    -  "Ix shows...typical balloon sign of pericarditis. In addition, echo performed shows 2cm pericardial fluid" $\leftarrow$ which is the most important thing rather than just LVH etc.
+
+## Trigger 4
+
+-  Myopathy: diseased myocardium
+-  Viral myocarditis $\rightarrow$ $\Uparrow$troponin $\rightarrow$ pericardial effusion
+-  Hyperaemia: increased blood supply
+-  Oedema: increased interstitial fluid
+-  Rheumatic heart disease: Group A Strep pharyngitis $\rightarrow$ autoimmune response
+    -  Jones criteria
+
+# Short case 2
+
+## Trigger 1
+
+-  SOB at rest: NYHA 4
+-  Tricuspid regurg $\rightarrow$ pulsatile liver
+-  Lung disease $\rightarrow$ pulmonary hypertension $\rightarrow$ RHF/heart dysfn
+    -  known as *cor pulmonale* (heart disease due to lung pathology)
+-  Aspects of physical Ex and why: CVS Ex: focus on the heart and lower limbs.
+    -  Elevated JVP
+    -  Palpation of the chest: parasternal heaves for [L,R]VH, lateral displaced apex beat due to LVH
+    -  Auscultation: valvulopathy as a cause of this, extra heart sounds (S3 due to HF)
+    -  Lower limb Ex: oedema (pitting)
+    -  lung auscultation(?): bibasal crackles suggestive of fluid from____(pneumonia)
+
+## Trigger 2
+
+-  Ex for work of breathing
+-  Loud P2 from pulmonary hypertension
+-  Ix:
+    -  ABG
+    -  Bloods (FBC for [Hb] to *exclude anaemia*, CHEM20 ensure kidney+liver fn before giving drugs, COAG panel looking for thrombosis, ESR/CRP: see if infn is causing),
+    -  ECG: hypertrophy of ventricles in HF
+    -  CXR: signs of HF, ABCDE={alveolar oedema, kerley \textbf{b}-lines, cardiomegaly, dilated upper vessels, pleural \textbf{e}ffusion}}
+    -  Echo (EF)
+
+## Trigger 3
+
+-  Haematocrit is volume percentage of RBCs in the blood.
+-  Slightly elevated red cell count (RCC) and haematocrit is a compensatory mechanism as a result of chronic hypoxaemia
+-  COPD with high CO~2~ (CO~2~ retainers): the chemoceptor changes from peripheral CO~2~ detector changes to central receptors which are *dependant on O~2~*. Therefore giving O~2~ will decrease respiratory drive $\rightarrow$ death.
+-  ECG
+    -  Right axis deviation: high V1
+    -  Inverted T-waves normal in V1 (upside down), whereas not normal in V2, V3 due to RV strain (ischaemia)
+-  Mx
+    -  Decrease peripheral oedema: *frusemide* to get the fluid off the lungs (alveolar oedema) and legs $\rightarrow$ euvolaemic
+    -  Oxygen therapy: contraindicated with smoking
+    -  Pulmonary and cardiac rehab that improves the muscles

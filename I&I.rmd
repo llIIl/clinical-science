@@ -1,0 +1,270 @@
+---
+title: "I&I 1 & 2"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output: 
+  pdf_document:
+    keep_tex: true
+---
+
+```{r setup, include=FALSE}
+setwd("/home/khoo/Documents/uni_work/4_sem_1/7111/lectures/3_i&i_ii/readings")
+```
+
+# Bacteria
+
+-  Gram(-) rod: *E. coli*
+-  Gram(-) coccus (round): *Neisseria meningiditis*
+-  Gram(-) rod after burn with green and foul smelling exudate: *Pseudomonas aeruginosa*
+-  Gram(+) bacili can form *spores* in order to resist environmental factors
+
+# Drugs
+
+-  Efficacy: maximal response
+-  Potency: how fast it starts working
+-  In the presence of competitive antagonist, the agonist dose-response curve is:  shifted to the right without changing slope or maximum effect
+-  Selective toxicity is NOT: Clavulanic acid acting as a target for beta-lactamase
+
+## Receptor
+
+-  Desensitisation: decrease in potency (curve shifts right) usually due to partial uncoupling of receptor from second messenger
+-  Down-regulation: decrease in efficacy (maximal effect) usually due to receptor internalisation
+-  Not often seen for drugs with spare receptors
+
+## Anti-bacterials
+
+-  Interfere with folic acid synthesis so DNA synthesis cannot occur: sulfonamides (e.g. trimethoprim)
+-  $\beta$-lactams: attach to penicillin-binding proteins on bacteria and interfere with peptidoglycan (cell wall) synthesis. Also cause lysis
+    -  E.g. Penicillins, cephalosporins, glycopeptides (vancomycin)
+-  Interfering with bacterial protein synthesis: 
+    -  50S: macrolides (erythromycin)
+    -  30S: tetracyclines (used for intracellular bacteria such as Chlamydia),  aminoglycosides (streptomycin, gentamicin, neomycin against gram(-) aerobes)
+-  Affecting topoisomerase: quinolones
+
+## Antiviral
+
+Gancyclovir is against CMV. Acyclovir prevents nucleic acid synthesis. Enfuvirtade used in HIV: inhibits viral cell penetration/fusion.
+
+## Anti-protozoan
+
+Malaria $\in$ {Protozoa}. Therefore quinine and chloroquinine are used to target the schizont stage. Metronidazole inhibits nucleic acid synthesis and is also antibacterial.
+
+## Anti-helminth
+
+Its location means that Combantrin (non-spec depolariser) is used with poor absorption through GIT.
+
+## Anti-fungals
+
+Fluconazole and clotrimazole inhibit ergosterol production used against Candidiasis. Amphotericin used for life threatening (probably deep mycoses).
+
+# Anti inflamm pharm
+
+-  SAIDS: glucocorticoids indirectly inhibit phospholipase A by upregulating TXN of annexin-1
+-  NSAIDS: inhibit COX which prevents synthesis of PG~E2~ which is a pyrogen. $\therefore$ they are anti-{inflammatory, pyretic} and analgesic. E.g. aspirin, ibuprofen, celecoxib, 
+-  Paracetemol: NOT an NSAID. MOA unknown.
+
+# Immunology stuff
+
+\textbf{M}ost \textbf{D}octors \textbf{G}et \textbf{E}xtra \textbf{A}ss - IgA is in **secreted fluids**
+
+\textbf{Hot} \textbf{T}-\textbf{B}one st\textbf{EAK}
+
+-  IL-1: increases temperature (fever) making it an endogenous pyrogen. It is secreted from *macrophages* and also increases adhesion factors on the endothelial wall during inflammation.
+-  IL-2: T cell stimulator
+-  IL-3: B cell stimulator
+-  IL-4: IgE (class switching from IgG) and B cell growth. Secreted from T~H~2 cells.
+-  IL-5: IgA and eosinophils. Also secreted from T~H~2 cells.
+
+T~H~1 secrete: (leading to macrophage mediated chronic inflammatory response)
+
+-  IFN-$\gamma$: MOST SIGNIFICANT activator of macrophages along with IL-2(?)
+-  TNF-$\alpha$: helps macrophages and is important in autoimmune disorders
+-  IL-2: T cell stimulator
+
+T~H~2 secrete: (main effectors are eosinophils, basophils, mast cells, and B cells)
+
+-  IL-4: IgE + B-cell growth
+-  IL-5: IgA
+-  IL-6: Ac(K)ute phase protein synthesis
+-  Supports B cell antibody responses
+
+T~H~17: secretes proinflamm cytokines such as IL-22 which stimulate production of bacteriocidal and fungicidal proteins by epithelial cells. 
+
+Types of hypersensitivities: **ACID**
+
+-  Type I: \textbf{A}naphylactic and atopic: mediated by basophils and mast cells
+-  Type II: \textbf{C}ytotoxic (antibody mediated)
+-  Type III: \textbf{I}mmune complex
+-  Type IV: \textbf{D}elayed (Cell-mediated)
+
+Fever
+
+-  Temperature is raised by pyrogens: exogenous and endogenous. Exogenous includes LPS from gram(-) bacteria. This triggers response leading to IL-1 secretion which migrates to the hypothalamus signalling for increase in body temperature.
+-  Types: Intermittent (returns to normal and goes back), remittent (varies but never goes to normal),
+-  Pyrogens: IL-1, IL-6, TNF-$\alpha$
+
+PAMPs
+
+-  LPS is found in gram(-) bacteria which is detected by TLR-4
+-  Lipoteichoic acid from gram(+), peptidoglycan, viral nucleic acid (such as dsRNA) are detected by TLR-3.
+-  Microorganism binding to PAMP-R leads to cytokine activation.
+
+Random notes
+
+-  B cell receptor is bivalent whilst TCR is NOT
+-  Most important ion for determining RMP is K^+^
+-  Volume of distribution is most important in determining loading dose of a drug
+-  Neutrophils are necessary for umbilical cord separation.
+-  NK cells are important *early* and cytotoxic t cells (CD8) are important *late* in the course of a viral infection.
+-  During acute inflammation, blood vessels in the affected region of the body dilate leading to an overall increase in blood flow: most likely to be present is Increased adhesion of leukocytes to endothelial cells
+
+Activation of complement leads to:
+
+-  **Phagocytosis**: by opsonising antigens. C3b is most important here
+-  **Inflammation**: attracts macrophages and neutrophils
+-  **Membrane attack**: directly rupturing cell membrane of foreign pathogens
+-  Does NOT activate Th cells
+
+Macrophages:
+
+-  Phagocytose bacteria
+-  Present antigen on MHCII molecules
+-  Recruit neutrophils to a site of infection
+-  Responsible for controlling release of cytokines
+-  Reside in tissues ($\neg$ in lymph nodes)
+-  Different locations are known by different names
+    -  Microglial in brain
+    -  Kupffer in liver
+    -  Histiocytes in connective tissue
+    -  Osteoclasts in bone
+
+Professional antigen presenting cells: constitutively activate MHC II
+
+-  Macrophages
+-  Dendritic cells
+-  B lymphocytes
+
+T-cell receptor: a surface bound receptor that is never secreted. Binds to processed antigens. CD3 sits adjacent to the alpha-beta complex.
+
+Release of histamine and TNF is most associated with mast cells/basophils.
+
+**Polymorphonuclear leukocytes** = {neutrophils, basophils, eosinophils}
+
+3 fn of antibodies: ADCC, opsonisation, neutralisaton, (mast cell activation too?!)
+
+cAMP is a second messenger that has the effect of activating protein A
+
+Coupling of G-protein alpha subunit to an agonist occupied receptors initially leads to exchange of bound GDP with GTP
+
+# GIFTs
+
+## Arachidonic acid
+
+```{r tol, echo=FALSE, out.width="500px"}
+knitr::include_graphics("aa_pathway.png")
+```
+
+Phospholipids from cell membranes (when broken it is released into the cell triggering these pathways). Arachidonate metabolites $\in$ {Eicosanoids}. Glucocorticoids are steroids inhibiting COX-2 and includes cortisol, cortisone, prednisolone.  
+
+# CBL
+
+## Drugs
+
+### Acne
+
+-  \textbf{Benzoyl peroxide} (topical) - applied topically is bactericidal against *P. acnes*.
+-  \textbf{Doxycycline} (oral) $\in$ {Tetracyclines} which are broad spectrum antibiotics. Inhibits TLN by binding to bacterial 30S subunit.
+-  \textbf{Roaccutane} (oral **isotretinoin** is also known as 13-cis-retinoic acid) $\in$ {Retinoid}. It is used as a treatment for severe acne however there are many side effects whilst it is a teratogen so must not get pregnant. Suppresses all the four aetiological factors responsible for acne
+
+
+### Candidiasis
+
+-  Fluconazole (oral) $\in$ {azole}. Azoles are antifungals that inhibit fungal cell membrane synthesis. Fluconazole inhibits lanosterol-C14-demethylase which inhibits lanosterol $\rightarrow$ ergosterol production. More expensive but only one oral dose is required.
+-  Clotrimazole (topical) $\in$ {azole}. Inhibits ergosterol production as well. Is cheaper but it has to be administered for a week intra-vaginally.
+
+### Transplant
+
+-  Immunosuppresive therapy: Cyclosporin A, prednisolone, azathioprine $\in$ {immunsuppressive medication} given during RA, and kidney transplants. It gets incorporated into replicating DNA thus halting replication and it also inhibits purine synthesis. $\therefore$ it affects quickly proliferating cells such as B and T lymphocytes)
+-  Ganciclovir is used to treat CMV. Inihibits viral DNA pol by being a competitive inhibitor of dGTP and is also a poor substrate for chain elongation.
+
+### Vaccinations lul
+
+## Pathogens
+
+-  \textit{Aspergillus fumigatus}: infects immunocompromised hosts
+-  *Staphyloccocus aureus*
+-  *Candida albicans*
+
+
+# Immunodeficiency diseases
+
+**Cytomegaly virus (CMV)**
+
+-  Part of herpes genus so virus remains latent and can reactivate if immune system is depressed
+-  Common in AIDS patients, cancer patients, and organ transplant recipients
+-  CMV has been found in most body fluids and thus can be spread in a variety of ways
+
+**HIV**
+
+-  Low CD4 T cell count, not undergone immunosuppressive therapy, not previously diagnosed with congenital immune system diseases, and has one or more AIDS defining conditions.
+    -  CMV which disseminates. Usually just found in transplant patients.
+    -  Tb is the leading cause of death in HIV(+) patients
+    -  Pneumonia due to *Pneumocystis jiroveci* as this is a fungus and doesn't cause pneumonia in healthy individuals.
+    -  Candidiasis which disseminates outside the usual locations of vagina and oral cavity.
+    -  Cryptococcosis caused by yeast.
+-  Saquinavir and ritonavir are antiretrovirals used to prevent and inhibit HIV. They are protease inhibitors.
+-  Enfuvirtade inhibits viral cell penetration.
+
+
+**Severe combined immunodeficiency (SCID)**
+
+-  Diarrhoea, failure to thrive, and life-threatening infection
+
+
+**Chronic granulomatous disease**
+
+-  Phagocytes (neutrophils and macrophages) use a respiratory burst to destroy pathogens such as bacteria. This uses a ROS such as superoxide.
+-  CGD - the phagocytes can't produce ROS meaning they can't kill bacteria. So patients have weakened immune system as their phagocytes are useless.
+-  Leads to formation of granulomas in organs as they cannot phagocytose things.
+
+
+**X-linked agammaglobulinaemia**
+
+-  are more susceptible to pneumococcal infections
+
+Selective IgA deficiency is the most common primary immune deficiency.
+
+# Pathology
+
+## Types of cells
+
+-  Labile
+-  Stable
+-  Permanent: hypertrophy cannot hyperplasia
+
+## Cellular changes
+
+-  Atrophy: both $\Downarrow$Number and $\Downarrow$Size
+-  Reversible: cellular swelling, fatty change, hyalinisation
+-  Irreversible: rupture, mt damage, nuclear changes (e.g. karryohexis)
+
+## Chronic inflamm
+
+-  Tissue injury and repair co-exist
+-  Mononuclear cells predominate: macro, lympho, plasma cells
+
+## Granulomatous inflammation
+
+-  \textit{Sometimes it happens that way, hyung.}
+-  Things too big to be phagocytosed. E.g. Myobacterium tuberculosis, leprosy,...
+-  T~H~1 detect antigen and secrete: IFN-$\gamma$ activating macrophages (epitheloid) leading to granuloma formation
+
+## Wound healing
+
+-  Regeneration: dead cells replaced by alive ones of same type (e.g. liver)
+-  Repair: scar formation
+-  Tissue repair: granulation tissue + wound healing
+    -  Granulation tissue formation = {inflamm, clearance, ingrowth of granulation tissue}
+    -  Wound healing = {first intention, second intention}
+        1.  First intention: wounds with opposed edges (e.g. surgical incision). Not much fibrosis, not much scarring, scant inflamm, healing time is short. 
+        2.  Second intention: fucked wound. Lots of fibrosis, scarring, extensive inflammation, takes a while. 
