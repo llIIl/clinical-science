@@ -183,3 +183,9 @@ Carcinomas generally spread lymphatically.
 ## Wilms tumour
 
 UNdifferentiated embryological. Genes WT1 and WT2. 
+
+# STone
+
+E.coli is not urease positive (same with pseudomonas). 
+
+
