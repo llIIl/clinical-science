@@ -1,0 +1,185 @@
+# Hints
+
+-  Learn path from tutes and go there to view it
+-  Learn clinical vignette, pathophys processes, sequelae, risk factors, associations, etc.
+-  Histo: learn fn of the tissues you are studying
+
+# Micro
+
+Clostridium: rod | Strep are NOT cat(+) | $\beta$-haemolytic are MRSA
+
+Beta is complete, alpha is partial, gamma is almost non-existent
+
+# Atherosclerosis
+
+High yield. Location is important too. SO abdo aorta is most likely to occur. 
+
+Thrombus from rubture in plaque | Embolus: plaque moves around
+
+Pathophys: smooth muscle from tunica media. Exposure of subendothelial collagen => platelet aggregation and activation
+
+## Histo
+
+Foam cell: clear, circular, and has a nucleus. Chloesterol clefts are the sword looking imprints. Smooth muscle does exist. 
+
+Plaque ruptured => traps RBCs. Pale area: fibrous-looking, contains RBCs and vessels = granulation tissue. Type III collagen is deposited => switches to Type I. 
+
+# Arteriosclerosis
+
+3 types. Hyaline in general refers to pink proteinaceous material. Learn about AD-PKD since that is a fairly common Qs. 
+
+# Aneurysms
+
+Circle of Willis; no internal elastic lamina => saccular (berry) aneurysms
+
+Learn ehlers-danlos
+
+# Aortic dissection
+
+Blood goes from lumen into intima. Elastic tissue not holding up. Vasa vasorum are vessels that supply other vessels. 
+
+## Histopath
+
+Intima is the top, because vasa vasorum is visible at the bottom. 
+
+# DVT
+
+Phlebothrombosis are thrombosis in veins | Has lines of zahn which are aggregates of fibrin and platelets, means it is ante-mortem (pre-death). 
+
+# MI
+
+-  B = blue cells are neutrophils so it is probably early hours
+-  C = nuclei starting to disappear so probably still early
+-  D = still massive amounts of neutrophilic shit everywhere so probably day 2 or 3
+-  E =  fibroblasts and vessels = granulation tissue
+
+Acute Inflamm: first cell is neutrophils, after day 2 macrophages come in along with granulation tissue, deposit type III collagen, then replaced by type I collagen
+
+NTK: what time points are MI shit happening (histo)
+
+Evolution: coagulative necrosis is when nuclei start to fade. Early granulation tissue is Type III collagen which can still rupture. 
+
+Pathology: aneurysm in ventricle
+
+Know Virchow's Triad
+
+# PE
+
+E.g. Someone completed surgery and had a PE. List some risk factors:.:
+
+# Infarcts
+
+Red infarcts: haemorrhagic => due to collaterals. Lungs, liver, intestines
+
+Pale: => end arteries such as heart, kidney, spleen
+
+# Infective endocarditis
+
+Gram stain pink = gram neg
+
+# RHD
+
+Pathognomic are aschoff bodies. Not often zoomed in either. Causative organ Strep pyogenes: E (purple cocci). D is probs Staph. A is enteroccosus?..
+
+Tammy likes molecular mimicry.
+
+Learn Jones criteria
+
+Histo: aschoff nodules have caterpillar nuclei
+
+Sequelae of viral myocarditis (a short case): dilated cardiomegaly | Probs should learn
+
+# Asthma
+
+2 features: mucous plugging, dilation of bronchial wall. UQ likes asthma. Reversible bronchoconstrictionHisto changes: mucous producing cells are goblet cells. 
+
+## Histo
+
+Really pink granulated cells are eosinophils in the centre of the bronchus. Basement membrane is thickened (too pink). Cells have infiltrated (blue) are lymphocytes. "See blue cells in inflammatory setting => LYMPHOCYTES". 
+
+Drugs and pathophysiology are high yield. Type I hypersensitivity <= Tammy likes this. Th2 subtype is involved in sensitisation. ACh in the lung => bronchoconstriction. 
+
+# Emphysema
+
+Bullae => pneumothorax
+
+Types: centriacinar = mostly restricted to resp bronchioles | panacinar: cna consume whole alveolar space. Smoke causes centriacinar as it gets stuck there and can't progress further (usually upper lobe). Panacinar is seen in AAT. 
+
+Know lung fn tests: 
+
+# Bronchiectasis
+
+Top lobe looks good, bottom has dilation of bronchioles. Is obstructive. Resp epithelium = pseudostratified ciliated columnar. 
+
+# Restrictive disease: silicosis
+
+Sarcoidosis would appear earlier than 60. 
+
+Fibroblasts come in and try to contain the silica => produce collagen. Nodules build up and cause inflammation. 
+
+# Pneumoconiosis
+
+Simple CWP no cancer. COmplicated CWP: higher chance of cancer. Caplan's syndrome 
+
+# Asbestosis
+
+## Histo
+
+Extremely thick pleura filled with connective tissue (fibrosis; collagen) and there is some inflammatory infiltrate (lymphocytes). 
+
+# Granulomatous inflamm
+
+Activation of macro by Th1 cells secreting IL12. Eat everything then form a giant cell. 
+
+# Sarcoidosis
+
+Non-caseating granuloma + hilar lymphadenopathy. Macro: hypercalcaemia due to hyperphosphate?! 
+
+# Pneumonia
+
+Greay hepatisation: full of neutrophils exudate and fibrin. Lobar more acute presentation. Learn the stages of pneumonia. 
+
+Microbiology in short cases
+
+Gram stain | Shape | Feature
+E.coli, strep, Learn the atypicals that cause interstitial pneumonia.
+
+# Neoplasms
+
+HIGH Yield
+
+Keratin pearl = squamous cell.
+
+Learn what metaplasia is UQ likes that. 
+
+# Lung tumours
+
+## Adenocarcinoma
+
+Glandular on histo. Scar see collagen. 
+
+Paraneoplastic: lambert blocks presynaptic neuron => flaccid paralysis.
+
+## Path/histo
+
+Benign = well circumscribed mass. 
+
+# Kidney
+
+# Acute pyelonephritis
+
+# Renal cell carcinoma
+
+carcinoma in-situ: has not yet invaded basement membrane
+
+Chromophobe stains pinkish. Need to know clear cell one
+
+VHL Genetics: signal to produce EPO is hypoxia. 
+
+Sarcomas: tumour of connective tissue (fat,...) spread through blood
+
+Carcinomas generally spread lymphatically. 
+
+## Wilms tumour
+
+UNdifferentiated embryological. Genes WT1 and WT2. 
