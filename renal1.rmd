@@ -220,7 +220,7 @@ Hypertensive and kidney fn: decreased oncotic pressure
 3 most common GN for nephrotic syndrome
 
 -  minimal change (children; bowmans space epithelial cells loses its negative charge, so not much morphological change)
--  Membranous glomerulonephritis:
+-  Membranous glomerulonephritis: *sub-epithelial deposits* of immune complexes (type III hypersensitivity)
 -  Focal segmental glomerulosclerosis (FSGS): adults
 
 ## Trigger 3

@@ -7,6 +7,13 @@ output: pdf_document
 
 # Quiz
 
+-  Learn bladder Ca
+    -  Smoking is major risk factor. Can present as painless haematuria
+-  Major mech of stress incontinence: *urethral hypermobility*
+-  *Proteus mirabilis* is a gram(-) rod that leads to highly alkaline urine
+-  Medication associated with acute urinary retention: decongenstant
+-  Enuresis: bedwetting during sleep in child >6
+-  Pharm Mx of BPH: $\alpha$-adrenergic receptor antagonists
 -  Clavulanic acid contains beta-lactam, gets preferentially broken down by resistant bacteria. Therefore penicillin and cephalosporins can have an effect.
 -  Receptors
     -  M~3~: ACh from parasympathetic pelvic nerve to contract detrusor
@@ -14,6 +21,8 @@ output: pdf_document
     -  $\alpha_{1}$ in the int sphincter: hypogastric N: contraction of ext sphincter
     -  Nicotinic in the ext sphincter: somatic from pudendal nerve to contract it
     -  Also sensory N AFFERENT in detrusor that is stimulated when bladder is stretched
+-  Calculi:
+    -  Struvite likely to be from infn
 
 # Main case
 
@@ -21,11 +30,11 @@ output: pdf_document
 
 > ED, 72M severe lower abdo pain, NPU (not passed urine) 1/7, distressed, sweating and very restless.
 
-Sources of pain: urinary bladder, GIT (rectum), prostate, kidney radiating pain, urethra, distal ureter, radiating from gonads, Males: hernia, 
+Sources of pain: urinary bladder, GIT (rectum), prostate, kidney radiating pain, urethra, distal ureter, radiating from gonads, Males: hernia,
 
 Pathophysiological processes for pain: infn, inflamm, ischaemia, trauma, obstruction (could be benign thing), malignancy, herniation, fistulisation (abnormal connection between 2 epithelialised connections [pierced ears are a fistula]), autoimmune destruction (loss of tolerance)
 
-Nature of the pain: 
+Nature of the pain:
 
 -  Somatic vs visceral: things affecting visceral peritoneum would be very sharp due to lots of nerves
 -  Nociceptive (pain due to nociceptors detecting tissue damage. Cna be blocked with NSAIDS, opiods; sharp, burning) vs neuropathic (irritated/diseased nerves e.g. peripheral/autoimmune/diabetic neuropathy or obstructions; described as tingling, burning, pins and needles)
@@ -33,7 +42,7 @@ Nature of the pain:
 
 Pathophysiological processes for decreased urine output: obstruction of {urethra, bladder, VUJ, ureter, renal pelvis}, obstruction due to {calculi, tumour (prostate, urothelioma, bladder), thrombus is rare, PKD, extraluminal compression symptoms e.g. from severe constipation}, drugs, hypovolaemia secondary to {dehydration, haemorrhage}, shocks, strictures (narrowing of ureter, urethra; more often congenital but severe UTI), neurological
 
-Mech behind restlessness and sweating: SNS activation, UTI could lead to delirium (acute state that can be resolved by correcting underlying cause). 
+Mech behind restlessness and sweating: SNS activation, UTI could lead to delirium (acute state that can be resolved by correcting underlying cause).
 
 Micturition reflex triggered at 400mL: get uncomfortable:
 
@@ -43,7 +52,7 @@ Micturition reflex triggered at 400mL: get uncomfortable:
 
 ## Trogger 2
 
-> No past Hx of note, no regular meds, bit of a cold recently and has taken some OTC decongestants. Decongestants block $\alpha$-adrenoceptors. Afebrile (suggests against UTI but it could be a trough in his temperature and peak later), hypertensive. He is hypertensive due to pain. 
+> No past Hx of note, no regular meds, bit of a cold recently and has taken some OTC decongestants. Decongestants block $\alpha$-adrenoceptors. Afebrile (suggests against UTI but it could be a trough in his temperature and peak later), hypertensive. He is hypertensive due to pain.
 
 Risks of cathetirsation: urosepsis (septicaemia due to infection in the genitourinary system)
 
@@ -55,13 +64,13 @@ Dipstick provides info about: proteinuria, haematuria, leukocytes, pH, ketones, 
 
 ## Trigger 3
 
-> Urinary hesitancy, urgency, nocturia, has weak stream. Has had pre-syncopal episode whilst straining to empty bladder. 
+> Urinary hesitancy, urgency, nocturia, has weak stream. Has had pre-syncopal episode whilst straining to empty bladder.
 
 Neurogenic bladder: problems with the nervous system causing urinary retention / incontinence. Have to empty this to prevent stasis => infn.
 
-Nocturia: waking up to piss at night. Pathophysiology: BPH, obstruction, polydipsia (hyperdynamic state; diabetes), if kidney can't concentrate urine, irritable bladder. 
+Nocturia: waking up to piss at night. Pathophysiology: BPH, obstruction, polydipsia (hyperdynamic state; diabetes), if kidney can't concentrate urine, irritable bladder.
 
-Prostate: inferior to bladder and anterior to seminal vesicles. Secretes stuff into the ejaculate. Prostate converts testosterone to DST (by 5-$\alpha$-reductase) which is 5 times more potent making it undergo hyperplasia and enlarge. 
+Prostate: inferior to bladder and anterior to seminal vesicles. Secretes stuff into the ejaculate. Prostate converts testosterone to DST (by 5-$\alpha$-reductase) which is 5 times more potent making it undergo hyperplasia and enlarge.
 
 Bladder outlet obstruction anatomical causes: peyronie syndrome, rectum (faeces or tumour) can cause extraluminal compression, lymph nodes could cause commpression, abscess. Natural Hx: infn, VUR, hydronephrosis, bladder rupture.
 
@@ -78,15 +87,15 @@ Need to monitor to prevent him from going into retention and to prevent the urin
 
 ## Trigger 4
 
-Trabeculated bladder: hypertrophy due to increased resistance (overcoming the obstruction of the enlarged prostate). 
+Trabeculated bladder: hypertrophy due to increased resistance (overcoming the obstruction of the enlarged prostate).
 
-PSA elevation above normal range is significant (even if the real world it may be a really shit test). However the slow rise is reassuring compared to a massive sudden increase. 
+PSA elevation above normal range is significant (even if the real world it may be a really shit test). However the slow rise is reassuring compared to a massive sudden increase.
 
-Reduced kidney fn: could be due to age, possibly due to HTN. 
+Reduced kidney fn: could be due to age, possibly due to HTN.
 
 ## Trigger 5
 
-UTIs: not common in males. Risk factors = urinary stasis. 
+UTIs: not common in males. Risk factors = urinary stasis.
 
 Common bacteria are coliforms (from the colon; gram neg rods such as E. coli, Klebsiella)
 
@@ -104,11 +113,11 @@ Symptomatic relief for prostatic hyperplasia:
 
 Organ systems involved = {urinary system, reproductive}
 
-Sexual Hx: STI, pregnancy, infn. Facilitates trauma for bugs. 
+Sexual Hx: STI, pregnancy, infn. Facilitates trauma for bugs.
 
 Absence of systemic symptoms $\rightarrow$ localised: not urosepsis, pelvic inflammatory disease (sepsis within the abdomen)
 
-Well person Ix: don't really have to FBC since there is no education that there is systemic effects. 
+Well person Ix: don't really have to FBC since there is no education that there is systemic effects.
 
 ## Trigger 2
 
@@ -130,13 +139,13 @@ Medication: empaglutlozin blocks the SGLT-2 transporter so can't reabsorb sugar.
 
 > 22/12M child, febrile, vomited, diarrhoea
 
-GIT symptoms from systemic things such as: thyroid problems, infn in urinary tract cytokines (IL-1, TNF-$\alpha$, IL-5), sick from URTI can give diarrhoea. 
+GIT symptoms from systemic things such as: thyroid problems, infn in urinary tract cytokines (IL-1, TNF-$\alpha$, IL-5), sick from URTI can give diarrhoea.
 
 Pathophysiological processes causing fever: malignancy, infn, inflammation (autoimmune), medications/immunisations,
 
 Pathophys involved with diarrhoea and vomiting: fluid shifts associated with fever, inflamm, infn from {protozoa, bacteria, viral}, toxicity, thyrotoxicosis, pain, overeating, motion sickness, allergic response
 
-NSAIDS and paracetamol make fever abate. 
+NSAIDS and paracetamol make fever abate.
 
 Most common cause of fever in child: URTI such as otitis media, viral, skin infections
 
@@ -151,7 +160,7 @@ Conditions not to miss in a febrile child (potentiall fatal or life altering)
 
 ## Trigger 2
 
-Lethargy is basically saying the child is unwell and needs some help. 
+Lethargy is basically saying the child is unwell and needs some help.
 
 Fever
 
@@ -164,8 +173,8 @@ Take samples **before** starting antibiotic treatment.
 
 ## Trigger 3
 
-Asymptomatic bacteriauria (bacteria in urine) which isn't a problem unless symptoms, pregnant, or transplant. 
+Asymptomatic bacteriauria (bacteria in urine) which isn't a problem unless symptoms, pregnant, or transplant.
 
-High fever usually indicates pyelonephritis (also common in first year of life) rather than cystitis. 
+High fever usually indicates pyelonephritis (also common in first year of life) rather than cystitis.
 
 Ureters implant obliquely on the bladder which is a functional valve (not anatomical).
