@@ -22,7 +22,7 @@ output: pdf_document
     -  Nicotinic in the ext sphincter: somatic from pudendal nerve to contract it
     -  Also sensory N AFFERENT in detrusor that is stimulated when bladder is stretched
 -  Calculi:
-    -  Struvite likely to be from infn
+    -  Struvite likely to be from infn (such as *Proteus*)
 
 # Main case
 
@@ -37,7 +37,7 @@ Pathophysiological processes for pain: infn, inflamm, ischaemia, trauma, obstruc
 Nature of the pain:
 
 -  Somatic vs visceral: things affecting visceral peritoneum would be very sharp due to lots of nerves
--  Nociceptive (pain due to nociceptors detecting tissue damage. Cna be blocked with NSAIDS, opiods; sharp, burning) vs neuropathic (irritated/diseased nerves e.g. peripheral/autoimmune/diabetic neuropathy or obstructions; described as tingling, burning, pins and needles)
+-  Nociceptive (pain due to nociceptors detecting tissue damage. Can be blocked with NSAIDS, opiods; sharp, burning) vs neuropathic (irritated/diseased nerves e.g. peripheral/autoimmune/diabetic neuropathy or obstructions; described as tingling, burning, pins and needles)
 -  Types of abdo pain: epigastric (foregut), umbilical (midgut), lower abdo (hindgut)?!?!: most likely to be hindgut pain (2/3 of transverse colon and down)
 
 Pathophysiological processes for decreased urine output: obstruction of {urethra, bladder, VUJ, ureter, renal pelvis}, obstruction due to {calculi, tumour (prostate, urothelioma, bladder), thrombus is rare, PKD, extraluminal compression symptoms e.g. from severe constipation}, drugs, hypovolaemia secondary to {dehydration, haemorrhage}, shocks, strictures (narrowing of ureter, urethra; more often congenital but severe UTI), neurological
@@ -50,15 +50,15 @@ Micturition reflex triggered at 400mL: get uncomfortable:
 -  Internal sphincter: sympathetic from hypogastric N
 -  External sphincter: somatic
 
-## Trogger 2
+## Trigger 2
 
 > No past Hx of note, no regular meds, bit of a cold recently and has taken some OTC decongestants. Decongestants block $\alpha$-adrenoceptors. Afebrile (suggests against UTI but it could be a trough in his temperature and peak later), hypertensive. He is hypertensive due to pain.
 
-Risks of cathetirsation: urosepsis (septicaemia due to infection in the genitourinary system)
+Risks of catheterisation: urosepsis (septicaemia due to infection in the genitourinary system)
 
 $V(Urine)$: high is more likely acute obstruction, smaller could be from chronic urinary retention. Bladder can be percussed >150mL, palpable >200mL, acute obstruction V usually <1L, chronic V can be larger as they are desensitised.
 
-Medications interfering with micturition such as NSAIDS, decongestants for URTI
+Medications interfering with micturition such as NSAIDS, decongestants for URTI.
 
 Dipstick provides info about: proteinuria, haematuria, leukocytes, pH, ketones, nitrites, bilirubin. Due to the low sensitivity of urine dipstick we are unable to rule out specific pathologies. Dipstick must be considered in the full clinical context, and further analysis such as urinalysis would be necessary.
 
