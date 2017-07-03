@@ -1,0 +1,40 @@
+```
+title: MSK I
+author: Aaron Khoo
+date: `r format(Sys.Date(%d %B %Y))`
+```
+
+# Readings
+
+## Describing a fracture
+
+1.  Describe the film: who what when where why
+2.  What type of fracture? Complete = {transverse, oblique, spiral, comminuted}, Incomplete = {bowing, bucle, greenstick}, Salter-Harris
+3.  Where is fracture = {diaphysis, metaphysis, epiphysis}
+4.  Is it displaced? {angulation, translation, rotation}
+5.  Something else happening too?
+
+## Trauma
+
+### Primary survey
+
+-  Circulation (including haemorrhage control)
+-  Airway Maintenance (cervical spine control)
+-  Breathing and Ventilation
+-  Circulation (reassess again - this is IMPORTANT)
+-  Disability (check neurological status)
+-  Exposure (undress patient completely - strip and flip, examining both sides of the patient) - cover as soon as practical to prevent hypothermia.
+
+### Ix
+
+-  FBC - Hb, Hct, Platelets
+-  ABG with Lactate  - check for ventilatory failure and marker of shock (lactate)
+-  Coag's - evidence of early trauma associated coagulopathy.
+-  Blood alcohol
+-  EUC
+-  Group and Hold +/- X-Match as indicated.
+-  ECG
+-  CXR, PXR
+-  eFAST (extended FAST ultrasound scan)
+-  CT scans as indicated (generally in the obtunded major trauma patient a panscan is performed if the patient is haemodynamically stable)
+-  Urinalysis
