@@ -38,3 +38,29 @@ date: `r format(Sys.Date(%d %B %Y))`
 -  eFAST (extended FAST ultrasound scan)
 -  CT scans as indicated (generally in the obtunded major trauma patient a panscan is performed if the patient is haemodynamically stable)
 -  Urinalysis
+
+## Principles of fracture Mx
+
+### Initial
+
+Maintain/improve:
+
+-  Blood supply
+-  Soft tissue health
+
+Open fractures
+
+-  Prevent infn: antibiotics immediately
+-  Allow fracture to heal
+-  Restore fn in the limb
+
+### Non-operative therapy
+
+-  Casting: contraindicated if = {no displacement, displacement exists but not relevant to fn outcome, reduction impossible, reduction cannot be maintained, fracture produced by traction forces}
+-  Traction = {skin, skeletal}
+
+### Surgical therapy
+
+-  Kirschner wires
+-  Plates = {buttress, compression, neutralisation, tension-band, bridge} and screws
+-  External fixation: used with open fractures that have significant soft tissue disruption
