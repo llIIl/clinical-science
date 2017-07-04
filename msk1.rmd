@@ -2,6 +2,7 @@
 title: MSK I
 author: Aaron Khoo
 date: `r format(Sys.Date(%d %B %Y))`
+output: pdf_document
 ```
 
 # Readings
@@ -21,7 +22,7 @@ date: `r format(Sys.Date(%d %B %Y))`
 -  Circulation (including haemorrhage control)
 -  Airway Maintenance (cervical spine control)
 -  Breathing and Ventilation
--  Circulation (reassess again - this is IMPORTANT)
+-  Circulation (reassess again - this is IMPORTANT; check for pulses, bleeding, cyanosis,...)
 -  Disability (check neurological status)
 -  Exposure (undress patient completely - strip and flip, examining both sides of the patient) - cover as soon as practical to prevent hypothermia.
 
@@ -32,7 +33,7 @@ date: `r format(Sys.Date(%d %B %Y))`
 -  Coag's - evidence of early trauma associated coagulopathy.
 -  Blood alcohol
 -  EUC
--  Group and Hold +/- X-Match as indicated.
+-  Group and Hold +/- X-Match as indicated. (Checks blood type)
 -  ECG
 -  CXR, PXR
 -  eFAST (extended FAST ultrasound scan)
@@ -64,3 +65,79 @@ Open fractures
 -  Kirschner wires
 -  Plates = {buttress, compression, neutralisation, tension-band, bridge} and screws
 -  External fixation: used with open fractures that have significant soft tissue disruption
+
+# CBL Main case
+
+## Trigger 1
+
+58M 2 story fall, injuries right leg and arm, denies head or neck injury. 
+
+Immediate Mx: primary survey (see above). 
+
+Further info from pt:
+
+-  HPC: What caused him to fall such as seizure or slip? How did he fall? Land on anything? Remember the whole thing?
+-  Site, onset, character, radiation, associations, time course, exacerbating/relieving factors, severity (in-depth HPC later).
+-  See if anything else is wrong. Distracting injury could obfuscate.
+-  Who is next of kin?
+
+After primary survey => secondary survey
+
+-  Head to toe Ex
+-  Look for fractures
+-  Pulses, sensation, pain: neurovascularly intact
+-  Auscultate for breath sounds, heart sounds
+-  Palpate
+-  FAST ultrasound: see if there is something bleeding
+-  Log roll to turn them over and look for same stuff
+    -  Push down c-spine to check if there is any pain
+
+## Trigger 2
+
+Pt tachycardic when he came in and hypotensive. Pulse gone down for a bit probably due to morphine getting rid of pain. 
+
+Imaging indicated: X-rays of right upper and lower limb. Can be difficult to assess for spinal injuries so it might be alright to image spine. 
+
+## Trigger 3
+
+Fractures:
+
+-  Complete spiral fracture to distal diaphysis R tibia
+-  Comminuted fracture proximal diaphysis R fibula
+-  Compound comminuted (through the skin) middle diaphysis right ulna
+    -  Note: have to be methodical because if the ulna is fucked then the radius could be too
+
+Fracture Mx:
+
+-  Non-operative: closed reduction (pulling the bone back into alignment)
+-  Operative: open reduction
+
+Complications from open fracture:
+
+-  Infn
+-  Embolism
+
+## Trigger 4
+
+DDx post-op pain: 5W's of post-op fever = {wind [pneumonia], water [UTI], wound [infns especially after day 5], wonderdrugs [iatrogenic], walking [walking reduces DVT]}
+
+-  Compartment syndrome
+-  DVT
+-  Infn
+-  Nerve palsy
+
+On Ex for new leg pain:
+
+-  Inspection: signs on inflammation, cyanosis
+-  Palpate: neurovascular, loss/decrease pulses, temperature, cap refill (comparing both sides)
+-  Neuro assessment
+
+## Trigger 5
+
+Compartment system features:
+
+-  Parasthesia
+-  Tenderness
+-  Increased pain from passive stretching (e.g. toes)
+
+
