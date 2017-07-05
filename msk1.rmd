@@ -70,9 +70,9 @@ Open fractures
 
 ## Trigger 1
 
-58M 2 story fall, injuries right leg and arm, denies head or neck injury. 
+58M 2 story fall, injuries right leg and arm, denies head or neck injury.
 
-Immediate Mx: primary survey (see above). 
+Immediate Mx: primary survey (see above).
 
 Further info from pt:
 
@@ -94,9 +94,9 @@ After primary survey => secondary survey
 
 ## Trigger 2
 
-Pt tachycardic when he came in and hypotensive. Pulse gone down for a bit probably due to morphine getting rid of pain. 
+Pt tachycardic when he came in and hypotensive. Pulse gone down for a bit probably due to morphine getting rid of pain.
 
-Imaging indicated: X-rays of right upper and lower limb. Can be difficult to assess for spinal injuries so it might be alright to image spine. 
+Imaging indicated: X-rays of right upper and lower limb. Can be difficult to assess for spinal injuries so it might be alright to image spine.
 
 ## Trigger 3
 
@@ -140,4 +140,122 @@ Compartment system features:
 -  Tenderness
 -  Increased pain from passive stretching (e.g. toes)
 
+# Short case 2
 
+## Trigger 1
+
+> GP in Sarina (popn 6,000). Called by nurse working night shift. 72M brought in by *ambulance* found on bathroom floor. COuldn't get up, pain left hip, wife along.
+
+Further info:
+
+-  HPC: What caused him to fall such as seizure or slip? How did he fall? Land on anything? Remember the whole thing?
+-  SOCRATES: site, onset, character, radiation, associations, time course, exacerbating/relieving factors, severity (in-depth HPC later).
+-  See if anything else is wrong. Distracting injury could obfuscate.
+-  Who is next of kin?
+
+DDx: why can't pt get off ground
+
+-  MSK: fracture, muscular issues
+-  GIT: constipation
+-  CVS: shock, MI, stroke
+-  Resp:
+-  Neuro: nerve palsy, parkinsons?, lots of pain
+-  Depression? Drugs? Alcohol
+
+DDx: hip pain
+
+-  Extrinsic
+    -  Abdo/pelvic causes = {appendicitis, ovarian pathology, bowel pathology, endometriosis}.
+    -  Local pathology such as inguinal/femoral herniae, lymph nodes.
+    -  Spinal or sacroiliac referred pain.
+    -  Meralgia paraesthetica (entrapment of lateral cutaneous nerve) or sciatica
+    -  Malignancy
+-  Intrinsic
+    -  Soft tissue = {tendonitis, bursitis, snapping hip [movement of ITB over greater trochanter]}
+    -  Joint = {osteoarthritis, rheumatoid, septic, synovitis}
+    -  Bone = {hip/femur fracture, avascular necrosis}
+
+Risk factors for falls in the elderly
+
+-  MSK: muscle weakness, pain in feet
+-  Neuro: balance, parkinsons, poor vision
+-  CVS: hypotension
+-  External: clothes, external hazards, medications
+
+## Trigger 2
+
+> Found before 5am lying on floor, crying in pain, unable to get up. No PMHx of chest pain, palpitations, "fits, faints or funny turns" [pre-syncope/syncope?]. PMHx = {osteoarthritis, HTN, insomnia, hearing loss, BPH}. Meds = {atenolol [$\beta-1$ blocker; used for HTN], oxazepam [benzodiazepine; used for anxiety, insomnia, and alcohol withdrawal], panadol osteo [paracetamol; relief for osteoarthritis]}. Said he slipped on bath mat after waking up whilst going to the toilet. Falling $\rightarrow$ severe pain in left hip, felt unable to stand.
+
+Specific physical Ex:
+
+-  General inspection
+-  Vitals
+-  Cardio/resp Ex
+-  Secondary survey?
+-  Lower limb pulses
+
+Hip Ex?
+
+-  Inspect: deformities, swelling, scars, wasting
+-  Posture: spinal, leg, foot
+-  Gait: Trendelenburg sign or crossed adductor gait suggests advanced hip disease
+-  Feel: swellings (herniae)
+-  Move: flex, extend, int/ext rotate, ab/ad-duct
+-  Fabre test: tries to reproduce pain to localise?
+-  Impingement (fadir) test
+    -  Ante: joint path, tendonitis, bursitis
+    -  Post: sacroiliac or lumbar
+
+Priorities: Mx severe pain in left hip and get him walking again. Urgent: probs not
+
+PMHx and meds: osteoarthritis, HTN, atenolol, oxazepam (muscle relaxant)
+
+## Trigger 3
+
+> Man in pain. Given analgesia. Hypotensive, nil CVS/resp, no abnormalities other than left hip painful and limb appears shortened and externally rotated. Pedal pulses palpable bilaterally, sensation present bilaterally, dorsiflexion and plantar bilaterally. Too painful to proceed further. Hip X-ray ordered + FBC and eLFT. 2.5mg IV morphine, pt is kept nil by mouth(?)
+
+Shortening
+
+-  Proximal to trochanter: loss of articular cartilage from infn or arthritis, dislocation
+-  Distal to trochanter: fractures of femur, tibia
+-  Lengthening of one limb: increased vascularity stimulating growth (such as long bone fracture/neoplasia)
+
+Mx priorities:
+
+-  Pain
+-  Fix fracture
+-  Prevent fracturing again
+
+Secondary survey: focused Hx and physical Ex. Assumed that life-threatening issues have been found and corrected. Includes Hx taking and vitals
+
+Pt is at risk of hypovolaemia if it is bleeding.
+
+Ix:
+
+-  Imaging: X-ray to view what is happening
+-  FBC: check for anaemia?
+-  CHEM20
+
+## Trigger 4
+
+> X-ray hip shows sub-capital fracture of the femur. Decreased bone density of the hip and femur. Normal biochemistry and haematology. Transferred to Mackay hospital where succesful surgery for fractured neck of femur. Bone mineral density scan confirms demineralisation of long bones and vertebrae with significant loss of trabeculae bone consistant with primary osteoporosis.
+
+A pathologic fracture is a bone fracture caused by disease that led to weakness of the bone structure. E.g.osteoporosis, Ca, infn, inherited bone disorders,.... Fragility fracture $\in$ pathologic fracture, occurs as a result of normal activities such as fall from standing height or less.
+
+Bone mineral density (looks at calcium):
+
+-  $-2.5<\text{osteopaenia}\leq-1$
+-  $\text{osteoporosis}\leq-2.5$
+
+Osteoporosis Mx:
+
+-  Pharmacologic: bisphosphanates (alendronate), calcitonin, denosumab (RANKL antag)
+-  Vertebroplasty and kyphoplasty: for pt with persistent and severe focal back pain due to vertebral collapse
+-  Dietary measures: adequate calcium and vit D
+-  Physical therapy
+
+Blood supply: avascular necrosis and non-union are common in fractures of the neck of femur (sub-capital) without surgical intervention, because the blood supply is interrupted. Rare after intertrochanteric fractures.
+
+Prognosis: varied, but is complicated by advanced age, as hip fractures increase the risk of death and major morbidity in the elderly. QoL may be decreased due to mobility issues.
+
+Safely discharged:
