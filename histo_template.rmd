@@ -1,0 +1,23 @@
+---
+title: "Histo of ____"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+header-includes:
+  -  \usetheme{metropolis}
+output:
+  beamer_presentation:
+    keep_tex: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+setwd("/home/khoo/Documents/uni_work/4_sem_1/7111/pracs/histo/week_")
+# rename 's/test-this/REPLACESTRING/g' *
+```
+
+```{r image_loop2, results = 'asis'}
+dickpics <- gtools::mixedsort(list.files("images/"))
+for(i in 1:length(dickpics)){
+  cat("### ", strsplit(dickpics[i], "\\.")[[1]][1], "\n", '\\includegraphics[width=\\linewidth,height=\\textheight,keepaspectratio]{{"', file.path("images", strsplit(dickpics[i], "\\.")[[1]][1]), '"}.PNG}', "\n", "\n", sep = "")
+}
+```
