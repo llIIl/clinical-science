@@ -1,7 +1,7 @@
 ```
-title: MSK I
-author: Aaron Khoo
-date: `r format(Sys.Date(%d %B %Y))`
+title: "MSK I"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
 output: pdf_document
 ```
 
@@ -140,18 +140,70 @@ Compartment system features:
 -  Tenderness
 -  Increased pain from passive stretching (e.g. toes)
 
+# Short case 1
+
+## Trigger 1
+
+> 43F bilateral shin pain, worse on L. Worsening past 2-3/12. Back from 1/12 training deployment army involving vigorous training. 
+
+Deep fibula N supplies anterior compartment of lower limb.
+
+Pain origin: referred pain (sciatica can radiate to lower leg) [o/e could be no pain in the isolated area, but palpating the spine can demonstrate], dodgy gait, could be claudication, varicose veins, arthritis
+
+To think of DDx: VINDICATE = {vascular, inflamm, neoplastic, degenerative/deficiency, idiopathic, congenital, autoimmune/allergic, traumatic, endocrine}
+
+Questions to exclude red flags:
+
+-  Have you been feeling tired and fatigued (Cancer)
+-  Pain at rest or nocturnal, enough to disturb sleep
+-  Weight loss, night sweats, or chills (Ca)
+-  Hx of malignancy
+-  Neuro compromise
+-  Drugs or steroids (osteoporosis)
+-  Immunosuppressed (infn; osteomyelitis)
+
+Bone structure from exercise: Wolffs law, bones laid down where it is needed.
+
+Hx questions:
+
+-  HPC: SOCRATES, what do you think it is, why did you come in *today* as opposed to last week or yesterday,...
+-  PMHx/PSHx
+-  Medications (also gives indication for PMHx)/allergies/drugs
+-  Fam Hx
+-  Repro Hx
+-  Social Hx: lifestyle, food, exercise, smoking
+
+Menopause is a risk factor for osteoporosis.
+
+MSK Ex: look $\rightarrow$ feel $\rightarrow$ move whilst comparing both sides
+
+## Trigger 2
+
+> Pain before deploying, has gradually worsened and now occurs with lighter exercise. Present at night.
+
+Ex: Medial tibial stress syndrome has no swelling
+
+Pathophysiology processes: fractures, necrosis
+
+## Trigger 3
+
+> Normal X-ray. She gets MRI
+
 # Short case 2
 
 ## Trigger 1
 
-> GP in Sarina (popn 6,000). Called by nurse working night shift. 72M brought in by *ambulance* found on bathroom floor. COuldn't get up, pain left hip, wife along.
+> GP in Sarina (popn 6,000). Called by nurse working night shift. 72M brought in by *ambulance* found on bathroom floor. Couldn't get up, pain left hip, wife along.
 
 Further info:
 
 -  HPC: What caused him to fall such as seizure or slip? How did he fall? Land on anything? Remember the whole thing?
 -  SOCRATES: site, onset, character, radiation, associations, time course, exacerbating/relieving factors, severity (in-depth HPC later).
+-  Did you hit head
+-  Remember everything, how did you fall?
 -  See if anything else is wrong. Distracting injury could obfuscate.
 -  Who is next of kin?
+-  Social Hx to see how healthy he is
 
 DDx: why can't pt get off ground
 
@@ -160,14 +212,14 @@ DDx: why can't pt get off ground
 -  CVS: shock, MI, stroke
 -  Resp:
 -  Neuro: nerve palsy, parkinsons?, lots of pain
--  Depression? Drugs? Alcohol
+-  Depression? Drugs diuretics can make pt get up at night? Alcohol
 
 DDx: hip pain
 
 -  Extrinsic
-    -  Abdo/pelvic causes = {appendicitis, ovarian pathology, bowel pathology, endometriosis}.
-    -  Local pathology such as inguinal/femoral herniae, lymph nodes.
-    -  Spinal or sacroiliac referred pain.
+    -  Abdo/pelvic causes = {appendicitis, ovarian pathology, bowel pathology, endometriosis}
+    -  Local pathology such as inguinal/femoral herniae, lymph nodes
+    -  Spinal or sacroiliac referred pain
     -  Meralgia paraesthetica (entrapment of lateral cutaneous nerve) or sciatica
     -  Malignancy
 -  Intrinsic
@@ -178,9 +230,10 @@ DDx: hip pain
 Risk factors for falls in the elderly
 
 -  MSK: muscle weakness, pain in feet
--  Neuro: balance, parkinsons, poor vision
+-  Neuro: balance, parkinsons, poor vision, inner ear pathology
 -  CVS: hypotension
--  External: clothes, external hazards, medications
+-  Renal: urinary incontinence can make people rush to the bathroom with increased risk of falling
+-  External: clothes, external hazards, medications (polypharmacy)
 
 ## Trigger 2
 
@@ -206,7 +259,7 @@ Hip Ex?
     -  Ante: joint path, tendonitis, bursitis
     -  Post: sacroiliac or lumbar
 
-Priorities: Mx severe pain in left hip and get him walking again. Urgent: probs not
+Priorities: Mx severe pain in left hip and vitals. Urgent: probs not
 
 PMHx and meds: osteoarthritis, HTN, atenolol, oxazepam (muscle relaxant)
 
@@ -235,6 +288,10 @@ Ix:
 -  Imaging: X-ray to view what is happening
 -  FBC: check for anaemia?
 -  CHEM20
+-  ECG
+-  Group and hold
+-  COAGs
+
 
 ## Trigger 4
 
@@ -251,8 +308,9 @@ Osteoporosis Mx:
 
 -  Pharmacologic: bisphosphanates (alendronate), calcitonin, denosumab (RANKL antag)
 -  Vertebroplasty and kyphoplasty: for pt with persistent and severe focal back pain due to vertebral collapse
--  Dietary measures: adequate calcium and vit D
--  Physical therapy
+-  Dietary measures: adequate calcium and vit D, smoking and alcohol
+-  Physical therapy: weight bearing exercise
+-  Hormone therapy
 
 Blood supply: avascular necrosis and non-union are common in fractures of the neck of femur (sub-capital) without surgical intervention, because the blood supply is interrupted. Rare after intertrochanteric fractures.
 
