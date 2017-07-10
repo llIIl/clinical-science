@@ -1,0 +1,140 @@
+```
+title: "MSK II"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output: pdf_document
+```
+
+# Bone
+
+## Physiology
+
+-  Matrix composed of 35% osteoid (mainly type I collagen) and 65% mineral component (mainly hydroxyapatite).
+-  2 types of matrix = {woven, lamellar}
+-  Cells = {osteoblasts, osteoclasts, osteocytes}
+-  Development:
+    -  Long bones from endochondral ossification
+    -  Flat bones from intramembranous ossification
+-  Remodelling:
+    -  RANKL: stimulates RANK => increased osteoclast differentiation (stimulated by PTH)
+    -  OPG: inhibits RANKL RANK signalling => decreased osteoclast differentiation
+
+
+## Pathology
+
+### Congenital
+
+-  Dysostoses: defects in migration and condensation of mesenchyme
+-  Dysplasia: global disorganisation of bone/cartilage
+    -  Achondroplasia: most common AD disorder from g.o.f *FGFR3* mutation => retarded cartilage growth
+    -  Thanatophoric dysplasia: lethal dwarfism also g.o.f *FGFR3*
+    -  Osteogenesis imperfecta: mutation in *type I collagen* => dominant negative lof mutation => too little bone => fragility
+    -  Osteopetrosis: reduced bone resorption resulting from impaired formation or fn of osteoclasts. AR mutations in *CA2* or *TCIRG1*
+
+### Metabolic
+
+-  Osteopenia
+-  Osteoporosis: age related, reduced physical activity, genetic factors, calcium nutritional state, hormonal influences (e.g. estrogen deficiency).  
+Clinical course can lead to lordosis/kyphoscoliosis/PE/pneumonia.
+-  Rickets and osteomalacia: manifestations of vit D deficiency or abnormal metabolism
+
+### Paget's
+
+Paget disease is condition of increased but disordered and structurally unsound bone. Both genetic and environmental causes (usually *SQSTM1*). Hallmark is mosaic pattern of lamellar bone.
+
+1.  Initial osteolytic stage
+2.  Mixed osteoclastic/osteoblastic stage => predominance of osteoblastic activity
+3.  Burned out quiescent osteosclerotic phase
+
+### Fracture healing
+
+-  Rupture of vessles results in haematoma surrounding area of bone injury
+-  Clotted blood provides fibrin mesh, sealing off fracture site, and providing scaffold for inflamm cells/fibroblasts/angiogenesis.
+-  Degradnulated platelets and inflamm cells release PDGF, TGF-$\beta$, FGF to activate osteoprogenitor cells.
+-  End of first week: mass of uncalcified tissue called *soft callus* provides anchorage between ends of fractured bone.
+-  After two weeks: soft callus => bony callus due to deposition of woven bone, hyaline/fibro-cartilage, and endochondral ossification.
+
+### Osteomyelitis
+
+Inflamm of bone and marrow, usually secondary to infn.  
+
+-  Pyogenic: usually bacteria, rarely fungi. Normally *Staph aureus*
+    1.  Haematogenous spread
+    2.  Extension from contiguous site
+    3.  Direct implantation after compound fractures
+-  Mycobacterial osteomyelitis
+
+### Bone tumours
+
+| Category          | Behavior  | Tumor Type                    | Common Locations                           | Age (yr) | Morphology                                                                                               |
+|-------------------|-----------|-------------------------------|--------------------------------------------|----------|----------------------------------------------------------------------------------------------------------|
+| Cartilage forming | Benign    | Osteochondroma                | Metaphysis of long bones                   | 10–30    | Bony excrescence with cartilage cap                                                                      |
+| —                 | —         | Chondroma                     | Small bones of hands and feet              | 30–50    | Circumscribed hyaline cartilage nodule in medulla                                                        |
+| —                 | Malignant | Chondrosarcoma (conventional) | Pelvis, shoulder                           | 40–60    | Extends from medulla through cortex into soft tissue, chondrocytes with increased cellularity and atypia |
+| Bone forming      | Benign    | Osteoid osteoma               | Metaphysis of long bones                   | 10–20    | Cortical, interlacing microtrabeculae of woven bone                                                      |
+| —                 | —         | Osteoblastoma                 | Vertebral column                           | 10–20    | Posterior elements of vertebra, histology similar to osteoid osteoma                                     |
+| —                 | Malignant | Osteosarcoma                  | Metaphysis of distal femur, proximal tibia | 10–20    | Extends from medulla to lift periosteum, malignant cells producing woven bone                            |
+| Unknown origin    | Benign    | Giant cell tumor              | Epiphysis of long bones                    | 20–40    | Destroys medulla and cortex, sheets of osteoclasts                                                       |
+| —                 | —         | Aneurysmal bone cyst          | Proximal tibia, distal femur, vertebra     | 10–20    | Vertebral body, hemorrhagic spaces separated by cellular, fibrous septae                                 |
+| —                 | Malignant | Ewing sarcoma                 | Diaphysis of long bones                    | 10–20    | Sheets of primitive small round cells                                                                    |
+
+## Joints
+
+-  Solid (nonsynovial: synarthroses): structural integrity
+    -  Fibrous synarthroses: cranial structures and bonds between roots of teeth and jawbone
+    -  Cartilaginous synarthroses (synchondroses): symphyses between sternum and ribs
+-  Cavitated (synovial joints): have joint space for wide range of movement. Lined by type A synoviocytes (specialised macros with phago activity) and type B synoviocytes (sim to fibroblasts and synthesise hyaluronic acid). Hyaline cartilage serves as elastic shock absorber.
+
+### Arthritis
+
+-  Osteoarthritis: degeneration of articular cartilage leading to structural and fn failure of synovial joints.
+-  Rheumatoid arthritis: chronic inflamm of autoimmune origin attacking the joints
+-  Juvenile idiopathic arthritis: affects before age 16
+-  Seronegative spondylarthropathies:
+    -  Absence of rheumatoid factor
+    -  Path changes in ligamentous attachments rather than synovium
+    -  Involvement of sacroiliac joints $\pm$ others
+    -  Association with HLA-B27
+    -  Bony proliferation leading to ankylosis
+-  Infectious arthritis
+-  Suppurative arthritis: bacterial infns that cause acute suppurative usually enter joints from distant sites by haematogenous spread. Restricted ROM
+-  Lyme disease: systemic infn by *Borella burgdorferi*
+-  Crystal induced arthritis:
+    -  Gout: urate crystal deposition in/around joints.
+    -   Calcium Pyrophosphate Crystal Deposition Disease (Pseudogout)
+
+### Tumours
+
+Primary are rare.
+
+-  Ganglion and Synovial Cysts: small (1–1.5 cm) cyst that is almost always located near a joint capsule or tendon sheath.
+-  Tenosynovial Giant Cell Tumor
+
+## Soft tissue tumours
+
+Soft tissue refers to non-epithelial tissue excluding the skeleton, joints, central nervous system, hematopoietic and lymphoid tissues
+
+### Tumours of adipose tissue
+
+-  Lipoma: benign
+-  Liposarcoma: malignant
+
+### Fibrous tumours
+
+-  Nodular fasciitis: self limiting fibroblastic and myofibroblastic proliferation occuring in upper extremities of young adults
+-  Superificial fibromatosis: infiltrative proliferation causing local deformity but has innocuous clinical course
+-  Deep fibromatosis: desmoid tumours. Large infiltrative masses that recur frequently but do not metastasise.
+
+### Sk muscle tumours
+
+-  Rhabdomyosarcoma: malignant mesenchymal tumour with sk muscle differentiation. Three main subtypes are recognized: alveolar [fusions of FOXO1 to PAX3/PAX7] (20%), embryonal (60%), and pleomorphic (20%).
+
+### Smooth muscle tumour
+
+-  Leiomyoma: benign most common in the uterus but can arise in any soft tissue site.
+-  Leiomyosarcoma: They occur in adults and affect women more frequently than men.
+
+### Tumours of uncertain origin
+
+-  Synovial sarcoma
+-  Undifferentiated pleomorphic sarcoma: ncludes malignant mesenchymal tumors with high-grade, pleomorphic cells that cannot be classified into another category by a combination of histomorphology, immunophenotype, ultrastructure, and genetics.
