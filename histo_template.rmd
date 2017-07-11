@@ -21,3 +21,12 @@ for(i in 1:length(dickpics)){
   cat("### ", strsplit(dickpics[i], "\\.")[[1]][1], "\n", '\\includegraphics[width=\\linewidth,height=\\textheight,keepaspectratio]{{"', file.path("images", strsplit(dickpics[i], "\\.")[[1]][1]), '"}.PNG}', "\n", "\n", sep = "")
 }
 ```
+
+```{r image_loop2, results = 'asis'}
+png_images <- gtools::mixedsort(list.files("images/"))
+for(i in 1:length(png_images)){
+    name <- strsplit(png_images[i], "\\)  # complete this here
+    cat("\begin{frame}", "\n", 
+  cat("### ", strsplit(dickpics[i], "\\.")[[1]][1], "\n", '\\includegraphics[width=\\linewidth,height=\\textheight,keepaspectratio]{{"', file.path("images", strsplit(dickpics[i], "\\.")[[1]][1]), '"}.PNG}', "\n", "\n", sep = "")
+}
+```

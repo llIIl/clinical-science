@@ -137,4 +137,80 @@ Soft tissue refers to non-epithelial tissue excluding the skeleton, joints, cent
 ### Tumours of uncertain origin
 
 -  Synovial sarcoma
--  Undifferentiated pleomorphic sarcoma: ncludes malignant mesenchymal tumors with high-grade, pleomorphic cells that cannot be classified into another category by a combination of histomorphology, immunophenotype, ultrastructure, and genetics.
+-  Undifferentiated pleomorphic sarcoma: includes malignant mesenchymal tumors with high-grade, pleomorphic cells that cannot be classified into another category by a combination of histomorphology, immunophenotype, ultrastructure, and genetics.
+
+# Main case
+
+## Trigger 1
+
+> GP suburban, 32F, wrist pains over last few weeks, started after netball, R>L and right hand dominant
+
+Pathophysiological processes: VINDICATE
+
+-  Vascular: infarction
+-  Inflammation/infn: RA, reiters syndrome (after $\Delta$sex Hx especially: males; hurts to pee, can't see, hurt my knee), crystal arthropathies, lyme disease, septic arthritis, viral arthralgia
+-  Degenerative: OA (could be secondary), RSI, carpal tunnel syndrome (nerve entrapment) 
+-  Iatrogenic: drugs (hydrolazine)
+-  Congenital: osteogenesis imperfecta
+-  Autoimmune: RA, SLE
+-  Trauma: overuse injury, trauma [did you fall weirdly?]
+-  Endocrine:
+
+Arthritis (inflamm) vs arthralgia (pain in jts)
+
+-  Mono: 1
+-  Oligo: 2-4
+-  Poly: $\geq5$
+
+Things masquerading as joint pain: muscle, nerve
+
+Imp systemic symptoms for DDx: fever (timecourse, associated with other symptoms), malaise (might suggest high metabolic demand; chronic inflamm)
+
+-  HPC: SOCRATES + have you had before + impacting on daily life, have you been sick recently, did you fall?
+-  Systems review:
+    -  CVS: palpitations, chest pain
+    -  Neuro: fits, faints, funny, numbness, headaches, vision/hearing
+    -  Resp: SOB goes with CVS
+    -  GIT: nausea/vomiting, changes in bowel habit
+    -  Genito/urinary: frequency/pain/bleeding on urination, women = menstrual Hx
+-  PMHx, sexual Hx, FHx + SHx + travel Hx
+-  Any neurological symptoms?
+-  Any skin changes/rashes
+-  Red flags: Waking at night? Constant pain or does it ever go away? Fevers?
+-  Pt says they feel tired: are you always tired? Sleeping well? Did it come on same time as pain? Can you remember when you last fell well? (is better than "how long have you been feeling tired")
+-  Drugs/medications/smoking
+-  Social Hx
+
+## Trigger 2
+
+> Feeling very tired for few months, dull ache worse in mornings, has not woken at night, full time secretary 2 young kids, no relevant PMHx, FHX: 55 aunt has some sort of arthritis, systems review unremarkable, no other jt problems
+
+Pathophysiological process between fatigue and joint pain: infn $\Uparrow$metabolic demand, pain can be taxing and have to compensate, think of cytokines for inflamm as they can cause fatigue. 
+
+Autoimmune diseases: $\text{genetic}\times\text{environment}$
+
+## Trigger 3
+
+> Inflammation around prox interphalangeal joints of 2, 3, 4.
+
+Mechanical vs inflamm: 
+
+-  Mechanical: just painful when moving it, gets worse as using it during the day, wouldn't expect systemic symptom from a knee abrasion
+-  Inflamm: movement makes better, morning stiffness, systemic symptoms, 
+
+Ix:
+
+-  Bloods: FBC to check white cells, CHEM20 to check for liver fn because viruses (EBV, RRV), CRP, RA factor, CCP (citric citrulinated peptide)
+-  Imaging: X-ray
+
+## Trigger 4
+
+> Ix results
+
+According to criteria she'd have 6 points => definite RA
+
+Natural Hx: progressive deformities of jt, 10% increased risk of CVS mortality within 10 years of Dx (inflamm => vasculitis/athero)
+
+## Trigger 5
+
+Biological agents: counteract body 
