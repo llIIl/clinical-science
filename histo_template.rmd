@@ -23,9 +23,9 @@ for(i in 1:length(dickpics)){
 ```
 
 ```{r image_loop2, results = 'asis'}
-png_images <- gtools::mixedsort(list.files("images/"))
+png_images <- gtools::mixedsort(list.files("images/"))  # Stores all the files in the dir images/
 for(i in 1:length(png_images)){
-    name <- strsplit(png_images[i], "\\)  # complete this here
+    name <- strsplit(png_images[i], "\\.")[[1]][1]  # Splits up the string by "." and stores the first part (to get rid of .png)
     cat("\begin{frame}", "\n", 
   cat("### ", strsplit(dickpics[i], "\\.")[[1]][1], "\n", '\\includegraphics[width=\\linewidth,height=\\textheight,keepaspectratio]{{"', file.path("images", strsplit(dickpics[i], "\\.")[[1]][1]), '"}.PNG}', "\n", "\n", sep = "")
 }
