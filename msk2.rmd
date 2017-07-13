@@ -294,10 +294,73 @@ DDx for mono-articular pain:
 -  RA: little joints
 -  Psoriatic arthritis
 -  Bleeding into the joints: haemophilia
+-  Bite
 
 Other Qs to ask
 
 -  Skin conditions: psoriatic
 -  Fever/inf: septic arthritis
--  
-  
+
+Ex:
+
+-  General inspection: how she looks, gait, how she is walking
+-  Look: inflammed
+-  Touch
+-  Move
+-  Maybe CVS and look at peripheral pulses
+
+## Trigger 2
+
+Pathophysiology of gout:
+
+-  Hyperuricaemia: underexcretion (90%) or overproduction (10%)
+-  Excess urate => crystalisation => inflamm => phago of crystals => inflamm: joints get affected
+-  Can clear up in a couple of days
+
+
+Risk factors
+
+-  M
+-  Obesity
+-  Kidney disease
+
+Diagnostic finding in pt with gout: urate crystals
+
+## Trigger 3
+
+Mx of gout:
+
+-  Acute
+    -  NSAIDs
+    -  Prednisone
+    -  Colchicine for acute gout: interrupts cycle of mono-Na crystal deposition. Stops the inflammatory reaction to the crystals. 
+-  Chronic
+    -  Lower urate to $<0.36\text{mmol/L}$
+    -  Lifestyle modifications: low purine diet, low sugar (fructose => hyperuricaemia), stay hydrated
+    -  Allopurinol: inhibits xanthine oxidase => inhibits urate production. Not really given during acute flare up because it *may* exacerbates. 
+
+Synovial fluid in following disorders:
+
+-  Normal: clear straw like colour
+-  Septic arthritis: elevated WCC, culture positive, purulent exudate
+-  Crystal deposition disease: see crystals, elevated WCC, negative culture, high urate/Ca
+-  RA: elevated WCC, sterile, normal urate, neutrophil predominance
+-  OA: joint mice 
+
+## Trigger 4
+
+Long term gout damage:
+
+-  Joint damage
+-  Recurrent gout: deposits
+-  Skin nodules
+-  Extra-articular damage: 
+    -  Kidney injuries/stones
+    -  HTN
+    -  Hypercholesterolaemia/hyperuricaemia
+
+Mx in this pt:
+
+-  Check medications, maybe can't use the thiazide
+-  Lifestyle mentioned above
+
