@@ -219,4 +219,78 @@ Biological agents: counteract body
 
 ## Trigger 1
 
+> Michael Lee 24M back pain 4 years worse in the morning
+
+Anatomical structures:
+
+-  Tendons, ligaments, muscles
+-  Nerves, spinal cord
+-  Kidneys: stones/cyst
+-  Repro stuff iff female
+
+Questions to ask
+
+-  PC: SOCRATES: have you had any bladder weakness (neuro question)?
+
+## Trigger 2
+
+> Pain gets better on exercise. 
+
+Types of back pain
+
+| Type | Character | Time course | Radiation | NSAID response | Onset | Age |
+| ------ |---------------  | ---------- | --------- | ------- |  ------ | ----- |
+| Mechanical | Thinking muscular: diffuse/achey | Worse with movement PM AM | Lumbar to back of thigh | Moderate/good | Post trauma/gradual | Mid-late |
+| Inflammation | Something pushing: stabbing | AM more likely than PM | To the butt | Really good | Insidious/gradual | 20s |
+| Radicular | Sharp/stabbing | Worse with activity | Goes down the leg towards ankle and foot | Limited | Usually sudden | Any |
+| Neuropathic | Burning | Constant, no association with activity | Towards ankle and foot | Limited | Insidious |
+| Malignant | Deep gnawing contionuous ache | Constant, wakes up at night | Limited | Insidious |
+
+## Trigger 3
+
+What are the types of spondyloarthropathies (Rheumatoid factor negative)
+
+-  Ankylosing spondylitis: $M>F$,
+-  Psoriatic arthritis: nail pitting, sausage fingers
+-  Reactive arthritis: after an infn (think UTIs, STIs), $M>F$
+-  IBD associated: 
+-  
+-  
+
+Range of symptoms (don't forget extra-articular symptoms):
+
+-  Oseopenia
+-  LOTS of CVS issues
+
+## Trigger 5
+
+Natural Hx:
+
+-  Inflamm of tendons (such as calcaneal tendon)
+-  Oedema
+-  Ossification
+-  Fusion of spine => bamboo spine
+
+Treatment:
+
+-  Pain management: NSAIDs
+-  Physiotherapy: also helps manage pain whilst preventing fusion
+
+Effects:
+
+-  Depression
+-  Affect work: maybe think about re-skilling
+
+# Short case 2
+
+## Trigger 1
+
+DDx for mono-articular pain: 
+
+-  Gout 
+-  Septic arthropathies
+-  Trauma
+-  Osteoarthritis
+-  Psoriatic arthritis
+
 

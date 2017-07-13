@@ -11,22 +11,35 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-setwd("/home/khoo/Documents/uni_work/4_sem_1/7111/pracs/histo/week_")
+setwd("~/Documents/histo-test/")
+#setwd("/home/khoo/Documents/uni_work/4_sem_1/7111/pracs/histo/week_")
 # rename 's/test-this/REPLACESTRING/g' *
+
+
+### Requirements ###
+# LaTeX engine with \usetheme{metropolis} (TeXlive-full?!)
+# Directory called "images"
+# ONLY image files in images that \includegraphics will allow for
+# Pandoc/knitr (comes with RStudio by default)
+
+
+### Notes ###
+#    \includegraphics{{"../Current folder/1.This file"}.png}
+# will not include the file name at the same time the quotations
+# The extra curly brackets are to ensure we can choose it from a directory
+# Below had to switch the ' and " around because LaTeX uses "
 ```
 
 ```{r image_loop2, results = 'asis'}
-dickpics <- gtools::mixedsort(list.files("images/"))
-for(i in 1:length(dickpics)){
-  cat("### ", strsplit(dickpics[i], "\\.")[[1]][1], "\n", '\\includegraphics[width=\\linewidth,height=\\textheight,keepaspectratio]{{"', file.path("images", strsplit(dickpics[i], "\\.")[[1]][1]), '"}.PNG}', "\n", "\n", sep = "")
-}
-```
-
-```{r image_loop2, results = 'asis'}
-png_images <- gtools::mixedsort(list.files("images/"))  # Stores all the files in the dir images/
-for(i in 1:length(png_images)){
-    name <- strsplit(png_images[i], "\\.")[[1]][1]  # Splits up the string by "." and stores the first part (to get rid of .png)
-    cat("\begin{frame}", "\n", 
-  cat("### ", strsplit(dickpics[i], "\\.")[[1]][1], "\n", '\\includegraphics[width=\\linewidth,height=\\textheight,keepaspectratio]{{"', file.path("images", strsplit(dickpics[i], "\\.")[[1]][1]), '"}.PNG}', "\n", "\n", sep = "")
+png_image_ext <- gtools::mixedsort(list.files("images/"))
+png_image <- c()
+image_ext <- c()
+for(i in 1:length(png_image_ext)){
+  png_image[i] <- strsplit(png_image_ext[i], "\\.")[[1]][1]  # removing the extension
+  image_ext[i] <- strsplit(png_image_ext[i], "\\.")[[1]][2]  # keeping the extension
+  
+  cat("### ", png_image[i], "\n",  # name of the image
+      "\\includegraphics[width=\\linewidth,height=\\textheight,keepaspectratio]{{",
+      '"images/', png_image[i], '"}.', image_ext[i], "}", "\n", "\n", sep = "")
 }
 ```
