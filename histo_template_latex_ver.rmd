@@ -1,0 +1,35 @@
+---
+title: "Histo of ____"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+header-includes:
+  -  \usetheme{metropolis}
+output:
+  beamer_presentation:
+    keep_tex: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+setwd("~/Documents/histo-test/")
+# rename 's/test-this/REPLACESTRING/g' *
+```
+
+```{r image_loop, results = 'asis'}
+image_name_ext <- gtools::mixedsort(list.files("images/"))  # Stores all the files in the dir images/ as a sorted character vector
+image_name <- c()
+for(i in 1:length(image_name_ext)){
+    image_name[i] <- strsplit(image_name_ext[i], "\\.")[[1]][1]  # Splits up the string by "." and stores the first part (to get rid of file extension)
+    
+    # Outputting using LaTeX syntax to make new beamer slides, using double \\ 
+    cat("\\begin{frame}", "\n", 
+        "\\frametitle{", image_name[i], "}", "\n",
+        "\\includegraphics[width=\\linewidth, height=\\textheight, imagekeepaspectratio]{",
+        "images/", image_name_ext[i], "}", "\n",
+        "\\end{frame}", "\n", "\n",
+        sep = "")  # Make sure no unwanted spaces in between strings
+}
+
+# Obtaining second sub element of list sapply(strsplit(image_name_ext, "\\."), "[[", 1)
+```
+          
