@@ -1,0 +1,36 @@
+---
+title: "Histo of ____"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+header-includes:
+  -  \usetheme{metropolis}
+output:
+  beamer_presentation:
+    keep_tex: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+setwd("~/Documents/histo-test/")
+#setwd("/home/khoo/Documents/uni_work/4_sem_1/7111/pracs/histo/week_")
+# rename 's/test-this/REPLACESTRING/g' *
+
+
+### Requirements ###
+# LaTeX engine with \usetheme{metropolis} (TeXlive-full?!)
+# Directory called "images"
+# ONLY image files in images that \includegraphics will allow for
+# Pandoc/knitr (comes with RStudio by default)
+```
+
+```{r image_loop2, results = 'asis'}
+png_image_ext <- gtools::mixedsort(list.files("images/"))
+png_image <- c()
+for(i in 1:length(png_image_ext)){
+  png_image[i] <- strsplit(png_image_ext[i], "\\.")[[1]][1]  # removing the extension
+  
+  cat("### ", png_image[i], "\n",  # name of the image
+      "\\includegraphics[width=\\linewidth,height=\\textheight,keepaspectratio]{{",
+      file.path("images", png_image_ext[i]), "}}", "\n", "\n", sep = "")
+}
+```
