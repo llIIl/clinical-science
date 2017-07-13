@@ -287,10 +287,17 @@ Effects:
 
 DDx for mono-articular pain: 
 
--  Gout 
--  Septic arthropathies
+-  Gout: first MTP joint
+-  Septic arthritis: one large joint
 -  Trauma
--  Osteoarthritis
+-  Osteoarthritis: knee/hips (weight bearing)
+-  RA: little joints
 -  Psoriatic arthritis
+-  Bleeding into the joints: haemophilia
 
+Other Qs to ask
 
+-  Skin conditions: psoriatic
+-  Fever/inf: septic arthritis
+-  
+  
