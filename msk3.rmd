@@ -1,0 +1,50 @@
+---
+title: "MSK III"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output:
+  pdf_document
+documentclass: article
+classoption: a4paper
+---
+
+# Readings
+
+# Common paediatric hip diseases in primary care
+
+## Developmental dysplasia of the hip
+
+Most common in F firstborn infants. Inherited polygenic, acetabulum is shallow, and may contain pulvinar or fat.
+
+Tests are Ortolani, Barlow, or Galeazzi signs.
+
+## Slipped capital femoral epiphysis (SCFE)
+
+Displacment of the capital femoral epiphysis from the rest of the femur through the cartilaginous growth plate known nas proximal femoral physis. Occurs  due to forces + acetabulum holding femoral head in place. This has sig proactive surgical methods to prevent severe hip arthritis. Risk factors = {obesity, male, african-american, pacific islander, endocrine disorders}
+
+## Legg-Calve-Perthes disease
+
+-  Synovitis (couple of weeks): reduced ROM
+-  Osteonecrosis (6-12/12): contour of femoral head is maintained but part of it becomes ischaemic
+-  Fragmentation phase (up to 3 years): pain, limping, reduced ROM
+-  Revascularisation and regeneration (1-3 years): resorption of necrotic bone and dev of new bone. Permanent deformity can occur here.
+
+# General approach to MSK
+
+-  Inspection: SEADS = {swelling, erythema, atrophy, deformity, scars}
+-  Palpation
+-  ROM
+-  Neurovascular status
+
+## Treatment
+
+-  Modification of activities
+-  Ice
+-  Compression
+-  Elevation
+
+# Main case
+
+# Short case 1
+
+# Short case 2
