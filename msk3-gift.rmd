@@ -1,0 +1,21 @@
+---
+title: "Imaging in MSK"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output:
+  pdf_document
+  word_document
+documentclass: article
+classoption: a4paper
+urlcolor: blue
+---
+
+Info from [this presentation](https://meds.queensu.ca/central/assets/modules/msk_imaging/attach/imaging_slides.pdf).
+
+| Type | Shortened | Relative cost (2000 Canada) |
+| -------- | -------- | -------- | -------- | -------- |
+| Plain radiographs | X-ray | 1 (hand) |
+| Computed tomography | CT | 8 (lumbar spine) |
+| Magnetic resonance imaging | MRI | 18 (knee) |
+| Ultrasound | USS | 2 (knee) | 
+| Bone scan | | 7? | 
