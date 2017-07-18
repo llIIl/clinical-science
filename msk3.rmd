@@ -6,13 +6,14 @@ output:
   pdf_document
 documentclass: article
 classoption: a4paper
+urlcolor: blue
 ---
 
 # Readings
 
 # Common paediatric hip diseases in primary care
 
-## Developmental dysplasia of the hip
+## Developmental dysplasia of the hip (DDH)
 
 Most common in F firstborn infants. Inherited polygenic, acetabulum is shallow, and may contain pulvinar or fat.
 
@@ -44,6 +45,77 @@ Displacment of the capital femoral epiphysis from the rest of the femur through 
 -  Elevation
 
 # Main case
+
+## Trigger 1
+
+> 32M, crossfit 4/12, sudden sharp pain in groin
+
+DDx groin pain: 
+
+-  CVS: avascular necrosis, 
+-  Resp: 
+-  MSK: muscle strain, tendonitis, trochanteric bursitis, overuse injury, fracture, labral tear, ligamentous injury, 
+-  GIT: bowel obstruction
+-  Neuro: nerve impingement
+-  Genitourinary: kidney stones, testicular torsion, ovarian cyst
+-  Lymphadenopathy, cellulitis
+
+Anatomical structures referring pain: knee, back, hip, intraabdominal = {repro, kidneys}
+
+Questions to ask: also about shooting/numbness/sharp or stabbing/...
+
+## Trigger 2
+
+Catching = joint, giving way under him = ligamentous
+
+[RACGP article on hip pain](http://www.racgp.org.au/afp/2014/april/hip-pain-in-young-adults/)
+
+## Trigger 3
+
+If worried about adductor pain: can use adductor squeeze. 
+
+Imaging:
+
+-  X-ray: only see bone
+-  CT: loads of radiation
+-  Ultrasound:
+-  MRI: lots of soft tissue, fractures
+
+## Trigger 4
+
+Ix:
+
+-  Bloods: FBC, 
+-  More imaging
+
+Hip impingement:
+
+-  CAM lesion: non-smooth (aspherical) femoral head: 14% in normal population.
+-  Pincer: non-smooth acetabulum
+-  Combined: both CAM and pincer
+
+Prognosis:
+
+-  Increased risk of OA
+
+## Trigger 5
+
+Arthrogram: injection of contrast followed by MRI. Allows intraarticular structures such as cartilage to be found. Risks = {anaphylaxis, infn, hitting a nerve}. Doubles sensitivity compared to normal MRI without arthrogram (0.60). 
+
+Labral tears are common, often asymptomatic. 
+
+Mx:
+
+-  Rest
+-  NSAIDs
+-  Activity modification
+-  Physiotherapy exercises
+-  Arthroscopy
+-  Debridement of bone
+
+## Trigger 6
+
+Physio exercises
 
 # Short case 1
 
