@@ -12,10 +12,94 @@ urlcolor: blue
 
 Info from [this presentation](https://meds.queensu.ca/central/assets/modules/msk_imaging/attach/imaging_slides.pdf).
 
-| Type | Shortened | Relative cost (2000 Canada) |
-| -------- | -------- | -------- | -------- | -------- |
-| Plain radiographs | X-ray | 1 (hand) |
-| Computed tomography | CT | 8 (lumbar spine) |
-| Magnetic resonance imaging | MRI | 18 (knee) |
-| Ultrasound | USS | 2 (knee) | 
-| Bone scan | | 7? | 
+|  Type                        |  Relative cost (Canada; 2000)  | Radiation           | What can see                                                                           | What can't one see                 |
+|------------------------------|--------------------------------|---------------------|----------------------------------------------------------------------------------------|------------------------------------|
+|  Plain radiographs           |  1 (hand)                      | Low (in comparison) | Bone                                                                                   | Soft tissues                       |
+|  Computed tomography         |  8 (lumbar spine)              | High                | Bone high detail Soft tissues Brain aneurysms Chest, abdo, pelvis                      | Soft tissues not AS good as MRI    |
+|  Magnetic resonance imaging  |  18 (knee)                     | None                | Soft tissues amazingly. E.g. ligaments, tendons, spinal cord injury, brain tumours,... | Bone is not as clear as xray or CT |
+|  Ultrasound                  |  2 (knee)                      | None                | Soft tissues, joint effusions Intra-abdominal organs Flow of blood Foetus              | Bones                              |
+|  Bone scan                   |  7?                            | Medium              | Metabolically active bone                                                              |                                    |
+
+## Plain radiographs
+
+Usually first line imaging as they are inexpensive, quick, specific, and readily available.
+
+Advantages:
+
+-  Inexpensive
+-  Widely available
+-  **Most specific** modality
+-  Provide excellent initial evaluation of bone and anatomical relationships. E.g. visualising a dislocation or fracture.
+
+Disadvantages:
+
+-  **Not very sensitive** ($\mathbb{P}(\text{Not having disease | Negative diagnosis})$ is low)
+-  Less sensitive to bone marrow pathology than MRI and bone scan
+-  Less sensitive to cortical bone pathology than CT
+-  Not optimal for examining soft tissue
+-  Contrast $\Uparrow$ risk of allergies/infn
+-  Radiation risk. E.g. Adolescent female with scoliosis will require frequent x-rays over a period of several years $\rightarrow$ exposes breast and reproductive tissues to radiation.
+
+## CT
+
+Often a follow up to abnormal radiograph. Rotating X-ray beam passes through slices of the body, computer reconstructs these.
+
+Advantages
+
+-  Very good bone detail and improved soft tissue resolution
+-  Takes a short amount of time (compared to MRI)
+-  Most systems can be scanned = {chest, abdomen, pelvis, brain,...}
+
+Disadvantages
+
+-  Highest **radiation risk**; uses multiple x-ray scans
+-  Requires breath holding
+
+## MRI
+
+Gold standard of soft tissue imagnig, no radiation required.
+
+Advantages
+
+-  Excellent soft tissue contrast
+-  Multi-planar
+-  No radiation
+
+Disadvantages
+
+-  Expensive and not widely available
+-  Poor bone detail
+-  Uncomfortable procedure (claustrophobic, noisy, takes time; children may need anaesthetics)
+-  Some patients cannot undergo it. E.g. have pacemaker, prosthetic valves, tattoos (?)...
+
+## USS
+
+Uses sound waves, commonly used in soft tissues, identifying joint effusions, and obstetrics.
+
+Advantages
+
+-  Highly available
+-  Real time
+-  No ionising radiation
+-  Good soft tissue contrast
+
+Disadvantages
+
+-  Operator dependent
+-  Ultrasound waves cannot penetrate bone or air
+
+## Bone scan
+
+Detects metabolically active bone. Good for occult(?) fractures, infns, bony mets. Radioactive tracer is injected IV, accumulates in area of bone with high metabolic activity, detector detects some of this radiation.
+
+Advantages
+
+-  Early detection of mets and infn
+-  High sensitivity
+-  Detects fractures not visible on xrays
+
+Disadvantages
+
+-  Moderate radiation risk $\text{xrays}<\text{bone scan}<\text{CT}$
+-  Tough to interpret in children due to presence of metabolically active growth plates
+-  Poor specificity
