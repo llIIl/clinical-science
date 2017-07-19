@@ -10,7 +10,7 @@ classoption: a4paper
 urlcolor: blue
 ---
 
-Info from [this presentation](https://meds.queensu.ca/central/assets/modules/msk_imaging/attach/imaging_slides.pdf).
+Info from [this presentation](https://meds.queensu.ca/central/assets/modules/msk_imaging/attach/imaging_slides.pdf). More up to date information on the *cost* of these modalities is available [here](https://www.treasury.gov.au/~/media/Treasury/Consultations%20and%20Reviews/Consultations/2016/2017%20PreBudget%20submissions/Submissions/PDF/Australian%20Diagnostic%20Imaging%20Association.ashx) however it was too hard to understand so just treat cost as qualitative. 
 
 |  Type                        |  Relative cost (Canada; 2000)  | Radiation           | What can see                                                                           | What can't one see                 |
 |------------------------------|--------------------------------|---------------------|----------------------------------------------------------------------------------------|------------------------------------|
