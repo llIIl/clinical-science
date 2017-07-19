@@ -12,6 +12,8 @@ urlcolor: blue
 
 Info from [this presentation](https://meds.queensu.ca/central/assets/modules/msk_imaging/attach/imaging_slides.pdf). More up to date information on the *cost* of these modalities is available [here](https://www.treasury.gov.au/~/media/Treasury/Consultations%20and%20Reviews/Consultations/2016/2017%20PreBudget%20submissions/Submissions/PDF/Australian%20Diagnostic%20Imaging%20Association.ashx) however it was too hard to understand so just treat cost as qualitative. 
 
+More info on specifics for these modalities is available from the [WA Imaging Pathways](http://imagingpathways.health.wa.gov.au/index.php/about-imaging/common-procedures). 
+
 |  Type                        |  Relative cost (Canada; 2000)  | Radiation           | What can see                                                                           | What can't one see                 |
 |------------------------------|--------------------------------|---------------------|----------------------------------------------------------------------------------------|------------------------------------|
 |  Plain radiographs           |  1 (hand)                      | Low (in comparison) | Bone                                                                                   | Soft tissues                       |
@@ -57,7 +59,7 @@ Disadvantages
 
 ## MRI
 
-Gold standard of soft tissue imagnig, no radiation required.
+Gold standard of soft tissue imagnig, no radiation required. The most frequent indications for MRI are for diseases of the neurological and musculo-skeletal systems. Other indications include tumour staging (for example rectal, prostatic and gynaecological malignancies), hepatobiliary disease, assessment of the breast in patients of high-risk for cancer, and of breast implants. Increasingly, MRI is substituting for CT scans particularly in children and young adults because of the lack of ionizing radiation. However, in Australia the indications that attract a Medicare rebate are limited.
 
 Advantages
 
@@ -74,7 +76,7 @@ Disadvantages
 
 ## USS
 
-Uses sound waves, commonly used in soft tissues, identifying joint effusions, and obstetrics.
+Uses sound waves. Useful for imaging the abdomen, pelvis, small parts (scrotum, thyroid, etc), breast, musculoskeletal applications, and transthoracic echocardiography. It is the main modality used in obstetric scanning. Endoluminal ultrasound applications include transrectal prostate ultrasound, transvaginal ultrasound, endoscopic ultrasound, and transoesophageal echocardiography. Doppler techniques are used to image vascular structures (arteries and veins) to assess flow characteristics and to detect thromboses and stenoses. Also useful as real-time guiding procedure for fine needle aspiration biopsy or core biopsy and drainage of fluid collections.
 
 Advantages
 
