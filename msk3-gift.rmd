@@ -17,7 +17,7 @@ More info on specifics for these modalities is available from the [WA Imaging Pa
 |  Type                        |  Relative cost (Canada; 2000)  | Radiation           | What can see                                                                           | What can't one see                 |
 |------------------------------|--------------------------------|---------------------|----------------------------------------------------------------------------------------|------------------------------------|
 |  Plain radiographs           |  1 (hand)                      | Low (in comparison) | Bone                                                                                   | Soft tissues                       |
-|  Computed tomography         |  8 (lumbar spine)              | High                | Bone high detail Soft tissues Brain aneurysms Chest, abdo, pelvis                      | Soft tissues not AS good as MRI    |
+|  Computed tomography         |  8 (lumbar spine)              | High                | Bone high detail. Soft tissues. Brain aneurysms. Chest, abdo, pelvis                      | Soft tissues not AS good as MRI    |
 |  Magnetic resonance imaging  |  18 (knee)                     | None                | Soft tissues amazingly. E.g. ligaments, tendons, spinal cord injury, brain tumours,... | Bone is not as clear as xray or CT |
 |  Ultrasound                  |  2 (knee)                      | None                | Soft tissues, joint effusions Intra-abdominal organs Flow of blood Foetus              | Bones                              |
 |  Bone scan                   |  7?                            | Medium              | Metabolically active bone                                                              |                                    |
@@ -59,7 +59,7 @@ Disadvantages
 
 ## MRI
 
-Gold standard of soft tissue imagnig, no radiation required. The most frequent indications for MRI are for diseases of the neurological and musculo-skeletal systems. Other indications include tumour staging (for example rectal, prostatic and gynaecological malignancies), hepatobiliary disease, assessment of the breast in patients of high-risk for cancer, and of breast implants. Increasingly, MRI is substituting for CT scans particularly in children and young adults because of the lack of ionizing radiation. However, in Australia the indications that attract a Medicare rebate are limited.
+Gold standard of soft tissue imaging, no radiation required. The most frequent indications for MRI are for diseases of the neurological and musculo-skeletal systems. Other indications include tumour staging (for example rectal, prostatic and gynaecological malignancies), hepatobiliary disease, assessment of the breast in patients of high-risk for cancer, and of breast implants. Increasingly, MRI is substituting for CT scans particularly in children and young adults because of the lack of ionizing radiation. However, in Australia the indications that attract a Medicare rebate are limited.
 
 Advantages
 
