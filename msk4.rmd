@@ -1,0 +1,33 @@
+---
+title: "MSK IV"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output:
+  pdf_document
+documentclass: article
+classoption: a4paper
+urlcolor: blue
+---
+
+# Readings
+
+## Cancers
+
+Described as a dull and aching pain in the location. Worse at night and sometimes increases with activity. Common symptoms also fever and night sweats. Many pt do not have any symptoms but notice a painless mass. 
+
+Primaries:
+
+1.  Multiple myeloma: tumour of bone marrow.
+2.  Osteosarcoma: most common in teenagers and children. Found femur, tibia, hip, shoulder.
+3.  Ewings sarcoma: age between 5-20. Common locations are upper and lower leg, pelvis, upper arm, ribs. 
+4.  Chondrosarcoma: 40-70 years of age. Found hip, pelvis, shoulder. 
+
+Common sites for secondaries: breast, lung, thyroid, renal, prostate
+
+
+
+# Main case
+
+# Short case 1
+
+# Short case 2
