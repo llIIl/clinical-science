@@ -24,7 +24,23 @@ Primaries:
 
 Common sites for secondaries: breast, lung, thyroid, renal, prostate
 
+# Path POW
 
+## Arthritis
+
+If the PIP extended and DIP flexed: swan neck deformity
+
+| OA | RA | Both |
+| ------------ | ----------- | ----------- |
+| Minimal joint inflammation | Morning joint stiffness lasts >1 hour | Affects small joints of the hands |
+| Joint pain worsens after use | Presence of extra-articular manifestations  | Visible nodules on hands |
+| | Abnormal levels of autoantibodies  | | 
+| | Mostly symmetrical polyarthritis affecting young females | |
+
+Radiological
+
+-  Both: loss of jt space, malalignment of joints
+-  OA: subchondral cysts and sclerosis, formation of bony outgrowths at the end of joints
 
 # Main case
 
