@@ -74,4 +74,93 @@ Wound present for long time:
 -  Scar
 -  Could turn malignant (if wound not healing, always biopsy it)
 
+## Trigger 2
+
+Kids more likely for acute osteomyelitis (haematogenous route) whereas adults more likely for chronic (direct). 
+
+Imaging to see osteomyelitis:
+
+-  Xray: 2 weeks after infn
+-  MRI: a couple of days
+
+Questions to ask for a possible primary cause:
+
+-  Any claudication
+-  Check for diabetes
+-  General inspection for malnutrition
+
+## Trigger 3
+
+Most common cause for osteomyelitis: *Staph*, *Pseudomonas* is stinky and common in diabetics, 
+
+-  Haematogenous: staph and influenza B (common in kids)
+-  Open fractures: staph e coli
+-  Spinal: staph, strep, e coli, IV drug users = candida
+-  Diabetes/PVD: polymicrobial
+
+Pathogenesis:
+
+-  Infection
+-  Inflammatory response
+-  Phagocytosis attempt to contain infection by liberating enzymes
+-  Enzymes lyse the bone
+-  Pus forms
+-  Pus travels through Haversian system
+-  Increased intraosseous pressure
+-  End arteritis and impaired blood flow
+-  Ishaemic necrosis of bone
+-  Pus breaks through cortex
+-  Abscess
+-  Subperiosteal infection
+-  Elevated periosteum (involucrum) 
+-  Rupture of periosteum(cloacae)
+
+
 # Short case 2
+
+## Trigger 1
+
+Common causes of shoulder pain:
+
+-  Glenohumeral
+    -  RC muscles
+    -  Bursae
+    -  Tendons
+    -  Adhesive capsulitis
+    -  Labrum
+    -  Synovium
+    -  Articular cartilage
+    -  Articular bone surface
+-  Extraglenohumeral
+    -  MSK: OA common in AC joint, diaphragmatic irritation
+    -  CVS: MI
+    -  C spine
+    -  Malignancy: pancoast tumour (Horner's syndrome)
+    -  Herpes
+    -  PE
+    -  Depression
+    -  Polymyalgia
+
+DDx: also RA, malignancy, tendinopathy (-itis), 
+
+Questions: Any particular movements that hurt? Have you started doing anything new recently? Do an ECG.
+
+## Trigger 2
+
+Hx indicative of pathology: probably acute, maybe traumatic 
+
+Overhead work: puts pressure on RC muscles
+
+Abducting arms:
+
+-  10-20: supraspinatus
+-  20-90: deltoids
+-  90+: levator scapulae
+
+Smoking and shoulder pain:
+
+-  Decreased bone density
+-  Tendinopathy
+-  Risk factor for RC tears
+
+## Trigger 3
