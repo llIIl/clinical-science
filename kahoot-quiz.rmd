@@ -1,0 +1,206 @@
+---
+title: "Nerves of upper limb"
+author: "Aaron"
+date: "27 July 2017"
+output: beamer_presentation
+header-includes: 
+-  \usetheme{metropolis}
+---
+
+# Kahoot link
+
+I don't know how exactly it works
+
+https://play.kahoot.it/#/k/c06b4397-ac92-46c8-8d9a-1d74db17dd34
+
+# What nerve supplies trapezius?
+
+-  Spinal part of accessory nerve
+-  Nerve to trapezius
+-  Long thoracic nerve
+-  Medial & lateral pectoral nerves
+
+
+# What nerve supplies trapezius? (ans.)
+
+-  \alert{Spinal part of accessory nerve}
+-  Nerve to trapezius
+-  Long thoracic nerve
+-  Medial & lateral pectoral nerves
+
+# A lesion to which of these nerves is most likely to cause "winged scapula"?
+
+-  Dorsal scapula nerve
+-  Nerve to subclavius
+-  Long thoracic nerve
+-  Medial and lateral pectoral nerves
+
+# A lesion to which of these nerves is most likely to cause "winged scapula"? (ans.)
+
+-  Dorsal scapula nerve (rhomboids, levator scapulae)
+-  Nerve to subclavius (subclavius)
+-  \alert{Long thoracic nerve (serratus anterior)}
+-  Medial and lateral pectoral nerves (pec major + minor)
+
+# Which nerve does NOT supply the rotator cuff muscles?
+
+-  Suprascapular nerve
+-  Subscapular nerve
+-  Axillary nerve
+-  Lower subscapular nerve
+
+# Which nerve does NOT supply the rotator cuff muscles? (ans.)
+
+-  Suprascapular nerve (supra/infraspinatus)
+-  Subscapular nerve (subscapularis)
+-  Axillary nerve (teres minor)
+-  \alert{Lower subscapular nerve (teres major)}
+
+# What muscle does the thoracodorsal nerve innervate?
+
+-  Latissimus dorsi
+-  Deltoid
+-  Pectoralis major/minor
+-  Trapezius
+
+# What muscle does the thoracodorsal nerve innervate? (ans.)
+
+-  \alert{Latissimus dorsi}
+-  Deltoid
+-  Pectoralis major/minor
+-  Trapezius
+
+#  Coracobrachialis, biceps brachii, and brachialis are innervated by which nerve?
+
+-  Median nerve
+-  Radial nerve
+-  Nerve to the *brachi*
+-  Musculocutaneous nerve
+
+#  Coracobrachialis, biceps brachii, and brachialis are innervated by which nerve? (ans.)
+
+-  Median nerve
+-  Radial nerve
+-  Nerve to the *brachii*
+-  \alert{Musculocutaneous nerve}
+
+#  Which nerve supplies the posterior group of arm muscles (triceps brachii, anconeus)?
+
+-  Radial nerve
+-  Median nerve
+-  Nerve to the posterior arm muscles
+-  Musculocutaneous nerve
+
+#  Which nerve supplies the posterior group of arm muscles (triceps brachii, anconeus)? (ans.)
+
+-  \alert{Radial nerve}
+-  Median nerve
+-  Nerve to the posterior arm muscles
+-  Musculocutaneous nerve
+
+#  In the superficial layer of anteromedial forearm muscles, what is NOT innervated by the median nerve? (bonus: what is it innervated by?)
+
+-  Palmaris longus
+-  Flexor carpi ulnaris
+-  Pronator teres
+-  Flexor carpi radialis
+
+#  In the superficial layer of anteromedial forearm muscles, what is NOT innervated by the median nerve? (bonus: what is the other innervated by?) (ans.)
+
+-  Palmaris longus
+-  \alert{Flexor carpi ulnaris}
+-  Pronator teres
+-  Flexor carpi radialis
+
+
+# What is innervated by the ulnar nerve? (fyi: anterior interosseous muscle that supplies a couple things here is a branch of the median nerve)
+
+-  Flexor digitorum profundus medial part
+-  Flexor digitorum profundus lateral part
+-  Flexor digitorum superficialis
+-  Flexor pollicis longus
+
+# What is innervated by the ulnar nerve? (fyi: anterior interosseous muscle that supplies a couple things here is a branch of the median nerve) (ans.)
+
+-  \alert{Flexor digitorum profundus medial part}
+-  Flexor digitorum profundus lateral part
+-  Flexor digitorum superficialis
+-  Flexor pollicis longus
+
+# What are *all* the muscles of the posterior forearm muscles innervated by (including their branches)?
+
+-  Radial nerve (branches to deep branch of radial nerve then posterior interosseous nerve)
+-  Median nerve (branches into anterior interosseous nerve)
+
+# What are *all* the muscles of the posterior forearm muscles innervated by (including their branches)? (ans.)
+
+-  \alert{Radial nerve (branches to deep branch of radial nerve then posterior interosseous nerve)}
+-  Median nerve (branches into anterior interosseous nerve)
+
+#  Brachial plexus is easy - Conrad 2017. Roots > Trunks > Divisions > Cords > Branches. Which of the 5 main nerve branches only comes from the lateral cord?
+
+-  Axillary
+-  Musculocutaneous
+-  Radial
+-  Ulnar
+-  Median
+
+#  Brachial plexus is easy - Conrad 2017. Roots > Trunks > Divisions > Cords > Branches. Which of the 5 main nerve branches only comes from the lateral cord? (ans.)
+
+-  Axillary (posterior)
+-  \alert{Musculocutaneous}
+-  Radial (posterior)
+-  Ulnar (medial)
+-  Median (both medial and lateral cords)
+
+#  Which of these intrinsic thumb muscles is innervated by the deep branch of the ulnar nerve?
+
+-  Adductor pollicis
+-  Abductor pollicis brevis (these and below all by recurrent branch of the median nerve)
+-  Flexor pollicis brevis
+-  Opponens pollicis
+
+#  Which of these intrinsic thumb muscles is innervated by the deep branch of the ulnar nerve? (ans.)
+
+-  \alert{Adductor pollicis}
+-  Abductor pollicis brevis (these and below all by recurrent branch of the median nerve)
+-  Flexor pollicis brevis
+-  Opponens pollicis
+
+#  Which nerve innervates the intrinsic little finger (not Peter Baelysh) muscles (abductor digiti minimi, flexor digiti minimi brevis, opponens digiti minimi)?
+
+-  Recurrent branch of median nerve
+-  Deep branch of median nerve
+-  Deep branch of ulnar nerve
+-  Recurrent branch of ulnar nerve
+
+#  Which nerve innervates the intrinsic little finger (not Peter Baelysh) muscles (abductor digiti minimi, flexor digiti minimi brevis, opponens digiti minimi)? (ans.)
+
+-  Recurrent branch of median nerve
+-  Deep branch of median nerve
+-  \alert{Deep branch of ulnar nerve}
+-  Recurrent branch of ulnar nerve
+
+#  Lumbricals and interossei generally supplied by?
+
+-  Deep branch of ulnar nerve except lateral 2 lumbricals?
+-  Deep branch of ulnar nerve except medial 2 lumbricals?
+
+#  Lumbricals and interossei generally supplied by? (ans.)
+
+-  alert{Deep branch of ulnar nerve except lateral 2 lumbricals?}
+-  Deep branch of ulnar nerve except medial 2 lumbricals?
+
+# Match the "hand" and nerve lesion together
+
+-  Median nerve lesion: claw hand
+-  Ulnar nerve lesion: claw hand
+-  Diego Maradona: hand of god
+-  Ulnar nerve lesion: hand of benediction
+
+# Match the "hand" and nerve lesion together
+
+-  Median nerve lesion: claw hand
+-  alert{Ulnar nerve lesion: claw hand}
+-  Diego Maradona: hand of god
+-  Ulnar nerve lesion: hand of benediction

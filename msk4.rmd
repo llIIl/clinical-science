@@ -46,4 +46,32 @@ Radiological
 
 # Short case 1
 
+## Trigger 1
+
+Ulcer: local defect of tissue or organ caused by sloughing of inflammatory or necrotic material.
+
+Pathogenesis of ulcer formation: possibly from kicking the bed, then repetitive trauma. 
+
+Factors preventing ulcer from healing (learn this):
+
+-  Infn
+-  Smoking
+-  *Old* age
+-  Heavy alcohol consumption
+-  Medication: steroids, NSAIDs
+-  Obesity
+-  Repetitive trauma
+-  Diabetic: due to decreased blood flow, increased risk for infn due to high sugar, neuropathy
+-  Vascular disease (oxygen supply)
+-  Poor hygiene + improper wound care
+-  Malnutrition
+-  Super rare genetic diseases
+
+Wound present for long time: 
+
+-  Can affect gait/joints
+-  Osteomyelitis
+-  Scar
+-  Could turn malignant (if wound not healing, always biopsy it)
+
 # Short case 2
