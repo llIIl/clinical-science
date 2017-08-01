@@ -188,7 +188,7 @@ https://play.kahoot.it/#/k/c06b4397-ac92-46c8-8d9a-1d74db17dd34
 
 #  Lumbricals and interossei generally supplied by? (ans.)
 
--  alert{Deep branch of ulnar nerve except lateral 2 lumbricals?}
+-  \alert{Deep branch of ulnar nerve except lateral 2 lumbricals?}
 -  Deep branch of ulnar nerve except medial 2 lumbricals?
 
 # Match the "hand" and nerve lesion together
@@ -201,6 +201,6 @@ https://play.kahoot.it/#/k/c06b4397-ac92-46c8-8d9a-1d74db17dd34
 # Match the "hand" and nerve lesion together
 
 -  Median nerve lesion: claw hand
--  alert{Ulnar nerve lesion: claw hand}
+-  \alert{Ulnar nerve lesion: claw hand}
 -  Diego Maradona: hand of god
 -  Ulnar nerve lesion: hand of benediction

@@ -1,0 +1,99 @@
+---
+title: "Neuro I"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output:
+  pdf_document
+documentclass: article
+classoption: a4paper
+urlcolor: blue
+---
+
+# Readings
+
+# Main case
+
+## Trigger 1
+
+Key observations:
+
+-  Vitals
+-  Oriented
+-  Look at the wound: bleeding, discolouration, neurovascularly intact?
+-  Any other injuries
+-  Is he dangerous?
+
+DRSABCDE: guy talking probably has patent airway and breathing. Circulation probably alright since his blood is trickling. 
+
+-  E = Exposure for secondary survey
+
+MIST + AMPLE
+
+M.  Mechanism of Injury
+I.  Injuries Sustained
+S.  Signs
+T.  Treatment and Trends in the Vital Signs
+
+A.  Allergies
+M.  Medications
+P.  Past Medical History
+L.  Last Ate / LMP (in females)
+E.  Events (This is usually the MIST)
+
+Calming pt down:
+
+-  "Why you so agitated?"
+-  Just talk normally
+
+Hx
+
+-  HPC: how did you get injured?
+-  Any numbness/tingling
+-  What drugs are you on?
+-  Which hand is dominant, when did you last eat?
+-  Allergies
+
+## Trigger 2
+
+Info from physical
+
+-  General inspection: mental state, conscious, oriented, body habitus, distress
+-  Strength testing
+-  Flexion/extension
+
+## Trigger 3
+
+Handover: include no signs of vascular compromise, mechanism of injury: fell through a window.
+
+Numbness: damage to nerve which prevents sensation:
+
+-  Compression
+-  Laceration
+-  Lesion
+-  Demyelination
+-  Ischaemia: pins and needles
+-  Iatrogenic
+
+Ix:
+
+-  Xray: fracture/foreign body because worried about bleeding
+-  FBC: check baseline haemoglobin in case he gets surgery
+
+## Trigger 4
+
+Delay before surgery: has to be nil-by-mouth, also theatre may be busy
+
+Peripheral nerves can regenerate, CNS cannot. Process: 
+
+-  Needs to be realigned
+-  Distal segment degrades, proximal grows through the sheath
+
+## Trigger 5
+
+Tinels sign: tap over nerve => if tingly/pins & needles => nerve irritation. Over time, expect the tingly feeling to go downwards more and more to show the nerve is healing. 
+
+Cock up splint to restore his finger flexion. Also so it doesn't atrophy. 
+
+# Short case 1
+
+# Short case 2
