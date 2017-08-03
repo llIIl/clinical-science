@@ -96,4 +96,91 @@ Cock up splint to restore his finger flexion. Also so it doesn't atrophy.
 
 # Short case 1
 
+## Trigger 1
+
+Anatomical site: bilateral is probably peripheral neuropathy. 
+
+Hx:
+
+-  HPC: does it also occur in the hands? Also have to clarify if numb = tingling/weakness?
+
+Ex: where exactly does it occur? Systemic or not?
+
+DDx:
+
+-  Diabetic neuropathy
+-  Heavy metal toxicity
+-  Alcohol
+-  Nutritional disorders
+-  GBS: often feel like they're walking on cotton
+
+## Trigger 2
+
+Other ANS involvement
+
+-  Syncope/presyncope
+-  Feeling hot/sweaty
+
+Positive and negative symptoms:
+
+-  Positive: might feel burning/tingling
+-  Negative: loss of motor control, sensory, fine motor control
+
+Pathology of peripheral neuropathies:
+
+-  Axonal damage
+-  Loss of myelination
+
+Mononeuropathies:
+
+-  Carpal tunnel syndrome
+-  Tarsal tunnel
+-  Bells palsy
+-  Ulnar palsy: hitting funny bone
+
+## Trigger 3
+
+Ix: neuropathy screen (nerve conduction, biopsies, CSF (GBS)), bloods (FBC, CHEM20, antibodies (vasculitis)), fasting blood sugar
+
+Mx for diabetes:
+
+-  Diabetes: diet, metformin
+-  Treatment of pain itself: antidepressents, anticompulsants (capsaicin, gabapentin)
+-  Care of the foot:
+-  Quit smoking
+
 # Short case 2
+
+## Trigger 1
+
+Anatomical structures:
+
+-  Carpal tunnel
+-  Guillans tunnel
+-  Unlikely cerebral hemispheres
+
+## Trigger 2
+
+DDx:
+
+-  Carpal tunnel syndrome
+-  Ganglion
+-  Peripheral neuropathy
+-  Injured nerve
+
+## Trigger 3
+
+Radiculopathy: other muscular and sensory deficits
+
+Risk factors for carpal tunnel
+
+-  Repeated wrist movements with force
+-  Female: smaller carpal tunnel
+-  40-60
+-  Obesity
+
+Diagnosis for carpal tunnel: hyperflexion test. Flex for 1 min and see if symptoms increase. Median nerve slow could be carpal tunnel syndrome. 
+
+## Trigger 4
+
+
