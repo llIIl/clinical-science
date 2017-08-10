@@ -1,0 +1,191 @@
+---
+title: "Module II"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output:
+  pdf_document
+documentclass: article
+classoption: a4paper
+urlcolor: blue
+---
+
+# Readings
+
+# Main case
+
+## Trigger 1
+
+> 26M pipes went through window, hit neck, pain and electric shock throughout body, alert and orientated, pins and needles in hands and can't move legs, bradycardic and hypotensive, flaccid in triceps, gets worse and is intubated, indwelling catheter (IDC) is inserted.
+
+Hypo: 
+
+-  Spinal cord injury: [this reading](http://asia-spinalinjury.org/wp-content/uploads/2016/02/International_Stds_Diagram_Worksheet.pdf) gives idea for spinal cord levels. 
+-  Neurogenic shock = {bradycardia, hypotension, hypothermia} (due to loss of sympathetic tone to blood vessels; heart cannot compensate)
+-  Spinal shock = is NOT any circulatory outcomes, it is just loss sensory/motor due to spinal cord injury
+-  ANS dysfunction: bradycardic and hypotensive
+-  Sensory dysfn: pins and needles
+
+Classes of spinal cord injury:
+
+-  Complete: complete loss
+-  Incomplete: preservation of sensory OR spinal below level
+
+Autonomically unstable: loss of sympathetic innervation
+
+Breathing affected: possibly acute effects at C7 affecting C345 such as swelling | Note: always be on the lookout for breathing in spinal injuries as it can randomly deteriorate.
+
+IDC used: patient go into acute urinary retention and also need to monitor it
+
+## Trigger 2
+
+Reflex:
+
+-  GTO alerts when tendon is stretched too much. Is not involved in patellar tap reflex
+-  Muscle spindle: 
+
+Shitting (both constipation)
+
+-  UMN => increased external sphincter tone
+-  LMN => bowel cannot physically move the stool along so it gets stuck
+
+Autonomic dysreflexia: level of spinal cord injury at or above the T6 | potentially life threatening hypertension. 
+
+1.  Strong sensory input (such as bladder/bowel) go toward spinal cord.
+2.  Evokes strong reflex so massive sympathetic response causing hypertension. 
+3.  Brain detects through baroreceptors.
+4.  Sends down descending inhibitory signals which cannot get past the lesion.
+
+## Trigger 3
+
+| | UMN | LMN |
+| ------------ | ---------------------- | ---------------------- |
+| Muscle | Clonus, spasticity | Fasciculations |
+| Reflex | Hyper | Hypo |
+| Bulk | Normal bulk | Atrophy of muscle |
+| Tone | $\Uparrow$ | $\Downarrow$ |
+| Plantar | Have (dorsiflexion; always abN) | No reflex present |
+| Sensory | Associated disturbances | Localised at site |
+
+Sensory tests:
+
+-  Anterolateral tract: spinothalamic (pain and temp), spinoreticular, spinotectal = {pain, temperature, crude touch, firm pressure}
+-  Dorsal lemniscal: check lecture 4 of this week (Bellingham)
+
+## Trigger 4 
+
+Pressure sores: pressure on area of tissue => lack of perfusion => anaerobic metabolism => tissue ischaemia. Spinal injuries: can't feel it.
+
+Poor mobility/altered sensation at risk of: DVT, infn (UTI), depression, obesity, erectile dysfunction, CVS (ischaemic heart disease), obstructive sleep apnoea, post traumatic syringomyelia (cyst or cavity forming in spinal cord), temperature regulation issues, muscle spasms (spasticity) 
+
+## Trigger 5
+
+Anything above C5 is probably incompatible with independent life. 
+
+Would need to be catheterised and bowel management (enemas, manual evacuation, digital...)
+
+# Short case 1
+
+# Trigger 1
+
+ACh:
+
+-  Nicotinic
+-  Muscarinic: in PS, $1000x$ more sensitive than nicotinic, so excess ACh will primarily affect PS over sym. 
+    -  M2,4 = inhibitory heart
+    -  M1,3,5 = excitatatory on GI
+    -  Also found in sweat glands so you sweat even though it is sympathetic
+
+ANS
+
+| | Sympathetic | Parasympathetic |
+| ------------ | --------------------------- | --------------------------- |
+| Origin | Thoracolumbar region | Craniosacral region |
+| Site of ganglia | Sympathetic ganglia close to spinal cord | Close to organs they are innervating (PARAPRELONG) |
+| Primary NTs | Preganglionic: ACh, Post: (N)A | Pre: ACh, Post: ACh | 
+
+## Trigger 2
+
+PS:
+
+Muscarinic
+
+-  D: diarrhoea/diaphoresis
+-  U: urination
+-  M: miosis
+-  B: bradycardia, bronchoconstriction, bronchorrhoea
+-  E: emesis (vomiting)
+-  L: lacrimation
+-  S: salivation/seizures
+
+Nicotinic
+
+-  Muscle cramps
+-  Tachycardia
+-  Weakness
+-  Twitching
+-  Fasciculations
+
+High doses on muscle: fasciculations => inability to repolarise cell membranes => weakness + paralysis => ventilatory failure => 
+
+## Trigger 3
+
+Atropine: muscarinic antagonist. Actions would be the opposite of DUMBELS
+
+Memorise the picture from the Eastern European lecturer. 
+
+# Short case 2
+
+## Trigger 1
+
+Acute back pain:
+
+-  MSK: strain on erector spinae, infn of vertebrae, poor hip posture => functional scoliosis, spondylothesis (fracture), spondylitis, spinal stenosis, vertebral fracture, scoliosis, disc prolapse, osteomyelitis, epidural abscesses (IV drug users), OA
+-  CVS: aortic aneurysm
+-  GIT: pancreatitis, gall bladder infn, colon Ca, kidney stones, ischaemia intestines
+-  Pregnancy stuff
+-  Metabolic: cushings, acromegaly, paget disease
+-  Miscellaneous: herpes zosta, sarcoidosis
+
+Parts of spine:
+
+-  Cervical: high mobility for the head
+-  Thoracic: more rib injuries, less vertebral injuries
+-  Lumbar: holds up all the weight
+
+Red flags: fractures, Ca, osteomyelitis (recent infn, lumbar puncture, IV drug user), cauda equina syndrome, ankylosing spondylitis
+
+-  Change in bowel habits: incontinence or acute urinary retention | indicates cauda equina syndrome
+-  Night pain
+-  Constant pain
+-  Previous Hx of malignancy, fevers, weightloss
+-  Have you been well recently, any infections (screen for immunocompromised)
+
+Risk factors chronic lower back pain: occupation, old age, smoking, depression/anxiety, obesity, improper technique
+
+Likely DDx: mechanical
+
+## Trigger 2
+
+Radicular pain (nerve compression) with straight leg raiseA
+
+Sciatica is suggestive of something compressing the nerve. 
+
+Imaging is not usually indicated as it usually resolves, however patient has had red flag of trauma so probably should investigate. 
+
+Treatment is hard: don't want to get them hooked on endone. 1st line: simple analgesics and tell them to come back in a week. 2nd line: increased analgesia, hot packs, heat wraps, spinal manipulative therapy. Do not order imaging, avoid bed rest as have to strengthen muscles. Have to explain to pt that "there will be discomfort"
+
+## Trigger 3
+
+Normal fn intervertebral disk: shock absorber, vertebrae separated from each other, protect nerves
+
+Intervertebral disk: nucleus pulposus loses viscocity, annulus fibrosis tears
+
+Treatment:
+
+-  Physio
+-  Long term rehab
+-  Surgery: fusion
+
+6/52 usually can recover fn, but lots relapse at 12/12. 
+
+Required treatment: needs physio, possibly OT if affecting life. Explain proper dose paracetemol, must take it according to dose even if the pain isn't there. 
