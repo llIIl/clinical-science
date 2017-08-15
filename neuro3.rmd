@@ -1,0 +1,27 @@
+---
+title: "Module II"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output:
+  pdf_document
+documentclass: article
+classoption: a4paper
+urlcolor: blue
+---
+
+# Readings
+
+# Main case: online case with stroke
+
+Types of speech deficits
+
+-  Dysarthria: is a disorder of (motor) speech resulting from neurological injury of the motor component of the motor-speech
+-  Dysphonia: hoarse voice
+-  Dysphasia: disorder of language
+    -  Expressive (Broca's): can't speak | damage in L frontal lobe reduced speech fluency with preserved comprehension. Fails to construct sentences well. Speech non-fluent.
+    -  Reactive (Wernicke's): can't understand | L temporal-parietal damage leaves fluency of language but words are muddled. Cannot understand spoken or written words. 
+
+
+# Short case 1
+
+# Short case 2
