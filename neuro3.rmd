@@ -24,4 +24,146 @@ Types of speech deficits
 
 # Short case 1
 
+## Trigger 1
+
+> 22F sudden onset severe headache, jogging after work, max intensity instantly, sore and stiff up her neck, vomited twice, complained about brightness of light.
+
+Sudden onset symptoms:
+
+-  Trauma: haematoma
+-  Vascular: aneurysm, haemorrhage => $\Uparrow$ neck stiffness, hypertensive emergency
+-  Inflamm: meningitis (may not be infn), encephalitis, MS
+-  Malnutrition
+-  Migraine: first presentation often gets CT'd
+-  Hydrocephalus: accumulation of CSF
+-  Tumour => bleeding => mass effect
+-  Cyst
+-  Iatrogenic: medicines can cause headaches
+
+Further Hx:
+
+-  HPC: first time headache? How was she jogging, pushing herself? Any other symptoms that day or earlier on?
+-  Mental state: confusion, orientation, mental state, visual disturbances (migraine = hemi), altered sensation (parasthesia, numbness), loss of consciousness?, nausea/vomiting, midriasis (blown pupil)
+-  Medications/allergies
+-  PMHx, FHx
+-  Pregnant?
+-  Cushings triad: indicates increased ICP: hypertension,  bradycardia, widening pulse pressure
+-  Red flags: 
+    -  Systemic = fever, rash, weight loss, immunocompromised
+    -  Neuro = parasthesia, confusing, altered consciousness, meningism signs = {brudzinski's sign [passive flex neck and hip and knees reflexively flex], kernigs sign [straighten lower leg]}, seizures
+    -  Onset is new = hypertensive emergencies, acute something glycoma
+    -  Other associated conditions = headaches awakening from sleep, other drugs 
+    -  Previous Hx of headaches = is there change in character, frequency, onset
+
+## Trigger 2
+
+LOC: massive red flag, migraines don't usually cause loss of consciousness
+
+Photophobia: massive red flag
+
+DDx:
+
+-  Less likely to be stroke: pain is from meninges, she doesn't have the hemi loss of neural control
+-  Not dehydration, heat stroke
+-  Too serious to likely be migraine
+-  Hydrocephalus usually begins after something like this
+-  Likely things still being considered: ruptured aneurysm, infn [meningitis], AVM (arteriovenous malformation), HTN emergency
+
+Key features in physical Ex:
+
+-  Vitals
+-  Inspection: trauma?
+-  Eye reflex: pupils [PERRL = pupils equal round reactive to light]
+-  Cranial nerves
+-  Otoscopy: effusion, blood, perforation
+-  Fundoscopy: not likely in her since she is photophobic
+-  Neck
+
+## Trigger 3
+
+Imaging: check WA imaging pathway for thunderclap headache / headache
+
+1.  CT head: can see blood, is quick
+2.  Lumbar puncture: can see blood (if SAH), neutrophils (if meningitis)
+3.  CT Angiogram: treatable info for SAH
+
+Causes for haemorrhage:
+
+-  Trauma most common
+-  Berry aneurysm in circle of willis: most common in non traumatic
+-  AVM
+-  Tumour
+-  HTN is risk factor
+
+Veins in subdural space. Arteries in subarachnoid space. 
+
+## Trigger 4
+
+Complications of SAH:
+
+-  *Repeat haemorrhages*
+-  Infn: surgical risks
+-  Brain damage: ischaemia/necrosis
+-  Hydrocephalus
+-  MRI becomes contraindicated
+-  Long term
+    -  *Seizures*
+    -  Epilepsy
+    -  Cognitive dysfn
+    -  *Increase risk of cardiac arrhythmias/MI due to damage in ANS*
+
 # Short case 2
+
+## Trigger 1
+
+> 29M falling off bike, head first into ground. Pain back of head and neck, neuro rapidly degenerates as he gets to the hospital going from responsive => unresponsive 
+
+Initial Mx after falling: DRSABCD
+
+TBI: Traumatic brain injury (TBI) is a nondegenerative, noncongenital insult to the brain from an external mechanical force, possibly leading to permanent or temporary impairment of cognitive, physical, and psychosocial functions, with an associated diminished or altered state of consciousness.
+
+-  Mild: $GCS>12$, CT normal, no operative lesions, hospital stay less than 48h
+-  Moderate: $9\leq GCS\leq12$, abnormal CT, stay more than 48h, operative intracranial lesions
+-  Severe: $3\leq GCS\leq8$
+
+Learn GCS
+
+Mx of stable TBI
+
+-  DRSABCD
+-  CT head
+
+GCS 8 intubate
+
+## Trigger 2
+
+Signs of raised ICP
+
+-  Headache
+-  Neck stiffness
+-  LOC
+-  Pupils not reactive to light: optic nerve compressed
+-  Altered mental state
+-  Nausea/vomiting
+
+## Trigger 3
+
+Subdural: irregular as pressed against gyri. Extradural: crescent shape, lentiform shape. 
+
+Consequences of TBI:
+
+-  Post traumatic seizures
+-  Hydrocephalus
+-  DVT
+-  Heterotopic ossification
+-  Aphasia/ataxia
+
+
+
+# Takeaway
+
+Use first aid textbook to actually learn shit.
+
+
+
+
