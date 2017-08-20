@@ -84,7 +84,7 @@ Further info from pt:
 -  See if anything else is wrong. Distracting injury could obfuscate.
 -  Who is next of kin?
 
-After primary survey => secondary survey
+After primary survey $\rightarrow$ secondary survey
 
 -  Head to toe Ex
 -  Look for fractures

@@ -48,7 +48,7 @@ Can be divided into work to overcome {elastic forces, flow resistance}.
 -  Type I: more emphysema
 -  Type II:
 
-CO2 retainers: chronic increased PaCO2 => decreased sensitivity in the central chemoceptors => hypoxia becomes main breathing drive => DON'T GIVE O2
+CO2 retainers: chronic increased PaCO2 $\rightarrow$ decreased sensitivity in the central chemoceptors $\rightarrow$ hypoxia becomes main breathing drive $\rightarrow$ DON'T GIVE O2
 
 # Spirometry physiology prac
 
@@ -93,7 +93,7 @@ PIF is normal as our diaphragm is lowered and rib cage is raised. This decreases
 
 ### Emphysema
 
-Loss of lung tissue => decreases lung recoil => increased intrapleural pressure => early airway closure, decreased FVC, FEV1. It INCREASES PIF due to decreased recoil.
+Loss of lung tissue $\rightarrow$ decreases lung recoil $\rightarrow$ increased intrapleural pressure $\rightarrow$ early airway closure, decreased FVC, FEV1. It INCREASES PIF due to decreased recoil.
 
 ### Restrictive disease
 

@@ -82,7 +82,7 @@ Bacterial infections can become generalised leading to severe sepsis and septic 
 
 Pathogen leads to specific responses as well as generalised host response mechanisms resulting in a mix of pro- and anti-inflammatory responses.
 
-**Pro-inflammatory:** Activation of vascular endothelial cells leads to thrombosis, increased vascular permeability, and vasodilation. This leads to a warm shock where patient is warm and flushed but not perfusing organs adequately. The thrombosis can cause disseminated intravascular coagulation => bleeding factors.
+**Pro-inflammatory:** Activation of vascular endothelial cells leads to thrombosis, increased vascular permeability, and vasodilation. This leads to a warm shock where patient is warm and flushed but not perfusing organs adequately. The thrombosis can cause disseminated intravascular coagulation $\rightarrow$ bleeding factors.
 
 **Anti-inflammatory:** inhibition of pro-inflammatory cytokines and suppressing immune cells. It may control the inflammation but increase secondary infection susceptibility.
 

@@ -31,12 +31,12 @@ Types of speech deficits
 Sudden onset symptoms:
 
 -  Trauma: haematoma
--  Vascular: aneurysm, haemorrhage => $\Uparrow$ neck stiffness, hypertensive emergency
+-  Vascular: aneurysm, haemorrhage $\rightarrow$ $\Uparrow$ neck stiffness, hypertensive emergency
 -  Inflamm: meningitis (may not be infn), encephalitis, MS
 -  Malnutrition
 -  Migraine: first presentation often gets CT'd
 -  Hydrocephalus: accumulation of CSF
--  Tumour => bleeding => mass effect
+-  Tumour $\rightarrow$ bleeding $\rightarrow$ mass effect
 -  Cyst
 -  Iatrogenic: medicines can cause headaches
 
@@ -116,7 +116,7 @@ Complications of SAH:
 
 ## Trigger 1
 
-> 29M falling off bike, head first into ground. Pain back of head and neck, neuro rapidly degenerates as he gets to the hospital going from responsive => unresponsive 
+> 29M falling off bike, head first into ground. Pain back of head and neck, neuro rapidly degenerates as he gets to the hospital going from responsive $\rightarrow$ unresponsive 
 
 Initial Mx after falling: DRSABCD
 

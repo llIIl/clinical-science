@@ -66,7 +66,7 @@ Dipstick provides info about: proteinuria, haematuria, leukocytes, pH, ketones, 
 
 > Urinary hesitancy, urgency, nocturia, has weak stream. Has had pre-syncopal episode whilst straining to empty bladder.
 
-Neurogenic bladder: problems with the nervous system causing urinary retention / incontinence. Have to empty this to prevent stasis => infn.
+Neurogenic bladder: problems with the nervous system causing urinary retention / incontinence. Have to empty this to prevent stasis $\rightarrow$ infn.
 
 Nocturia: waking up to piss at night. Pathophysiology: BPH, obstruction, polydipsia (hyperdynamic state; diabetes), if kidney can't concentrate urine, irritable bladder.
 
@@ -79,7 +79,7 @@ Clarifying dizziness: distinguishing between:
 -  Pre-syncope: feeling like about to lose consciousness; people often sit down. "Feel like you're going to pass out?"
 -  Vertiginous: "feel like the room is spinning around you?"
 
-Mechanism for dizziness when straining to void: increasing abdominal pressure => stimulation of vagal nerve => micturition syncope (emptying large amounts of V from bladder).
+Mechanism for dizziness when straining to void: increasing abdominal pressure $\rightarrow$ stimulation of vagal nerve $\rightarrow$ micturition syncope (emptying large amounts of V from bladder).
 
 Medications associated with micturition problems: NSAIDs, anti-cholinergics (biggest ones as the inhibit the ACh induced PS stimulation; oxybutynin, opiods, anti-depressants, amphetamines (SNS activation))
 
@@ -149,13 +149,13 @@ NSAIDS and paracetamol make fever abate.
 
 Most common cause of fever in child: URTI such as otitis media, viral, skin infections
 
-Paediatrics is like veterinary science => have to ask random q's since child can't explain things themselves. \textbf{Always ask more and examine more in children}.
+Paediatrics is like veterinary science $\rightarrow$ have to ask random q's since child can't explain things themselves. \textbf{Always ask more and examine more in children}.
 
 Conditions not to miss in a febrile child (potentiall fatal or life altering)
 
 -  Ca
 -  Septic shock
--  Meningococcal disease (Neiserria meningitis (gram neg coccus); meningitis): neck stiffness/rigidity, fever, koenig's sign, Brudzinski's sign (more for adults), rash (late sign; caused by septic emboli getting into tissue and causing microinfarctions => non-blanching rash which separates it from dermal rashes), decreased level of consciousness
+-  Meningococcal disease (Neiserria meningitis (gram neg coccus); meningitis): neck stiffness/rigidity, fever, koenig's sign, Brudzinski's sign (more for adults), rash (late sign; caused by septic emboli getting into tissue and causing microinfarctions $\rightarrow$ non-blanching rash which separates it from dermal rashes), decreased level of consciousness
 -  Measles: C's = {koplic spots (white spots in mouth), conjuctivitis, coryza}, fever
 
 ## Trigger 2

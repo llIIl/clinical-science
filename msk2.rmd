@@ -19,8 +19,8 @@ classoption: a4paper
     -  Long bones from endochondral ossification
     -  Flat bones from intramembranous ossification
 -  Remodelling:
-    -  RANKL: stimulates RANK => increased osteoclast differentiation (stimulated by PTH)
-    -  OPG: inhibits RANKL RANK signalling => decreased osteoclast differentiation
+    -  RANKL: stimulates RANK $\rightarrow$ increased osteoclast differentiation (stimulated by PTH)
+    -  OPG: inhibits RANKL RANK signalling $\rightarrow$ decreased osteoclast differentiation
 
 
 ## Pathology
@@ -29,9 +29,9 @@ classoption: a4paper
 
 -  Dysostoses: defects in migration and condensation of mesenchyme
 -  Dysplasia: global disorganisation of bone/cartilage
-    -  Achondroplasia: most common AD disorder from g.o.f *FGFR3* mutation => retarded cartilage growth
+    -  Achondroplasia: most common AD disorder from g.o.f *FGFR3* mutation $\rightarrow$ retarded cartilage growth
     -  Thanatophoric dysplasia: lethal dwarfism also g.o.f *FGFR3*
-    -  Osteogenesis imperfecta: mutation in *type I collagen* => dominant negative lof mutation => too little bone => fragility
+    -  Osteogenesis imperfecta: mutation in *type I collagen* $\rightarrow$ dominant negative lof mutation $\rightarrow$ too little bone $\rightarrow$ fragility
     -  Osteopetrosis: reduced bone resorption resulting from impaired formation or fn of osteoclasts. AR mutations in *CA2* or *TCIRG1*
 
 ### Metabolic
@@ -46,7 +46,7 @@ Clinical course can lead to lordosis/kyphoscoliosis/PE/pneumonia.
 Paget disease is condition of increased but disordered and structurally unsound bone. Both genetic and environmental causes (usually *SQSTM1*). Hallmark is mosaic pattern of lamellar bone.
 
 1.  Initial osteolytic stage
-2.  Mixed osteoclastic/osteoblastic stage => predominance of osteoblastic activity
+2.  Mixed osteoclastic/osteoblastic stage $\rightarrow$ predominance of osteoblastic activity
 3.  Burned out quiescent osteosclerotic phase
 
 ### Fracture healing
@@ -55,7 +55,7 @@ Paget disease is condition of increased but disordered and structurally unsound 
 -  Clotted blood provides fibrin mesh, sealing off fracture site, and providing scaffold for inflamm cells/fibroblasts/angiogenesis.
 -  Degradnulated platelets and inflamm cells release PDGF, TGF-$\beta$, FGF to activate osteoprogenitor cells.
 -  End of first week: mass of uncalcified tissue called *soft callus* provides anchorage between ends of fractured bone.
--  After two weeks: soft callus => bony callus due to deposition of woven bone, hyaline/fibro-cartilage, and endochondral ossification.
+-  After two weeks: soft callus $\rightarrow$ bony callus due to deposition of woven bone, hyaline/fibro-cartilage, and endochondral ossification.
 
 ### Osteomyelitis
 
@@ -210,9 +210,9 @@ Ix:
 
 > Ix results
 
-According to criteria she'd have 6 points => definite RA
+According to criteria she'd have 6 points $\rightarrow$ definite RA
 
-Natural Hx: progressive deformities of jt, 10% increased risk of CVS mortality within 10 years of Dx (inflamm => vasculitis/athero)
+Natural Hx: progressive deformities of jt, 10% increased risk of CVS mortality within 10 years of Dx (inflamm $\rightarrow$ vasculitis/athero)
 
 ## Trigger 5
 
@@ -272,7 +272,7 @@ Natural Hx:
 -  Inflamm of tendons (such as calcaneal tendon)
 -  Oedema
 -  Ossification
--  Fusion of spine => bamboo spine
+-  Fusion of spine $\rightarrow$ bamboo spine
 
 Treatment:
 
@@ -317,7 +317,7 @@ Ex:
 Pathophysiology of gout:
 
 -  Hyperuricaemia: underexcretion (90%) or overproduction (10%)
--  Excess urate => crystalisation => inflamm => phago of crystals => inflamm: joints get affected
+-  Excess urate $\rightarrow$ crystalisation $\rightarrow$ inflamm $\rightarrow$ phago of crystals $\rightarrow$ inflamm: joints get affected
 -  Can clear up in a couple of days
 
 
@@ -339,8 +339,8 @@ Mx of gout:
     -  Colchicine for acute gout: interrupts cycle of mono-Na crystal deposition. Stops the inflammatory reaction to the crystals. 
 -  Chronic
     -  Lower urate to $<0.36\text{mmol/L}$
-    -  Lifestyle modifications: low purine diet, low sugar (fructose => hyperuricaemia), stay hydrated
-    -  Allopurinol: inhibits xanthine oxidase => inhibits urate production. Not really given during acute flare up because it *may* exacerbates. 
+    -  Lifestyle modifications: low purine diet, low sugar (fructose $\rightarrow$ hyperuricaemia), stay hydrated
+    -  Allopurinol: inhibits xanthine oxidase $\rightarrow$ inhibits urate production. Not really given during acute flare up because it *may* exacerbates. 
 
 Synovial fluid in following disorders:
 

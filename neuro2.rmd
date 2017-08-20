@@ -45,8 +45,8 @@ Reflex:
 
 Shitting (both constipation)
 
--  UMN => increased external sphincter tone
--  LMN => bowel cannot physically move the stool along so it gets stuck
+-  UMN $\rightarrow$ increased external sphincter tone
+-  LMN $\rightarrow$ bowel cannot physically move the stool along so it gets stuck
 
 Autonomic dysreflexia: level of spinal cord injury at or above the T6 | potentially life threatening hypertension. 
 
@@ -73,7 +73,7 @@ Sensory tests:
 
 ## Trigger 4 
 
-Pressure sores: pressure on area of tissue => lack of perfusion => anaerobic metabolism => tissue ischaemia. Spinal injuries: can't feel it.
+Pressure sores: pressure on area of tissue $\rightarrow$ lack of perfusion $\rightarrow$ anaerobic metabolism $\rightarrow$ tissue ischaemia. Spinal injuries: can't feel it.
 
 Poor mobility/altered sensation at risk of: DVT, infn (UTI), depression, obesity, erectile dysfunction, CVS (ischaemic heart disease), obstructive sleep apnoea, post traumatic syringomyelia (cyst or cavity forming in spinal cord), temperature regulation issues, muscle spasms (spasticity) 
 
@@ -125,7 +125,7 @@ Nicotinic
 -  Twitching
 -  Fasciculations
 
-High doses on muscle: fasciculations => inability to repolarise cell membranes => weakness + paralysis => ventilatory failure => 
+High doses on muscle: fasciculations $\rightarrow$ inability to repolarise cell membranes $\rightarrow$ weakness + paralysis $\rightarrow$ ventilatory failure $\rightarrow$ 
 
 ## Trigger 3
 
@@ -139,7 +139,7 @@ Memorise the picture from the Eastern European lecturer.
 
 Acute back pain:
 
--  MSK: strain on erector spinae, infn of vertebrae, poor hip posture => functional scoliosis, spondylothesis (fracture), spondylitis, spinal stenosis, vertebral fracture, scoliosis, disc prolapse, osteomyelitis, epidural abscesses (IV drug users), OA
+-  MSK: strain on erector spinae, infn of vertebrae, poor hip posture $\rightarrow$ functional scoliosis, spondylothesis (fracture), spondylitis, spinal stenosis, vertebral fracture, scoliosis, disc prolapse, osteomyelitis, epidural abscesses (IV drug users), OA
 -  CVS: aortic aneurysm
 -  GIT: pancreatitis, gall bladder infn, colon Ca, kidney stones, ischaemia intestines
 -  Pregnancy stuff
