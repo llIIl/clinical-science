@@ -1,0 +1,92 @@
+---
+title: "Neuro IV"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output:
+  pdf_document
+documentclass: article
+classoption: a4paper
+urlcolor: blue
+---
+
+# Readings
+
+# Main case
+
+## Trigger 1
+
+Causes of irritability: high pitched cries
+
+-  VINDICATE for the DDx
+
+Parent Hx
+
+-  Good Hx: associated Sx (vomiting, diarrhoea,...)
+-  Outbreaks at the daycare
+-  Any complications during birth (obstetric Hx)
+-  Developmental Hx
+-  How does Mad act usually?
+-  How has her feeding changed
+-  Nappy change rate
+-  Rash?
+-  Sleep habit change
+-  Activity/interactivity level
+-  Family Hx/sickness/who is living at home?
+
+Assessment:
+
+-  Paediatric assessment triangle
+-  Primary survey (ABCDE)
+-  Secondary survey
+-  Ongoing assessment
+
+## Trigger 2
+
+Mx plan: address "what's wrong with her": you've brought her in early, but too early to figure out exact cause. Make sure to come back if it gets worse, come back even if not for vaccinations. Have to really figure out how the parents feel.
+
+## Trigger 3
+
+Physical signs
+
+-  Poor cap refill in child
+
+Meningitis: causes Hib, Neisseria, Strep
+
+Under 3/12 & fever: send to ED
+
+$\text{Septic screen} = \text{urine}+\text{bloods (FBC)}+\text{blood cultures} \pm \text{LP} $\pm$ \text{xray (if resp symptoms)}$
+
+Meningitis:
+
+|                   | Viral                      | Bacterial                                                            |   |   |
+|-------------------|----------------------------|----------------------------------------------------------------------|---|---|
+| Clinical symptoms | Headaches, increased ICP,… | Viral + confusion (much worse, progressesfaster as bacteria has pus) |   |   |
+| Rate              | Way more common            | Less common                                                          |   |   |
+| CSF               |                            |                                                                      |   |   |
+|                   |                            |                                                                      |   |   |
+
+Pathophysiology:
+
+1.  Inflammation
+2.  Infn => ventricles
+3.  Necrosis, impaired CSF flow, CNS fn
+
+Increases permeability of BBB
+
+Strep pneumoniae is most common cause of MOPS = {meningitis, otitis media, pneumonia, sinusitis}
+
+| Test                       | Bacterial                 | Viral                        |
+|----------------------------|---------------------------|------------------------------|
+| Opening pressure           | Elevated                  | Usually normal               |
+| White blood cell count     | $\geq1000\text{ per }mm^{3}$| <100 per mm3            |  
+| Cell differential          | Predominance of PMNs      | Predominance of lymphocytes |
+| Protein                    | Mild to marked elevation  | Normal to elevated           |
+| CSF-to-serum glucose ratio | Normal to marked decrease | Usually normal               |
+
+## Trigger 4
+
+Risk with LP: removal of CSF can suck brain through foramen magnum (coning)
+
+# Short case 1
+
+# Short case 2
