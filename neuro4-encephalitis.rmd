@@ -1,0 +1,102 @@
+---
+title: "Encephalitis"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output:
+  pdf_document
+documentclass: article
+classoption: a4paper
+urlcolor: blue
+---
+
+# References
+
+-  [Harrison's internal medicine](http://emedicine.medscape.com/article/791896-overview)
+-  [Medscape](http://accessmedicine.mhmedical.com.ezproxy.library.uq.edu.au/content.aspx?sectionid=79734335&bookid=1130&jumpsectionID=98713820&Resultclick=2)
+-  [Australian info](http://www.health.gov.au/internet/main/publishing.nsf/Content/cda-cdi3302e.htm)
+
+# Tl;dr
+
+Inflammation of the brain parenchyma, presents as diffuse/focal neurological dysfunction. Meninges are frequently involved (meningoencephalitis). Most cases are viral in origin with HSV\footnote{Herpes simplex virus} being the most common cause. Mx (pre-ED): seizures (lorazepam), shock, hypotension, airway protection if altered mental status, oxygen. Mx (ED): beyond HSV and varicella, viral encephalitides are non-treatable beyond supportive care. $\text{Acyclovir} \pm \text{antibiotics} \pm \text{steroids}$
+
+# Differentiating meningitis and encephalitis
+
+Encephalitis usually presents with altered mental state, altered level of consciousness, fever, headache, and sometimes focal neurological symptoms like seizures. Meningitis generally presents with the triad of fever/photophobia, headache and nuchal rigidity.
+
+# Pathophysiology
+
+Viral infn. Portals include mosquitos/ticks (arboviruses), animal bites (rabies), immunocompromised state (VZV\footnote{Varicella zoster virus}, CMV\footnote{Cytomegalovirus}).
+
+Generally virus replicates outside CNS and gains access via *haematogenous spread* or along *neural pathways* (rabies, HSV, VZV). Once past the BBB\footnote{Blood brain barrier}, infects neural cells.
+
+Infection results in cell death, perivascular congestion, haemorrhage, and the inflammatory response that preferentially affects grey > white matter. Region specific effects associated with certain viruses is because certain neuronal cell membrane receptors are found within specific brain portions, e.g. HSV mainly impacts inferior and medial temporal lobes. 
+
+Acute disseminated encephalitis (EBV\footnote{Epstein barr virus}, CMV) result in multifocal demyelination of white matter.
+
+# Causative agents of death (in Australia)
+
+-  Unknown (51%)
+-  HSV
+-  Measles
+-  Zoster
+-  Listeria
+
+# Signs and symptoms
+
+Usual presentation of viral infn:
+
+-  Fever
+-  Headache
+-  Nausea
+-  Vomiting
+-  Lethargy
+-  Myalgia
+
+Also specific presentations according to the cause. E.g. CMV, measles, VZV, EBV: rash, lymphadenopathy, hepatosplenomegaly and parotid enlargement.
+
+Typical findings also include:
+
+-  Altered mental status
+-  Personality changes (very common)
+-  Focal findings (eg, hemiparesis, focal seizures, and autonomic dysfunction)
+-  Movement disorders (eg, St Louis encephalitis, eastern equine encephalitis, and western equine encephalitis)
+-  Ataxia
+-  Cranial nerve defects
+-  Dysphagia, particularly in rabies
+-  Meningismus (less common and less pronounced than in meningitis)
+-  Unilateral sensorimotor dysfunction (postinfectious encephalomyelitis) 
+
+Complications:
+
+-  Seizures
+-  SIADH
+-  ICP
+-  COMA
+
+# Dx
+
+-  Bloods and urine: FBC, CHEM20 (electrolytes, blood urea nitrogen, creatinine), glucose, urinalysis (electrolytes).
+-  LP: need CSF and can run cultures or PCR
+-  Imaging: head CT ($\pm\text{contrast}$ should always be done in most patients with encephalitis, to find info on ICP, obstructive hydrocephalus or mass effect. Helps exlude brain haemorrhage/infarction)., MRI is more sensitive earlier in disease course. 
+-  Brain biopsy is the diagnostic standard (96% sensitivity, 100% specificity)
+
+# Mx
+
+### Pre-hospital
+
+DRSABCD, seizure precautions, give oxygen and secure IV access. 
+
+### In-hospital
+
+-  $\text{Acyclovir} \pm \text{antibiotics} \pm \text{steroids}$
+-  Collect blood samples prior to IV therapy
+-  Neuro-imaging (MRI > head CT) before LP
+-  Considerations: hydrocephalus, increased ICP, systemic complications
+
+# Prognosis
+
+Depends on the causative agent. Outcomes are usually not so great, worsened outcomes if YO(P [not mentioned])I. High mortality, learning disabilities, motor and mental disabilities, memory problems, epilepsy, seizures. 
+
+HSV with actclovir reduces mortality from 70% to 25-30%.
+
+Rabies has mortality close to 100%.
