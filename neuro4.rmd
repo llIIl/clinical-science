@@ -89,4 +89,70 @@ Risk with LP: removal of CSF can suck brain through foramen magnum (coning)
 
 # Short case 1
 
+## Trigger 1
+
+One eye: probably not occipital lobe as at optic chiasm, left optic tract gets info from both eyes (left visual field), sim for right.
+
+Questions to ask:
+
+-  Fam Hx
+-  What was she doing at the time?
+-  Any headaches when she does move her eye?
+-  Associated symptoms: numbness, tingling, incontinence?
+-  Nature of pain
+-  Better or worse
+-  Onset: there all day?
+-  Allergies, drugs
+
+
+## Trigger 2
+
+Ex for pupilliary reflex
+
+-  Direct
+-  Consensual
+
+## Trigger 3
+
+Optic neuritis: inflammed myelin sheaths of optic nerve.
+85% of cases permanent damage to optic nerve.
+Tx: steroids for severe or chronic cases.
+
+## Trigger 4
+
+Causes of demyelinating disease: autoimmune, Vit B12, 
+
+Dx for MS: McDonald criteria: 2 diff lesions in 2 diff places and 2 diff times
+
 # Short case 2
+
+## Trigger 1
+
+Peripheral nerves is site.
+
+Breathless: up to 30% of GBS require ventilation.
+
+## Trigger 2
+
+Main cause is campylobacter causing GIT infns. 
+Bacteria have LPS which are similar to myelin gangliocytes => creating molecular mimicry. 
+Early lymphocytic infiltrates than macrophage mediated stripping of myelin. 
+Segmental demyelination then infiltrates. 
+Most repair normally. 
+
+
+| Mnemonic    | UMN                                 | LMN           |
+|-------------|-------------------------------------|---------------|
+| Strength    | $\Downarrow$                        | $\Downarrow$  |
+| Tone        | $\Uparrow$                          | $\Downarrow$  |
+| Others      | Superficial reflexes. Absent clonus | Fasiculations |
+| Reflexes    | $\Uparrow$                          | $\Downarrow$  |
+| Muscle mass | $\sim N$                            | $\Downarrow$  |
+| Babinski    | $(+)$                               | $(-)$         |
+
+Mx:
+
+-  Plasmaphoresis or Ig but NOT both
+-  20% mortality if ventilated
+-  Long term complications DVT, paralysis, death, peripheral neuropathy
+-  Recovery takes a *long* time: 6/12 to *years*
