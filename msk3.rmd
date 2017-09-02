@@ -44,6 +44,21 @@ Displacment of the capital femoral epiphysis from the rest of the femur through 
 -  Compression
 -  Elevation
 
+# POW: Pagets
+
+-  Osteoclasts: multi-nucleated bad boys that resorb bone
+-  Osteoblasts: found on the surfaces of bone and deposit new bone, produce RANKL, produce OPG (inactivates RANKL)
+
+Lesions of pagets phases
+
+1.  Lytic: osteoclasts more numerous, increased size and number of nuclei
+2.  Mixed: osteoblasts increase, loose conn tissue replaces bone marrow, sign neovascularisation occurs
+3.  Sclerotic: osteoblasts predominate and new bone is deposited with pathognomic mosaic pattern, thick cement lines between randomly arranged lamellar bone
+
+Aetiology: paramyxoviruses, pagetic osteoclasts secrete excess IL-6
+
+Symptoms: most asymptomatic, wide range of symptoms including deafness, neuropathy, bone pain (shortening and bowing of legs), hip pain, kidney stones. Imp Dx are serum alkaline phosphatase and urinary pyridinoline (markers of bone turnover). Treatable with bisphosphanates. 
+
 # Main case
 
 ## Trigger 1
