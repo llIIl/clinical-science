@@ -1,8 +1,19 @@
 #!/bin/bash
 
-# Modify this by making conditional based on if extension or not (if there is a ".")
+###############################################################
+####      Renders .rmd file using R using knitr/pandoc     ####
+###############################################################
+
+# Dependencies
+#   R
+#   TeX (if you decide to output a pdf_document)
+#   R packages: knitr
+
+# To do
+#   making conditional based on if extension or not (if there is a ".")
+#   Make the cleaning stuff functions so it is easier to examine
+
 read -p 'Enter the .rmd file you wish to render (without the extension): ' File
-echo "$File".rmd
 
 if [[ -e "$File".rmd ]]; then
     echo "Do you wish to clean the tmp .rmd file? "
