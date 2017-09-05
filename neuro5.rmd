@@ -1,0 +1,106 @@
+---
+title: "Neuro V"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output:
+  pdf_document
+documentclass: article
+classoption: a4paper
+urlcolor: blue
+---
+
+# Readings
+
+# Main case
+
+## Trigger 1
+
+Symptoms due to old age: unilateral, stiff and weak, only 60 so probs not. Age related degeneration is typically bilateral, older,...
+
+CNS
+
+-  Motor power
+-  Movement
+-  Coordination: cerebellum
+
+DDx:
+
+-  Neuro: stroke, parkinsons, huntingtons, MS, GBS, MND (motor neuron disease), myasthenia gravis, cerebellar alcohol, vertigo, essential tremor, visual impairment that is not being picked up, dementia, peripheral neuropathy
+-  Malig: primary or secondary tumours
+
+Sensory for coordination:
+
+-  Propioception
+-  Visual
+-  Vestibular apparatus
+
+Hx taking:
+
+-  Flesh out PC
+    -  Onset: how did symptoms come in
+    -  Fumbling at rest or moving
+    -  Dizziness/falling over: vertigo, inner ear
+    -  Visual fn: reading or not
+    -  Headaches/faints: tumours
+-  Anything else
+-  PMHx
+-  PSHx
+-  FHx
+-  Sexual Hx
+-  Medications, allergies, adverse drugs
+-  Social Hx: smoking, drinking, drugs, rest of it, how is it affecting life, dependents
+
+## Trigger 2
+
+Key symptoms
+
+-  Slowing up: bradykinesia
+-  Tremor: increases when trying to hurry or agitated
+-  Mumbling
+-  Episode of vertigo in the past: stemetil
+
+Parkinsons: bradykesia, rigidity, tremor, postural instability
+
+Basal ganglia: disinhibition and inhibition of differnet planned movements. Therefore has issues starting a movement. 
+
+| Extrapyramidal             | Corticospinal             | Cerebellar           |
+|----------------------------|---------------------------|----------------------|
+| Parkinsonism               | Increased tendon reflexes | Intention tremor     |
+| Dystonia                   | Fasiculations             | Troubles with speech |
+| Restlessness, urge to move | Increased tone            |                      |
+| Gait: shuffling            |                           |                      |
+| Lack of normal arm swing   |                           |                      |
+| Walking heel to toe        |                           |                      |
+| Cogwheel rigidity          |                           |                      |
+
+## Trigger 3
+
+Parkinsons: loss of 60-80 of dopaminergic neurons in pars compacta
+
+Extrapyramidal disorders: anything disrupting the pathway. Lesions in basal ganglia, drugs
+
+## Trigger 4
+
+Side effects of levodopa:
+
+-  Arrhythmias
+-  Hypotension
+-  Nausea
+-  GI bleeding
+-  Hallucinations
+-  End of dose deterioration of fn
+-  Oscillations
+-  Dyskinesea
+
+There are no disease modifying agents for parkinsons. These drugs only cure symptoms for a bit, disease will still progress.
+
+## Trigger 5
+
+On/off symptoms: try reduce dose but give more frequently so it still has effects without adverse effects
+
+Natural Hx: loss of motor fn, dementia, death, autonomic effects
+
+
+# Short case 1
+
+# Short case 2
