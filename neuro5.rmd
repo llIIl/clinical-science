@@ -103,4 +103,69 @@ Natural Hx: loss of motor fn, dementia, death, autonomic effects
 
 # Short case 1
 
+## Trigger 1
+
+> 53M weakness and clumsiness of right hand 3/12. 6/12 began dropping things with R hand, gradual deterioration in handwriting, losing grip strength.
+
+Anatomical sites (DDx for muscle weakness; unilateral/focal tends to be neurological))
+
+-  Muscles:
+    -  Primary myopathies: hereditoary/congenital (dystrophies), finalmm, metabolic
+    -  Secondary myopathies: infn (trichanosis), conn tissue disease, thyroid/adrenal dysfn, paraneoplastic, drugs
+    -  Trauma
+-  NMJ: myasthenia gravis, lambert eaten, toxins such as snake venoms/ticks/pesticides
+-  LMN: peripheral nerve entrapment, polyneuropathy, GBS
+-  Spinal cord: radiculopathy from spinal stenosis, neoplasms, stuff damaging peripheral nerve roots, infn from CMV/lyme can damage anterior horn => LMN damage, MS
+-  UMN: motor neuron diseases such as amyotrophic lateral sclerosis, 
+-  Cerebral hemisphere: CVA (usually +sensory)
+-  Systemic: Vit B12 deficiency, hypercalcaemia/hyperparathyroidism (+abd pain, excessive urination, renal stones)
+
+
+Hx:
+
+-  HPC
+    -  Tell me more...
+    -  What does weakness mean? Sometimes pt confuse weakness with fatigue, often part of systemic disorders, psych, MS, parkinsons. Pt might describe rigidity/incoordination as weakness, ask "what could you do that you no longer can" fishing for "lifting up milk",...
+    -  Site
+    -  Onset: insidious onset suggests degenerative or chronic (metabolic ,hereditary), intermittent (e.g. using it makes it worse suggests myasthenia gravis), particular positions making it bad then mechanical issue such as entrapment neuropathy, radiculopathy, localised vascular occlusion, particular times of day suggests ion channel disorder, random symptom timing with quick recovery suggests transient ischaemia of CNS
+    -  Character, radiation
+    -  Associated symptoms: 
+        -  Atrophy/fasciculations suggest LMN
+        -  Systemic symptoms (probs not unilateral arm) can be from endocrine (thyroid, diabetus)
+        -  Neoplasias/infn
+        -  *Sensory* such as parasthaesia, vision, vertigo suggests NS
+        -  Change in character of voice, problems swallowing (pharyngeal muscles)
+        -  Increased urinary urgency can suggest spinal damage (myelopathy)
+    -  How is it affecting daily life, what does he think it is?
+-  PMHx: can get clues for infn cause or neoplastic
+-  SHx
+-  FHx
+-  Medications, allergies, ADR
+-  Social Hx: drugs, alcohol, cigarettes
+
+**finish up the DDx**
+
+## Trigger 2
+
+Cues:
+
+-  Generally weak
+-  No sensory or paraesthesia
+-  Head, neck, or shoulder pain
+-  No recent injuries
+-  No pattern to weakness, not aware of stuff that makes it better or worse
+-  No fatigueable element
+-  No bladder or bowel disturbances, no double vision
+-  No difficulties with swallowing or changes to voice/speech
+
+Ex:
+
+## References
+
+-  [Good DDx for weakness](http://www.dartmouth.edu/~dons/part_2/chapter_12.html)
+-  [AFP article: evaluation of pt with muscle weakness](http://www.aafp.org/afp/2005/0401/p1327.html)
+-  [Medscape MND](http://emedicine.medscape.com/article/2111360-overview#a1)
+-  [AFP article of MND](http://www.racgp.org.au/download/documents/AFP/2011/December/201112zoing.pdf)
+-
+
 # Short case 2
