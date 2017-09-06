@@ -104,21 +104,22 @@ Natural Hx: loss of motor fn, dementia, death, autonomic effects
 # Short case 1
 
 ## Trigger 1
-
+  
 > 53M weakness and clumsiness of right hand 3/12. 6/12 began dropping things with R hand, gradual deterioration in handwriting, losing grip strength.
 
 Anatomical sites (DDx for muscle weakness; unilateral/focal tends to be neurological))
 
 -  Muscles:
-    -  Primary myopathies: hereditoary/congenital (dystrophies), finalmm, metabolic
+    -  Primary myopathies: hereditary/congenital (dystrophies), finalmm, metabolic
     -  Secondary myopathies: infn (trichanosis), conn tissue disease, thyroid/adrenal dysfn, paraneoplastic, drugs
     -  Trauma
--  NMJ: myasthenia gravis, lambert eaten, toxins such as snake venoms/ticks/pesticides
--  LMN: peripheral nerve entrapment, polyneuropathy, GBS
--  Spinal cord: radiculopathy from spinal stenosis, neoplasms, stuff damaging peripheral nerve roots, infn from CMV/lyme can damage anterior horn => LMN damage, MS
--  UMN: motor neuron diseases such as amyotrophic lateral sclerosis, 
+-  NMJ: *myasthenia gravis*, lambert eaten, toxins such as snake venoms/ticks/pesticides
+-  LMN: peripheral nerve entrapment, polyneuropathy, GBS, *post-polio syndrome* (in sufferers of polio), *multifocal motor neuropathy*
+-  Spinal cord: *spinal cord compression* (radiculopathy from spinal stenosis), neoplasms, stuff damaging peripheral nerve roots, infn from CMV/lyme can damage anterior horn => LMN damage, *MS*, 
+-  UMN: tumour
 -  Cerebral hemisphere: CVA (usually +sensory)
--  Systemic: Vit B12 deficiency, hypercalcaemia/hyperparathyroidism (+abd pain, excessive urination, renal stones)
+-  Neurodegenerative diseases like *motor neuron diseases (MND)* = {amyotrophic lateral sclerosis (ALS), primary lateral sclerosis (PLS), hereditary spastic paraparesis (HSP), spinal muscular atrophy (SMA), x-linked spinobulbar muscular atrophy (SBMA)}
+-  Systemic: *Vit B12 deficiency*, hypercalcaemia/hyperparathyroidism (+abd pain, excessive urination, renal stones), depression, *heavy metal poisoning*, *lyme disease*
 
 
 Hx:
@@ -126,6 +127,9 @@ Hx:
 -  HPC
     -  Tell me more...
     -  What does weakness mean? Sometimes pt confuse weakness with fatigue, often part of systemic disorders, psych, MS, parkinsons. Pt might describe rigidity/incoordination as weakness, ask "what could you do that you no longer can" fishing for "lifting up milk",...
+        -  Fatigue describes the inability to continue performing a task after multiple repetitions
+        -  Primary weakness is unable to perform the first repetition of the task
+        -  Asthenia is a sense of weariness or exhaustion in the absence of muscle weakness. Common in people who have chronic fatigue syndrome, sleep disorders, depression, or chronic heart, lung, and kidney disease
     -  Site
     -  Onset: insidious onset suggests degenerative or chronic (metabolic ,hereditary), intermittent (e.g. using it makes it worse suggests myasthenia gravis), particular positions making it bad then mechanical issue such as entrapment neuropathy, radiculopathy, localised vascular occlusion, particular times of day suggests ion channel disorder, random symptom timing with quick recovery suggests transient ischaemia of CNS
     -  Character, radiation
@@ -140,25 +144,39 @@ Hx:
 -  PMHx: can get clues for infn cause or neoplastic
 -  SHx
 -  FHx
--  Medications, allergies, ADR
+-  Medications (amiodarone, chemotherapeutic agents, interferon, cocaine, corticosteroids, penicilin, sulfonamides, statins, NSAIDS), allergies, ADR
 -  Social Hx: drugs, alcohol, cigarettes
-
-**finish up the DDx**
 
 ## Trigger 2
 
 Cues:
 
 -  Generally weak
--  No sensory or paraesthesia
+-  No sensory or paraesthesia: do exam first, but suggests against 
 -  Head, neck, or shoulder pain
--  No recent injuries
+-  No recent injuries: not trauma
 -  No pattern to weakness, not aware of stuff that makes it better or worse
--  No fatigueable element
+-  No fatigueable element: less likely NMJ
 -  No bladder or bowel disturbances, no double vision
--  No difficulties with swallowing or changes to voice/speech
+-  No difficulties with swallowing or changes to voice/speech: not cranial nerves?
+-  PMHx relatively uneventful: no post-polio
 
-Ex:
+Ex clinical signs:
+
+-  
+-  Neuro upper limb
+
+
+## Trigger 3
+
+MND: often Dx of exclusion
+
+-  ALS: combination of UMN and LMN in the limbs and bulbar muscles
+-  Progressive muscle atrophy with only lower motor neuron signs initially; some patients develop later lower motor neurone signs
+-  Primary lateral sclerosis, with predominantly upper motor neuron features
+-  Progressive bulbar palsy, with degeneration of bulbar nuclei and preservation of anterior horn cell and upper motor neuron function.
+
+
 
 ## References
 
@@ -166,6 +184,5 @@ Ex:
 -  [AFP article: evaluation of pt with muscle weakness](http://www.aafp.org/afp/2005/0401/p1327.html)
 -  [Medscape MND](http://emedicine.medscape.com/article/2111360-overview#a1)
 -  [AFP article of MND](http://www.racgp.org.au/download/documents/AFP/2011/December/201112zoing.pdf)
--
 
 # Short case 2
