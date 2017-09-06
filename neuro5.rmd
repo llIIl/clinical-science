@@ -151,14 +151,20 @@ Hx:
 
 Cues:
 
--  Generally weak
--  No sensory or paraesthesia: do exam first, but suggests against 
--  Head, neck, or shoulder pain
--  No recent injuries: not trauma
--  No pattern to weakness, not aware of stuff that makes it better or worse
+-  Generally weak: something systemic, or just feeling shit
+-  No sensory or paraesthesia: do exam first, but suggests against radiculopathies
+-  No head, neck, or shoulder pain
+-  No recent injuries: against trauma
+-  No pattern to weakness, not aware of stuff that makes it better or worse: probably not mechanical/orthopaedic such as nerve entrapment
 -  No fatigueable element: less likely NMJ
 -  No bladder or bowel disturbances, no double vision
--  No difficulties with swallowing or changes to voice/speech: not cranial nerves?
+-  No difficulties with swallowing or changes to voice/speech: less likely cranial nerves involved
+    -  CN V: muscles for mandible, tensor veli palatini
+    -  CN VII: motor muscles of facial expression + stapedius, sensory ante $\frac{2}{3}$ tongue
+    -  CN IX: motor middle pharyngeal constrictor + stylopharyngeus, sensory post $\frac{1}{3}$ tongue, velum, tonsils
+    -  CN X: motor majority of viscera, sends motor commands to pharyngeal constrictors, cricothyroid for changes in pitch, glossopalatine and levator veli palatine muscles
+    -  CN XI: trapezius and SCM of the neck
+    -  CN XII: motor controlling tongue movement (intrinsic + extrinsic). Lesions here can result in fasciculations.
 -  PMHx relatively uneventful: no post-polio
 
 Ex clinical signs:
@@ -166,17 +172,68 @@ Ex clinical signs:
 -  
 -  Neuro upper limb
 
+Clin findings suggestive of MND
+
+-  Asymm weakness in upper or lower limbs
+-  Brisk reflexes in wasted limb
+-  Weakness in absence of pain or prominent sensory symptoms
+-  Relentless progression of symptoms and signs
 
 ## Trigger 3
 
-MND: often Dx of exclusion
+https://i.imgur.com/fUq88Wh.png <!-- image to be knit into the doc, under images/ -->
 
--  ALS: combination of UMN and LMN in the limbs and bulbar muscles
--  Progressive muscle atrophy with only lower motor neuron signs initially; some patients develop later lower motor neurone signs
--  Primary lateral sclerosis, with predominantly upper motor neuron features
--  Progressive bulbar palsy, with degeneration of bulbar nuclei and preservation of anterior horn cell and upper motor neuron function.
+| Dx                    | Positives                   | Negatives                   |
+|-----------------------|-----------------------------|-----------------------------|
+| Peripheral neuropathy | Explains weakness           | Hyperreflexia               |
+| Cervical cord lesion  |                             | Nothing below the level     |
+| Muscular dystrophy    | Explains bilateral weakness | Reflexes increased, PAINFUL |
+| R ulnar nerve lesion  | Weakness R hand             | Doesn't explain bilateral   |
+| Motor neuron disease  | Vague as fuck               |                             |
 
 
+MND: often Dx of exclusion. Generally occurs when age $\in[30,60]$, with degeneration of ante horn cells in spinal cord, motor nuclei of lower cranial nerves, and corticospinal/bulbar pathways. Usually sporadic, some familial. 5 varieties based on clinical grounds:
+
+1.  Progressive bulbar palsy: bulbar involvement predominates owing to disease processes affecting primarily the motor nuclei of the cranial nerves
+2.  Pseudobulbar Palsy: bilateral corticobulbar disease reflecting UMN dysfn. "Pseudo-bulbar effect" with uncontrollable laughing/crying to stimuli
+3.  Progressive spinal muscular atrophy: LMN deficit in limbs due to degen of ante horn cells
+4.  Primary lateral sclerosis: purely UMN deficit in the limbs
+5.  Amyotrophic lateral sclerosis: mix of U and LMN in the limbs, sometimes associated with cognitive decline (frontotemporal dementia), psudobulbar effect, or parkinsonism
+
+Differences between bulbar and pseudobulbar palsy (signs and symptoms):
+
+-  Bulbar: LMN lesion to cranial nerves IX, X, XI, XII, in the medulla or lesons of the lower cranial nerves outside the brainstem. Symptoms = {tremulous lips, tongue weak and wasted and fasculations, drooling + dysphagia (unable to swallow), dysphonia, articulation issues (cant pronounce *r*)}
+-  Pseudobulbar: lesion to corticobulbar tracts. Bilateral damage must be present as many muscles have bilateral innervation. Presentation = {paralysed tongue and no fasciculations, dribbling, facial muscles paralysed, exaggerated reflexes, dysphonia, dysphagia, emotional lability may be present}
+
+Further Ix
+
+-  Electromyography: may show changes of chronic partial denervation, ab~N spontaneous activity in resting muscle. Dx should not be made with confidence unless change are found in $\geq3# spinal regions, or $2$ regions + bulbar 
+-  Motor conduction velocity is usually normal
+-  Sensory conduction studies normal
+-  Biopsy of wasted muscle
+-  Serum CK may be elevated, but not as high as muscular dystrophies
+-  CSF normal
+
+What are possible future complications
+
+-  Sialorrhoea: unintentional loss of saliva through the mouth
+    -  Choking
+    -  Pneumonia
+-  Dermatological: rashes
+-  Resp failure
+-  Death
+
+Principles of Mx for MND
+
+-  Refer
+-  Admit for initiation or titration of noninvasive ventilation for those with low inspiratory pressure, may prolong survival
+-  Riluzole: reduces presynaptic release of Glu, increases short term survival for ALS
+-  Symptomatic/supportive measures: trials of anticholinergics
+    -  Braces/walker
+    -  Physical therapy to prevent contractures
+-  Relieve pseudobulbar affect with combination dextromethorphan/quinidine
+-  Gastronomy tube if dysphagia is severe
+-  Palliative
 
 ## References
 
@@ -184,5 +241,6 @@ MND: often Dx of exclusion
 -  [AFP article: evaluation of pt with muscle weakness](http://www.aafp.org/afp/2005/0401/p1327.html)
 -  [Medscape MND](http://emedicine.medscape.com/article/2111360-overview#a1)
 -  [AFP article of MND](http://www.racgp.org.au/download/documents/AFP/2011/December/201112zoing.pdf)
+-  [Categories of MND](http://accessmedicine.mhmedical.com.ezproxy.library.uq.edu.au/content.aspx?sectionid=135716257&bookid=1843&jumpsectionID=135717169&Resultclick=2)
 
 # Short case 2
