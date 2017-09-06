@@ -231,6 +231,13 @@ Principles of Mx for MND
 -  Symptomatic/supportive measures: trials of anticholinergics
     -  Braces/walker
     -  Physical therapy to prevent contractures
+    -  Mx saliva
+    -  Dyspnoea
+    -  Constipation
+    -  Muscle cramps/spasms/spasticity
+    -  Depression, emotional lability
+    -  Choking sensation
+    -  Panic claustrophobia
 -  Relieve pseudobulbar affect with combination dextromethorphan/quinidine
 -  Gastronomy tube if dysphagia is severe
 -  Palliative
