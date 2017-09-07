@@ -207,7 +207,7 @@ Differences between bulbar and pseudobulbar palsy (signs and symptoms):
 
 Further Ix
 
--  Electromyography: may show changes of chronic partial denervation, ab~N spontaneous activity in resting muscle. Dx should not be made with confidence unless change are found in $\geq3# spinal regions, or $2$ regions + bulbar 
+-  Electromyography: may show changes of chronic partial denervation, ab~N spontaneous activity in resting muscle. Dx should not be made with confidence unless change are found in $\geq3$ spinal regions, or $2$ regions + bulbar 
 -  Motor conduction velocity is usually normal
 -  Sensory conduction studies normal
 -  Biopsy of wasted muscle
@@ -242,6 +242,7 @@ Principles of Mx for MND
 -  Gastronomy tube if dysphagia is severe
 -  Palliative
 
+
 ## References
 
 -  [Good DDx for weakness](http://www.dartmouth.edu/~dons/part_2/chapter_12.html)
@@ -250,4 +251,50 @@ Principles of Mx for MND
 -  [AFP article of MND](http://www.racgp.org.au/download/documents/AFP/2011/December/201112zoing.pdf)
 -  [Categories of MND](http://accessmedicine.mhmedical.com.ezproxy.library.uq.edu.au/content.aspx?sectionid=135716257&bookid=1843&jumpsectionID=135717169&Resultclick=2)
 
+
+
 # Short case 2
+
+## Trigger 1
+
+Proceed with consultation: direct Q at pt, ask to have a chat with husband
+
+Dx: can get advanced health directive, clin trials, gives pt time to do stuff before dying, interventions can help
+
+Depression, dementia, delirium have to d/dx
+
+## Trigger 2
+
+Commonest causes of memory impairment: important to know ddx as some are treatable
+
+-  Dementia
+-  Alzheimers
+-  Parkinsons
+-  Thyroid
+-  Depression
+-  Cerebral infn
+-  Sleep deficiencies
+
+Classification of dementia: 4 main types = {alzheimers, lewy body (concentration, distances, *visual hallucinations, parkinsonism, fluctuation in mental state*), vascular (step deterioration, sudden onset), frontotemporal}
+
+Specific cognitive tests:
+
+-  MMSE: out of 30, few questions testing working, visualspacial awareness,... Below 28 get concerned. This is biased
+-  GPCOG: piece of paper for both pt and their SO
+
+Ex and Ix: to mainly rule stuff out
+
+-  Bloods + Vit B12
+-  LP
+-  Prions
+-  MRI
+-  PET
+
+## Trigger 3
+
+Aged care assessment, talk to both people at once, discuss prognosis, mental exercises
+
+## Trigger 4
+
+Medications: cholinesterase inhibitors, NMDA-R antagonists, symptomatic stuff for sleeping, craziness, antidepressants
+
