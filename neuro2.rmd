@@ -1,5 +1,5 @@
 ---
-title: "Module II"
+title: "Neurology II"
 author: "Aaron Khoo"
 date: "`r format(Sys.Date(), '%d %B %Y')`"
 output:
@@ -8,8 +8,6 @@ documentclass: article
 classoption: a4paper
 urlcolor: blue
 ---
-
-# Readings
 
 # Main case
 
@@ -68,8 +66,8 @@ Autonomic dysreflexia: level of spinal cord injury at or above the T6 | potentia
 
 Sensory tests:
 
--  Anterolateral tract: spinothalamic (pain and temp), spinoreticular, spinotectal = {pain, temperature, crude touch, firm pressure}
--  Dorsal lemniscal: check lecture 4 of this week (Bellingham)
+-  Anterolateral tract: spinothalamic (pain and temp), spinoreticular, spinotectal = {pain, temperature, crude touch, firm pressure}. Goes up or down 1 or 2 levels then decussates.
+-  Dorsal lemniscal (column): fine touch and proprioception, decussates up in the brainstem.
 
 ## Trigger 4 
 
@@ -125,13 +123,11 @@ Nicotinic
 -  Twitching
 -  Fasciculations
 
-High doses on muscle: fasciculations $\rightarrow$ inability to repolarise cell membranes $\rightarrow$ weakness + paralysis $\rightarrow$ ventilatory failure $\rightarrow$ 
+High doses on muscle: fasciculations $\rightarrow$ inability to repolarise cell membranes $\rightarrow$ weakness + paralysis $\rightarrow$ ventilatory failure $\rightarrow$ death
 
 ## Trigger 3
 
 Atropine: muscarinic antagonist. Actions would be the opposite of DUMBELS
-
-Memorise the picture from the Eastern European lecturer. 
 
 # Short case 2
 
