@@ -9,6 +9,12 @@ classoption: a4paper
 urlcolor: blue
 ---
 
+# POW
+
+Presentation: 51F thunderclap headache, with vomiting. Brought on during gym class, progressive losing consciousness. PMHx: HTN, sporadic migraine with aura, G1P1. 
+
+PDx: SAH. Most common cause is saccular (berry) aneurysm. Diameter is biggest predictor of rupture. 
+
 # Main case
 
 ## Trigger 1

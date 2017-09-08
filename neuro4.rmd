@@ -9,7 +9,25 @@ classoption: a4paper
 urlcolor: blue
 ---
 
-# Readings
+# POW
+
+Presentation: 30F left lag dragging, difficulties walking long distances, feels tingling in hands and it seems to have come back.
+
+Ix: HLA-DR2 haplotype associated with MS, oligoclonal bands in CSF suggest inflamm process, normal metabolic panel and thyroid excludes other explanations such as hypothyroidism.
+
+Explanation of oligclonal bands: each band represents IgG produced by activated B cell. These result in the autoimmune attacks. Being present in CSF but NOT plasma means it originates in CNS. If was in blood, then systemic immune response could have crossed leaky BBB into CSF. 
+
+Pathophysiology: Multiple sclerosis is an example of a Type IV hypersensitivity. Initially, T cells cross the blood brain barrier and attach to ligands on the myelin sheath and oligodendrocytes . The T cells mistake these cells as being foreign and release cytokines, resulting in inflammation that damages the myelin. Normally, myelin increases the speed of electrical signals via saltatory conduction. When the myelin is gone, the signals can’t propagate along the axons as well. This can eventually lead to conduction block . Hence, we see the neurological deficits in this patient. At first, through the process of remyelination some of the symptoms will resolve. However, as time goes on, this process is less effective and symptoms get worse.
+
+Histo: fried egg looking cells are oligodendrocytes.
+
+| Symptom       | Site of damage                                                      |
+|---------------|---------------------------------------------------------------------|
+| Blurry vision | Optic nerve                                                         |
+| Double vision | Oculomotor nerve                                                    |
+| Limb weakness | Pyramidal tract                                                     |
+| Limb numbness | Posterior columne medial lemniscus pathway  (fine touch and propio) |
+| Ataxia        | Cerebellum                                                          |
 
 # Main case
 
@@ -54,7 +72,7 @@ Meningitis: causes Hib, Neisseria, Strep
 
 Under 3/12 & fever: send to ED
 
-$\text{Septic screen} = \text{urine}+\text{bloods (FBC)}+\text{blood cultures} \pm \text{LP} $\pm$ \text{xray (if resp symptoms)}$
+$\text{Septic screen} = \text{urine}+\text{bloods (FBC)}+\text{blood cultures} \pm \text{LP} \pm \text{xray (if resp symptoms)}$
 
 Meningitis:
 
