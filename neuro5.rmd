@@ -181,7 +181,8 @@ Clin findings suggestive of MND
 
 ## Trigger 3
 
-https://i.imgur.com/fUq88Wh.png <!-- image to be knit into the doc, under images/ -->
+\includegraphics{images/neuro5-umn-lmn-signs.png}
+
 
 | Dx                    | Positives                   | Negatives                   |
 |-----------------------|-----------------------------|-----------------------------|
