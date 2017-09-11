@@ -242,7 +242,7 @@ Questions to ask
 Types of back pain
 
 | Type | Character | Time course | Radiation | NSAID response | Onset | Age |
-| ------ |---------------  | ---------- | --------- | ------- |  ------ | ----- |
+| --------- |---------------  | ---------- | --------- | ------- |  ------ | ----- |
 | Mechanical | Thinking muscular: diffuse/achey | Worse with movement PM AM | Lumbar to back of thigh | Moderate/good | Post trauma/gradual | Mid-late |
 | Inflammation | Something pushing: stabbing | AM more likely than PM | To the butt | Really good | Insidious/gradual | 20s |
 | Radicular | Sharp/stabbing | Worse with activity | Goes down the leg towards ankle and foot | Limited | Usually sudden | Any |
@@ -251,18 +251,17 @@ Types of back pain
 
 ## Trigger 3
 
-What are the types of spondyloarthropathies (Rheumatoid factor negative)
+What are the types of spondyloarthropathies (Rheumatoid factor and other antibody negative; many carry HLA-B27))
 
 -  Ankylosing spondylitis: $M>F$,
 -  Psoriatic arthritis: nail pitting, sausage fingers
 -  Reactive arthritis: after an infn (think UTIs, STIs), $M>F$
 -  IBD associated: 
--  
--  
+-  Undifferentiated: 
 
 Range of symptoms (don't forget extra-articular symptoms):
 
--  Oseopenia
+-  Osteopenia
 -  LOTS of CVS issues
 
 ## Trigger 5
