@@ -6,6 +6,7 @@ output:
   pdf_document
 documentclass: article
 classoption: a4paper
+fontsize: 11pt
 urlcolor: blue
 ---
 
