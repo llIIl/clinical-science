@@ -240,7 +240,7 @@ Risk factors for falls in the elderly
 
 ## Trigger 2
 
-> Found before 5am lying on floor, crying in pain, unable to get up. No PMHx of chest pain, palpitations, "fits, faints or funny turns" [pre-syncope/syncope?]. PMHx = {osteoarthritis, HTN, insomnia, hearing loss, BPH}. Meds = {atenolol [$\beta-1$ blocker; used for HTN], oxazepam [benzodiazepine; used for anxiety, insomnia, and alcohol withdrawal], panadol osteo [paracetamol; relief for osteoarthritis]}. Said he slipped on bath mat after waking up whilst going to the toilet. Falling $\rightarrow$ severe pain in left hip, felt unable to stand.
+> Found before 5am lying on floor, crying in pain, unable to get up. No PMHx of chest pain, palpitations, "fits, faints or funny turns" [pre-syncope/syncope?]. PMHx = {osteoarthritis, HTN, insomnia, hearing loss, BPH}. Meds = {atenolol [$\beta_{1}$ blocker; used for HTN], oxazepam [benzodiazepine; used for anxiety, insomnia, and alcohol withdrawal], panadol osteo [paracetamol; relief for osteoarthritis]}. Said he slipped on bath mat after waking up whilst going to the toilet. Falling $\rightarrow$ severe pain in left hip, felt unable to stand.
 
 Specific physical Ex:
 
