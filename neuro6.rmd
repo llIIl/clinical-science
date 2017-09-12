@@ -11,6 +11,99 @@ urlcolor: blue
 
 # Main case
 
+## Trigger 1
+
+DDx seizure/unconsciousness:
+
+-  Vascular: CVA/TIA
+-  Infn: encephalitis, meningitis, abscess
+-  Trauma: head trauma
+-  Neuro: MS
+-  Medications/drugs/alcohol/sleep deprivation
+-  Systemic: diabetes (hypo/hyper-glycaemia), hyperthyroidism, vit B12 deficiency, ion deficiency, young adult female = PREGNANT, dehydration (syncopal episode)
+
+Initial assessment
+
+-  DRSABC(DEFG = don't ever forget glucose)
+-  MIST/AMPLE: mechanism of injury, injury sustained, vitals and signs/symptoms, treatments, / , allergies, medications, past illness, last meal, events related to injury
+
+Seizures: inapproiate excitability/synchrony => increased bursts/decreases inhibition. Variety of genetic and structural defects that can contribute. Idiopathic epilepsy: bilateral generalised discharge.
+
+Hx:
+
+-  HPC: can she remember, onset: eating, how quickly LOC, drugs, previous episodes before, associated symptoms = {headaches, nausea, vomiting, aura}, history of head trauma, drugs/alcohol, [have to get collateral]
+-  PMHx/SHx: genetic/congenital, Ca, mental disabilities, seizures before!, previous head trauma, neurosurgery
+-  FHx
+-  Repro Hx: sexually active
+-  Allergies, medications, natural therapies + 
+-  Social Hx: sleep, diet, if she lives alone, hobbies, drives for work,... % maybe don't need to find right *now* but do have to consider these
+
+Seizures:
+
+-  Focal: 
+    -  Retained awareness
+    -  Impaired awareness
+-  General: tonic-clonic
+
+Postictal state is the altered state of consciousness after an epileptic seizure
+
+Ex: usually unremarkable for epilepsy, have to do if considering structural/infn
+
+-  General inspection: checking for trauma
+-  Neuro
+-  CV
+
+## Trigger 2
+
+[Status epilepticus](https://lifeinthefastlane.com/ccc/status-epilepticus/): 
+
+-  Continuous seizure activity for 5 minutes or more without return of consciousness, or
+-  Recurrent seizures (2 or more) without an intervening period of neurological recovery
+
+Medications
+
+-  Medazolam: benzodiazopine increases GABA so it is inhibitory
+-  Phenytoin: anticompulsant that blocks V-gated Na channel
+
+## Trigger 3
+
+Hx:
+
+-  [Febrile convulsions](http://www.rch.org.au/clinicalguide/guideline_index/Febrile_Convulsion/) are *common*
+-  Focal seizures with impaired awareness leading to secondary generalised seizures: suggests structural abnormality
+-  Absence seizures
+
+Classification: still clasify with motor, non-motor, unclassified
+
+-  Focal onset = {aware or impaired awareness}
+-  Generalised = {tonic-clonic, absence, myoclonic (one muscle), clonic, tonic, atonic}
+-  Unknown = {inadequate info, unusual presentation}
+
+Further Hx:
+
+-  Find the reason why she's had another seizure: triggered? forgot meds?
+-  Fever, missing meals, pregnant,...
+
+Ix:
+
+-  EEG (+ sleep deprived to try provoke it)
+-  MRI
+-  Thyroid
+-  Bloods: FBC
+
+## Trigger 4
+
+Temporal lobe: most common place for it to start. Temporal lobe epilepsy most common, mesial temporal sclerosis pathological finding. Fits with findings as she has focal => general stuff happening. 
+
+## Trigger 5
+
+Medications: side effects generally drowsiness, learn which ones are for general vs focal epilepsy
+
+-  Sodium valproate: increases production and inhibits breakdown of GABA | side effect = birth defects, tremor, thinning of hair
+-  Carbamazepine: sodium channel blocker
+
+Surgery: uncontrollable from medications, too severe. Can remove lobe or cut corpus callosum.
+
 # Short case 1
 
 # Short case 2
