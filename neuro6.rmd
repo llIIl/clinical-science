@@ -107,4 +107,103 @@ Surgery: uncontrollable from medications, too severe. Can remove lobe or cut cor
 
 # Short case 1
 
+## Trigger 1
+
+DDx for 1st seizure:
+
+-  Acute vascular event/trauma: haemorrhage
+-  Infn: encephalitis > meningitis
+-  Systemic: ionic imbalances, hypoglycaemia, hyperthyroidism
+-  Drugs, medications
+-  Tumour: glioma
+-  Is she pregnant?
+-  Epilepsy: might not have been apparent previously
+
+## Trigger 2
+
+Headache from space occupying lesion: worse on lying down (sleep/morning), coughing, sneezing. Can come from tumour, abscess,..
+
+5 most common secondaries: 
+
+1.  Breast
+2.  Lung
+3.  Melanoma
+4.  GIT/liver
+
+Intrinsic: glioma,...
+
+Extrinsic: meningioma, pituitary adenoma
+
+Ix:
+
+-  *Don't LP (yet): signs of increased ICP*
+-  MRI
+-  Bloods: blood glucose, FBCs (platelets, red cells), CHEM20 (ions, underlying kidney fn)
+-  EEG 
+-  PET later on to see if it was a secondary met
+
+## Trigger 3
+
+Mx:
+
+1.  Surgical
+2.  Radiotherapy
+3.  Adjuvant chemotherapy: some passes BBB, some not
+
+
 # Short case 2
+
+## Trigger 1
+
+Anatomical sites: 
+
+-  Incontinent of urine: could be generalised seizure
+-  Right motor dysfn: left hemisphere
+
+Hx:
+
+-  HPC: ever had incontinence before, trauma, how was he right before, general health in the lead up, sitting or standing, 
+    -  Systems neuro: changes in vision, headaches, dizziness/faint, nausea, memory problems, concentration, personality changes
+-  PMHx/PSHx: had a brain surgery before, post CVA
+-  Medications/allergies/adr/drugs/cigarettes/alcohol
+
+## Trigger 2
+
+1.  Can't maintain airway during a seizure: oxygen
+2.  Stop seizure (status epilepticus): benzodiazepine
+3.  IV access
+
+## Trigger 3
+
+Bloods:
+
+-  FBC: RBCs, white cells
+-  ESR/CRP: inflamm
+-  CHEM20: underlying kidney/liver fn, specificaly Ca and Mg
+-  Drug screen
+-  ABG: due to resp symptoms
+
+Ix:
+
+-  Head CT
+-  CXR
+-  ECG
+
+PDx: metastatic brain cancer
+
+## Trigger 4
+
+Further Ix:
+
+-  Biopsy/chest CT to examine Ca better
+-  PET
+
+## Trigger 5
+
+5 most common mets to brain:
+
+-  Lung
+-  Breast
+-  Melanoma
+-  Renal cell
+-  Bowel
