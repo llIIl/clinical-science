@@ -75,7 +75,7 @@ Most common causes of recurrent epigastric pain: GORD and peptic ulcer disease (
 
 Antacids: contain alkaline ions that neutralise the stomach acid
 
-Normal: balance between gastric acid secretion and gastroduodenal defense (mucus and bicarbonate secretion, ion pumps to remove excess H+, tight junctions, cellular restitution, epithelial renewal). Patho: agressive factors such as NSAIDs or H pylori, alcohol, bile salts, acid, pepsin can alter this balance by allowing back diffusion of H+ => epithelial damage.
+Normal: balance between gastric acid secretion and gastroduodenal defense (mucus and bicarbonate secretion, ion pumps to remove excess H+ *intracellularly*, tight junctions, cellular restitution, epithelial renewal), restitution where healthy cells migrate to epithelium. Patho: agressive factors such as NSAIDs or *H. pylori*, alcohol, bile salts, acid, pepsin can alter this balance by allowing back diffusion of H+ => epithelial damage. Smoking convers increased risk of gastric ulcer
 
 Gastric acid: important for digestion of proteins. From parietal cells which are regulated by
 
@@ -85,22 +85,80 @@ Gastric acid: important for digestion of proteins. From parietal cells which are
 
 NSAIDs: Non-selective can damage the gastric and duodenal mucosal barrier and are associated with an increased risk of upper gastrointestinal ulceration, bleeding and perforation. 
 
+Ex: (image not attached)
+
+-  Intro
+-  General inspection: mental state (withdrawal symptoms), colour (jaundice, pallour, bronzed skin), hydration
+-  Inspect hands and upper limb:clubbing, nail changes (iron deficiency, chronic liver disease), hepatic flap (asterixis from hepatic encephalopathy or CO2 retention or renal failure)
+-  Radial pulse, RR, BP
+-  Face inspection: eyes, glands, mouth
+-  Neck lymph nodes
+-  Inspection chest and abdomen: chest, abdomen = {masses/distension, stretch marks, colour changes, prominent veins, pulsations, scars}
+-  Palpate the abdomen: 9 locations, look for tenderness at McBurneys point (acute appendicitis), Rovsing's sign is rebound tenderness (localised peritonism), Murphy's sign is tenderness under right costal margin during inspiration (acute cholecystitis), Courvoisier's law is palpable non-tender gallbladder under right costal marging + pt jaundiced (gallstones unlikely so more likely cancer of head of pancreas)
+-  Liver Ex: palpate, percuss
+-  Spleen: palpate
+-  Kidney: palpate
+-  Abdo aorta
+-  Ascites
+-  Auscultate bowel signs: active gurgling signs called borborygmi (diarrhoeal states), shake pt and here succussion splash which is liquid+air within luminal organ (normal if eaten, path if pt is nil bu mouth for >6 hours and clear fluids >2 hours), auscultate for bruits
+-  Lower limbs: inspection and palpation
+
 ## Trigger 3
 
-Ix:
+Ix
 
 -  Bloods: FBC, CHEM20, amylase, lipase
--  Endoscopy
+-  ECG?
+-  *H. pylori tests*: 
+-  Digital rectal exam
+-  Endoscopy: preferred as ulcers may be malignant, also follow up to ensure healing
 
 Upper gastro intestinal endoscopy indicated: signs of bleeding, weight loss, vomiting, dysphagia, progression of symptoms, >55, FHx of gastrointestinal carcinoma. Helps rule out carcinoma, visualise ulcer, determine if bleeding
 
 ## Trigger 4
 
+Peptic ulcers are defects in the gastric or duodenal mucosa that extend through the muscularis mucosa. Mucosal injury (+ PUD) occurs when balance is disrupted. Factors such as NSAIDs, *H. pylori*, alcohol, bile salts, acid, pepsin can alter the mucosal defence allowing *back diffusion* of H+ => epitheliel injury. *Acute* = no signs of fibrosis vs chronic, erosions do *not* penetrate the msucularis mucosae. 
 
+*H. pylori*: gram-neg helix/spiral with multiple flagella => motility. Burrows and lives beneath the mucus layer adherent to epithelial cells. pH is close to neutral here and acidity is buffered by production of urease (from *H. pylori*). Exclusively colonises gastric-type epithelium and found in duodenum. *Chronic gastritis* from the local inflamm response, predominantly from bacterial cagA and vacA genes. cagA+ more likely to cause disease than cagA-. Triggers increased gastrin release from G cells => increased acid production by parietal cells => mostly does nothing, some people experience duodenal ulceration. 
+
+cont: 1% infected leads to pangastritis => gastric atrophy and hypochlorhydria => other bacteria can proliferate in stomach => secrete mutagenic nitrites => predisposing gastric cancer
+
+Detecting *H. pylori*
+
+-  Urease test: during gastroscopy mucosa is biopsied and placed in indicator, will be less acidic if urea is produced
+-  Serology: lacks specificity, cannot d/dx past infn
+-  13C urea: high sensitivity and specificity, requires mass spec for Dx of *H. pylori*
+-  Faecal antigen test: cheap specific, acceptability is a disadvantage
+-  Histology, rapid urease tests, microbiological culture [all invasive]
+
+Mx: aim is to relieve symptoms, induce healing, and prevent recurrence. 
+
+-  All pt with proven ulcers and H. pylori positie have eradication as primary therapy. PPI taken simultaneously with two antibiotics (from amoxicillin, clarithromycin and metronidazole) for 7 days. Success in 80-90% of people, depends on antibiotic resistance, compliance due to side-effects (diarrhoea common, flushing and vomiting, nausea, abdo cramps, headache, rash).
+-  General: stop cigarettes, aspiring, and NSAIDs
+-  Surgery if indicated: persistent ulceration, recurrent ulceration, gastric outflow obstruction, perforation/haemorrhage
 
 ## Trigger 5
 
-13C urea: high sensitivity and specificity, requires mass spec for Dx of *H. pylori*
+Drugs
+
+-  PPI
+    -  Esomeprazole: blocks H+ secretion so stomach pH is increased, reducing irritation of stomach epithelium, allowing healing
+-  Antibiotics
+    -  Amoxycillin: 3rd generation aminopenicillin, $\beta$-lactam which inhibits cell wall synthesis. 
+    -  Clarithromycin: macrolide so it is a 50s inhibitor, inhibiting bacterial protein synthesis
+
+Other medications for dyspepsia:
+
+-  Empiric PPI
+-  Antidepressesants (refractory functional dyspepsia)
+-  Prokinetics: 
+-  Antibiotics
+-  Psychological treatments: classic psyc experimental design (i.e. shit)
+
+## Reference
+
+-  [random article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3002574/)
+-  Rest were the three asterixed readings from the week 11 reading list
 
 # Short case 1
 
