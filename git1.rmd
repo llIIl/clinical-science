@@ -1,0 +1,107 @@
+---
+title: "Module II"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output:
+  pdf_document
+documentclass: article
+classoption: a4paper
+fontsize: 11pt
+urlcolor: blue
+---
+
+# Main case
+
+## Trigger 1
+
+> 30s M distressed, bending over around abdomen, speaks no English
+
+Anatomical systems causing abdo pain: (everything can)
+
+-  CVS: ruptured AAA, MI
+-  GIT: oesophagus, stomach, bile ducts, liver, large intestine, pancreas, spleen, small intestine, *peritoneum*
+-  Neuro: radicular pain
+-  MSK: rectus abd
+-  Resp: 
+-  Renal: nephrolithiasis, pyelo
+-  Repro: testicular torsion
+-  Endocrine: 
+
+DDx: (consider his age, is he YOPI?)
+
+\includegraphics{images/git1-ddx-abdo.png}
+
+GIT usually present with one of 4 signs:
+
+1.  Abdo/chest pain
+2.  Altered ingesting of food (from nausea, vomiting, dysphagia, odynophagia [painful swallowing], anorexia)
+3.  ALtered bowel movements (diarrhoea or constipation)
+4.  GI bleeding
+
+Pathological processes: inflamm, neoplasm, ischaemia, obstruction, infn, haemorrhage, distension, chemical irritation (toxicity), movement, pressure
+
+Visceral vs somatic pain: 
+
+-  Somatic = structures supplied by spinal nerves, includes the parietal pleura and peritoneum. Thus perforated duodenal ulcer and generalised peritonitis can cause diffuse abdo pain (T6-T12). 
+-  Visceral: sympathetic component of the ANS (rami communicans => sympathetic chain => sphlancnic nerves [preganglionic efferent stimulatory signals; greater 59, lesser 1011, least 12, lumbar 12] => prevertebral vascular ganglia and plexues => postganglionic efferent fibres follow individual arteries to viscus 
+
+|                       | Somatic                                    | Visceral                                                       |
+|-----------------------|--------------------------------------------|----------------------------------------------------------------|
+| Origin                | Parietal peritoneum/adjacent musculature   | Viscera                                                        |
+| Pain pathway          | Spinal nerves: dermatomes and myotomes     | Sympathetic NS                                                 |
+| Perception            | Localised to region                        | Poorly localised or diffuse, often midline, distant  site      |
+| Stimuli               | Inflamm, laceration, heat, chem irritation | Distension, ischaemia, inflamm                                 |
+| Accompanying features | Local muscle spasm (guarding)              | Nausea, vomiting, tachycardia, $\Uparrow$BP, sweating, anxiety |
+
+Location of abdo pain:
+
+\includegraphics{images/git1-location-abdo.png}
+
+Hx:
+
+-  HPC: nature of the pain, how long it lasts, where is it located,...
+-  GIT: $\Delta${Appetite, weight (malabsorption, malignancy, diabetes, thyroid, IBD)}, dysphagia/odynophagia, indigestion or heartburn, nausea or emesis, haematemesis (vomiting blood), abdo pain, jaundice, bowel habits, per rectal blood
+-  PMHx, PSHx
+-  Medications
+-  Social history
+-  FHx
+-  Red flags in acute abdo pain: sudden onset pain, increasing severity, (pre-)syncope, emesis/haematemesis, abdo distension, pallour and diaphoresis, tachycardia or AF, hypotension, fever, rebound tenderness, decreased urine output, positive pregnancy test
+
+## Trigger 2
+
+> Afghan refugee, 3 years refugee camp with poor diet and unsanitary conditions, massive psychological and physical trauma, heavy smoker, does not drink alcohol. Abdo pain first occured 4/52 and recurring, always upper abdo, deep gnawing pain relieved by food, occasionally wakes at night, similar to something 3 years ago. Responsive to antacids, no Hx of diarrhoea or vomiting, black foul-smelling stool about 1/52, no Hx of NSAID usage.
+
+Most common causes of recurrent epigastric pain: GORD and peptic ulcer disease (duodenal and gastric; can't separate based on Hx alone): gnawing and burning sensation, occuring after meals gastric (shortly after) and duodenal (2-3 hours afterwards)
+
+Antacids: contain alkaline ions that neutralise the stomach acid
+
+Normal: balance between gastric acid secretion and gastroduodenal defense (mucus and bicarbonate secretion, ion pumps to remove excess H+, tight junctions, cellular restitution, epithelial renewal). Patho: agressive factors such as NSAIDs or H pylori, alcohol, bile salts, acid, pepsin can alter this balance by allowing back diffusion of H+ => epithelial damage.
+
+Gastric acid: important for digestion of proteins. From parietal cells which are regulated by
+
+1.  Cephalic phase: sight, smell, taste, thoughts => medulla => vagal ouput => submucosal plexus => increases secretion from gastric glands and stomach motility
+2.  Gastric phase: food reaching stomach => stretch and chemoreceptors => secretion of gastrin by G cells
+3.  Intestinal phase: stimulation of intestinal receptors => secretion of duodenal hormones: *secretin* reducers gastric secretion, cholecystokinin inhibits gastric emptying
+
+NSAIDs: Non-selective can damage the gastric and duodenal mucosal barrier and are associated with an increased risk of upper gastrointestinal ulceration, bleeding and perforation. 
+
+## Trigger 3
+
+Ix:
+
+-  Bloods: FBC, CHEM20, amylase, lipase
+-  Endoscopy
+
+Upper gastro intestinal endoscopy indicated: signs of bleeding, weight loss, vomiting, dysphagia, progression of symptoms, >55, FHx of gastrointestinal carcinoma. Helps rule out carcinoma, visualise ulcer, determine if bleeding
+
+## Trigger 4
+
+
+
+## Trigger 5
+
+13C urea: high sensitivity and specificity, requires mass spec for Dx of *H. pylori*
+
+# Short case 1
+
+# Short case 2
