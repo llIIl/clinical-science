@@ -1,5 +1,5 @@
 ---
-title: "Module II"
+title: "Gastrointestinal I"
 author: "Aaron Khoo"
 date: "`r format(Sys.Date(), '%d %B %Y')`"
 output:
@@ -22,7 +22,7 @@ Anatomical systems causing abdo pain: (everything can)
 -  GIT: oesophagus, stomach, bile ducts, liver, large intestine, pancreas, spleen, small intestine, *peritoneum*
 -  Neuro: radicular pain
 -  MSK: rectus abd
--  Resp: 
+-  Resp: pneumonia can sometimes present
 -  Renal: nephrolithiasis, pyelo
 -  Repro: testicular torsion
 -  Endocrine: 
@@ -35,15 +35,16 @@ GIT usually present with one of 4 signs:
 
 1.  Abdo/chest pain
 2.  Altered ingesting of food (from nausea, vomiting, dysphagia, odynophagia [painful swallowing], anorexia)
-3.  ALtered bowel movements (diarrhoea or constipation)
+3.  Altered bowel movements (diarrhoea or constipation)
 4.  GI bleeding
 
 Pathological processes: inflamm, neoplasm, ischaemia, obstruction, infn, haemorrhage, distension, chemical irritation (toxicity), movement, pressure
 
 Visceral vs somatic pain: 
 
--  Somatic = structures supplied by spinal nerves, includes the parietal pleura and peritoneum. Thus perforated duodenal ulcer and generalised peritonitis can cause diffuse abdo pain (T6-T12). 
+-  Somatic: structures supplied by spinal nerves, includes the parietal pleura and peritoneum. Thus perforated duodenal ulcer and generalised peritonitis can cause diffuse abdo pain (T6-T12). 
 -  Visceral: sympathetic component of the ANS (rami communicans => sympathetic chain => sphlancnic nerves [preganglionic efferent stimulatory signals; greater 59, lesser 1011, least 12, lumbar 12] => prevertebral vascular ganglia and plexues => postganglionic efferent fibres follow individual arteries to viscus 
+-  Example of visceral => somatic: appendicitis starts off as general then localises as it is visceral then starts affecting peritoneum (somatic pain)
 
 |                       | Somatic                                    | Visceral                                                       |
 |-----------------------|--------------------------------------------|----------------------------------------------------------------|
@@ -67,23 +68,31 @@ Hx:
 -  FHx
 -  Red flags in acute abdo pain: sudden onset pain, increasing severity, (pre-)syncope, emesis/haematemesis, abdo distension, pallour and diaphoresis, tachycardia or AF, hypotension, fever, rebound tenderness, decreased urine output, positive pregnancy test
 
+*Look at patient, not translator during Hx taking*
+
 ## Trigger 2
 
 > Afghan refugee, 3 years refugee camp with poor diet and unsanitary conditions, massive psychological and physical trauma, heavy smoker, does not drink alcohol. Abdo pain first occured 4/52 and recurring, always upper abdo, deep gnawing pain relieved by food, occasionally wakes at night, similar to something 3 years ago. Responsive to antacids, no Hx of diarrhoea or vomiting, black foul-smelling stool about 1/52, no Hx of NSAID usage.
+
+Pancreatitis: usually caused by heavy drinking
+
+Black foul smelling stool: malaena from blood
 
 Most common causes of recurrent epigastric pain: GORD and peptic ulcer disease (duodenal and gastric; can't separate based on Hx alone): gnawing and burning sensation, occuring after meals gastric (shortly after) and duodenal (2-3 hours afterwards)
 
 Antacids: contain alkaline ions that neutralise the stomach acid
 
-Normal: balance between gastric acid secretion and gastroduodenal defense (mucus and bicarbonate secretion, ion pumps to remove excess H+ *intracellularly*, tight junctions, cellular restitution, epithelial renewal), restitution where healthy cells migrate to epithelium. Patho: agressive factors such as NSAIDs or *H. pylori*, alcohol, bile salts, acid, pepsin can alter this balance by allowing back diffusion of H+ => epithelial damage. Smoking convers increased risk of gastric ulcer
+Normal: balance between gastric acid secretion and gastroduodenal defense (mucus and bicarbonate secretion, ion pumps to remove excess H+ *intracellularly*, tight junctions, cellular restitution, epithelial renewal), restitution where healthy cells migrate to epithelium. Patho: agressive factors such as NSAIDs or *H. pylori*, alcohol, bile salts, acid, pepsin can alter this balance by allowing back diffusion of H+ => epithelial damage. Smoking confers increased risk of gastric ulcer
 
 Gastric acid: important for digestion of proteins. From parietal cells which are regulated by
 
 1.  Cephalic phase: sight, smell, taste, thoughts => medulla => vagal ouput => submucosal plexus => increases secretion from gastric glands and stomach motility
 2.  Gastric phase: food reaching stomach => stretch and chemoreceptors => secretion of gastrin by G cells
-3.  Intestinal phase: stimulation of intestinal receptors => secretion of duodenal hormones: *secretin* reducers gastric secretion, cholecystokinin inhibits gastric emptying
+3.  Intestinal phase: stimulation of intestinal receptors => secretion of duodenal hormones: *secretin* reduces gastric secretion, cholecystokinin inhibits gastric emptying
 
-NSAIDs: Non-selective can damage the gastric and duodenal mucosal barrier and are associated with an increased risk of upper gastrointestinal ulceration, bleeding and perforation. 
+NSAIDs: Non-selective can damage the gastric and duodenal mucosal barrier and are associated with an increased risk of upper gastrointestinal ulceration, bleeding and perforation. Prostaglandins => decrease gastric acid
+
+Melaena: black malodourous stool is suggestive of upper GI bleeding
 
 Ex: (image not attached)
 
@@ -95,6 +104,7 @@ Ex: (image not attached)
 -  Neck lymph nodes
 -  Inspection chest and abdomen: chest, abdomen = {masses/distension, stretch marks, colour changes, prominent veins, pulsations, scars}
 -  Palpate the abdomen: 9 locations, look for tenderness at McBurneys point (acute appendicitis), Rovsing's sign is rebound tenderness (localised peritonism), Murphy's sign is tenderness under right costal margin during inspiration (acute cholecystitis), Courvoisier's law is palpable non-tender gallbladder under right costal marging + pt jaundiced (gallstones unlikely so more likely cancer of head of pancreas)
+    -  Use stethoscope if you wanna try get rid of guarding
 -  Liver Ex: palpate, percuss
 -  Spleen: palpate
 -  Kidney: palpate
@@ -105,6 +115,8 @@ Ex: (image not attached)
 
 ## Trigger 3
 
+He doesn't look cachexic (malignancy, malabsorptive)
+
 Ix
 
 -  Bloods: FBC, CHEM20, amylase, lipase
@@ -112,12 +124,13 @@ Ix
 -  *H. pylori tests*: 
 -  Digital rectal exam
 -  Endoscopy: preferred as ulcers may be malignant, also follow up to ensure healing
+-  USS: more likely if he has cholecystitis or biliary colic
 
 Upper gastro intestinal endoscopy indicated: signs of bleeding, weight loss, vomiting, dysphagia, progression of symptoms, >55, FHx of gastrointestinal carcinoma. Helps rule out carcinoma, visualise ulcer, determine if bleeding
 
 ## Trigger 4
 
-Peptic ulcers are defects in the gastric or duodenal mucosa that extend through the muscularis mucosa. Mucosal injury (+ PUD) occurs when balance is disrupted. Factors such as NSAIDs, *H. pylori*, alcohol, bile salts, acid, pepsin can alter the mucosal defence allowing *back diffusion* of H+ => epitheliel injury. *Acute* = no signs of fibrosis vs chronic, erosions do *not* penetrate the msucularis mucosae. 
+Peptic ulcers are defects in the gastric or duodenal mucosa that extend through the muscularis mucosa. Mucosal injury (+ PUD) occurs when balance is disrupted. Factors such as NSAIDs, *H. pylori*, alcohol, bile salts, acid, pepsin can alter the mucosal defence allowing *back diffusion* of H+ => epithelial injury. *Acute* = no signs of fibrosis vs chronic, erosions do *not* penetrate the muscularis mucosae. 
 
 *H. pylori*: gram-neg helix/spiral with multiple flagella => motility. Burrows and lives beneath the mucus layer adherent to epithelial cells. pH is close to neutral here and acidity is buffered by production of urease (from *H. pylori*). Exclusively colonises gastric-type epithelium and found in duodenum. *Chronic gastritis* from the local inflamm response, predominantly from bacterial cagA and vacA genes. cagA+ more likely to cause disease than cagA-. Triggers increased gastrin release from G cells => increased acid production by parietal cells => mostly does nothing, some people experience duodenal ulceration. 
 
@@ -133,8 +146,8 @@ Detecting *H. pylori*
 
 Mx: aim is to relieve symptoms, induce healing, and prevent recurrence. 
 
--  All pt with proven ulcers and H. pylori positie have eradication as primary therapy. PPI taken simultaneously with two antibiotics (from amoxicillin, clarithromycin and metronidazole) for 7 days. Success in 80-90% of people, depends on antibiotic resistance, compliance due to side-effects (diarrhoea common, flushing and vomiting, nausea, abdo cramps, headache, rash).
--  General: stop cigarettes, aspiring, and NSAIDs
+-  All pt with proven ulcers and H. pylori positive have eradication as primary therapy. PPI taken simultaneously with two antibiotics (from amoxicillin, clarithromycin and metronidazole) for 7 days. Success in 80-90% of people, depends on antibiotic resistance, compliance due to side-effects (diarrhoea common, flushing and vomiting, nausea, abdo cramps, headache, rash).
+-  General: stop cigarettes, aspirin, and NSAIDs
 -  Surgery if indicated: persistent ulceration, recurrent ulceration, gastric outflow obstruction, perforation/haemorrhage
 
 ## Trigger 5
@@ -142,7 +155,7 @@ Mx: aim is to relieve symptoms, induce healing, and prevent recurrence.
 Drugs
 
 -  PPI
-    -  Esomeprazole: blocks H+ secretion so stomach pH is increased, reducing irritation of stomach epithelium, allowing healing
+    -  Esomeprazole: blocks H+ secretion so stomach pH is increased, reducing irritation of stomach epithelium, allowing healing. Irreversible blockage of H/K ATP-ase
 -  Antibiotics
     -  Amoxycillin: 3rd generation aminopenicillin, $\beta$-lactam which inhibits cell wall synthesis. 
     -  Clarithromycin: macrolide so it is a 50s inhibitor, inhibiting bacterial protein synthesis
