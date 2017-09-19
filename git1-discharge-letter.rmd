@@ -1,0 +1,30 @@
+---
+output: pdf_document
+documentclass: article
+classoption: a4paper
+fontsize: 11pt
+---
+
+\hfill `Sys.Date()`
+
+\hfill `random(hospital)`
+
+Dear GP,
+
+Thank you for continuing the care of Abdul Rauf,
+
+He is a 34 year old male who was admitted to the ED at metropolitan hospital following severe deep gnawing epigastric pain. Hx: pain first started approximately 4/52 prior and recurred intermittently, relieved by food, and occasionally waking him at night. It is similar to a previous pain 3 years ago which responded well to antacids, and he passed a likely melaena 1/52. He is a recent refugee from Afghanistan. He is a heavy smoker, does not drink alcohol, and there is no history of NSAID usage. 
+
+Ex revealed an anxious but otherwise healthy looking man. There was slight tenderness in the epigastrium with voluntary guarding, but an otherwise unremarkable GIT exam with no organomegaly and normal bowel sounds. There was also normal vitals and CVS exam. 
+
+On Ix, gastroscopy confirmed a *duodenal ulcer* with no perforation, and chronic gastritis in the stomach antrum. The urease test was positive for *H. pylori*. 
+
+He was diagnosed with peptic ulcer disease and treated on esomeprazole, amoxycillin, and clarithromycin for 7 days. 
+
+Plan:
+
+We refer him to you for follow up as well as future long term care. We recommend ^13^C urea breath test in 1/12 to confirm *H. pylori* eradication, in addition to regular follow up. He speaks no English, so to aid in finding an interpreter, he is fluent in Afghan Dari and Pashto. 
+
+Kind regards,
+
+Name (Position)
