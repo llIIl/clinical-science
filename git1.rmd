@@ -175,4 +175,95 @@ Other medications for dyspepsia:
 
 # Short case 1
 
+## Trigger 1
+
+DDx for retrosternal pain:
+
+-  CVS: pericarditis, angina, aortic dissection
+-  Resp: pneumonia
+-  MSK: trauma, costochondritis, oesophageus muscle spasms, hiatal hernia
+-  GIT: GORD, cholecystitis, peptic ulcer disease, gastritis, infn, eosinophilic oesophagitis (not very common; allergy)
+-  Cancers
+
+Hx:
+
+-  HPC: trouble eating/swallowing, anything making worse/better, SOB/emesis/coughing/wheezing/palpitations/syncope, does the pain ever come on with exercise? recent illness
+-  Systems: cardiac history
+-  Any medications/alcohol/smooking/drug
+-  Fam Hx of gastric, oesophageal cancers, CVS history
+
+## Trigger 2
+
+Dysphagia for solids: could be from lack of saliva or from a mass. Much more concerned if dysphagia for liquids.
+
+Red flags: dysphagia, weight loss, pain, emesis, age > 50, fam Hx, resp symptoms such as wheezing hoarse voice, evidence of GIT bleeding, anaemia, unresponsive to PPI: signal stricture/Ca/..
+
+Weight loss of 10% over 3/12. If someone has "unintentional weight loss" => bloods + CRP. "How do your clothes fit?" since not many patients weigh themselves.
+
+Ix:
+
+-  Bloods: FBC (anaemia), ELFT
+-  ECG
+-  Endoscopy: due to dysphagia
+-  13C urea breath test for *H. pylori* if weren't gonna endoscopy
+
+## Trigger 3
+
+GORD pathophys:
+
+Movement of stomach juice into oesophagus. Three main pathways:
+
+1.  Transient sphincter relaxations
+2.  Hypotensive lower oesophageal sphincter: smoking and alcohol affect this
+3.  Anatomical disruption: e.g. hiatal hernia
+
+Reflux => damages epithelium => reflux oesophagitis => scarring => predisposition for further reflux as the sphincter keeps weakening => granulocytes and eosinophils => more likely for sphincter incompentence
+
+Risk factors: smoking, dry mouth, obesity, diabetes, foods (carbonated, peppermint, fatty foods, chocolate)
+
+PPI: luminal surface of parietal cells H/K-ATPase which are irreversibly inhibited (lasts 24-48h)
+
+## Trigger 4
+
+Oropharyngeal dysphagia: difficulty initiating.  
+Oesophageal dysphagia: difficulty a couple seconds after starting and then things get stuck. 
+
+Oesophageal dysphagia causes: 
+
+-  Intrinsic: eosinophilic oesophagitis, oesophageal muscle spasms, nervous damage
+-  External: compression by tumour, lymphadenopathy/thyroid, radiation
+
+Barrett's oesophagus: metaplasia of squamous => columnar in lower oesophagus due to damage (produce mucus in response to acid). Massive predisposition to adenocarcinoma. Some patients get barrett's but just have to monitor it for progression to cancer.
+
+Oesophageal stricture due to scarring.
+
+
 # Short case 2
+
+## Trigger 1
+
+Epigastric: think of foregut structures: oesophagus => 1st part of duodenum, + liver + gallbladder + splenic
+
+DDx:
+
+-  GIT: GORD, PUD, IBD
+-  Psych: anorexia, bullimia
+-  Cancer: colon, oesophageal, gastric, pancreas
+
+Initial Ix:
+
+-  Bloods: FBC (anaemic), ELFT (), ESR/CRP (inflamm), if lots of bleeding/bruises (COAG)
+-  Endoscopy
+
+## Trigger 2
+
+Chronic disease: lead to anaemia
+
+## Trigger 4
+
+Gastric Ca
+
+-  Types: adeno (most) = {intestinal (chronic inflamm of mucosa => metaplasia => neoplasia; most common type), diffuse (normal mucosa, not assicated with peptic ulcers or *H. pylori*)}, lymphoma also associated with *H. pylori*
+-  Staging: TNM
+-  Prognosis: poor
+-  Mx: resection, could put a stent stopping it from not emptying, laser ablation
