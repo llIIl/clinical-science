@@ -1,0 +1,61 @@
+---
+title: "Gastrointestinal II"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output:
+  pdf_document
+documentclass: article
+classoption: a4paper
+fontsize: 11pt
+urlcolor: blue
+---
+
+# Readings
+
+[Explanation of diff git symptoms/signs](http://accessmedicine.mhmedical.com.ezproxy.library.uq.edu.au/content.aspx?bookid=1585&sectionid=96308009)
+
+## Coeliacs
+
+Coeliacs: gluten => gliadin (in the stomach; resists breakdown) => reaches the SI then binds to TFR (transferrin receptor; usually used to absorb iron, may be overexpressed) => transcytosed across enterocyte => lamina propia => gliadin is deamidated then phagocytosed by macrophages => macros are usually doing this for normal food anyway; abnormal reaction in coeliacs => Th2 (CD4+) => inflamm cytokines such as interferon-$\gamma$ and TNF-$\alpha$ => direct damage to epithelial cells in SI + killer CD8 t-cells stimulated => bad. 
+Ab blood tests: anti-tTG (deamidates the gliadin) and anti-endomysial (EMAs). 
+Symptoms = {children = [abd distension, failure to thrive, diarrhoea], adults = [chronic diarrhoea, bloating (distension),...]}. 
+Tl;dr autoimmune. 
+
+## Diarrhoea
+
+Diarrhoea: arises from four pathological processes
+
+1.  Osmotic
+2.  Secretory
+3.  Altered motility
+4.  Exudative/inflamm
+
+Classified into chronic vs acute ($\leq2\text{week}$). 
+Acute is usually infectious. 
+Diarrhoea is bowel movements excessive in volume, frequency, or liquidity. 
+It then interferes with nutrition. 
+Causes can be infectiours or non-inf (i.e. drugs). Malabsorption: consistency reflects high nutrient and bacterial fermentation being bulky, pasty, or liquid, and tend to float in toilets (due to fats).
+
+### Acute
+
+Inflamm vs noninflamm
+
+-  Noninflamm: watery, mild, self limited, Dx evaluation limited to pt with severe or persistent (>7 days) diarrhoea
+-  Inflamm: blood or pus/fever, caused by invasive or toxin-producing bacterium, Dx requires routine stool bacterial cultures and testing as indicated for *C. difficile* toxin and ova and parasite
+
+Mx:
+
+\includegraphics{images/git2-acute-diarrhoea.png}
+
+Rx:
+
+-  Diet
+-  Rehydration
+-  Antidiarrhoeal agents: opioids, bismuth subsalicylate
+-  Antibiotic therapy
+
+# Main case
+
+# Short case 1
+
+# Short case 2
