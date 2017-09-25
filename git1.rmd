@@ -56,7 +56,7 @@ Visceral vs somatic pain:
 
 Location of abdo pain:
 
-\includegraphics{images/git1-location-abdo.png}
+\includegraphics{images/git1-location-pain.png}
 
 Hx:
 
