@@ -56,6 +56,68 @@ Rx:
 
 # Main case
 
+## Trigger 1
+
+DDx:
+
+-  Motility: hyperthyroidism (hyper) or scleroderma (hypo)
+-  Osmotic: improves with fasting
+-  Exudative: damage to mucosa, e.g. shigella infn
+-  Secretory: cholera
+
+Most common cause in his age: infectious; chronic so thinking of some things like parasites, or immunocompromised
+
+Fluids: 8-9L per day, only 1L is from intake whereas rest is from salivary glands,... 
+SI = nutrients, LI = water
+
+Hx:
+
+-  HPC: onset, time course (how often, when, has it changed), consistency, how much he produces, how many wet nappies does he create, associated (systemicall unwell, any pain), was there a precipitating illness => antibiotics, who he comes into contact with (indigenous communities are a lot more communal)
+-  PMHx: vaccinations
+
+## Trigger 2
+
+Poor diet: can by itself cause diarrhoea, e.g. full fat diet
+
+## Trigger 3
+
+Pale conjunctiva and nail beds: anaemia either from nutrition (Fe or Vit B12) or haemorrhage
+
+Foul smelling, pale soft fluffy stool: malabsorptive. Smelly due to fermentation of the fats in it
+
+Ix:
+
+-  Bloods: FBC, ELFT, cultures (if he was febrile)
+-  Stool sample
+
+## Trigger 4
+
+Cysts: not 100% specific or sensitive
+
+Giardia:
+
+-  Flagellated protozoa
+-  Fecal-oral transmission
+-  Proximal small bowel
+-  Incredibly widespread: 70-80% of kids pass cysts but are asymptomatic
+
+Anaemic: iron deficiency is microcytic, B12/folate are macrocytic | 
+
+-  Microcytic = {T = thalassaemia, I = iron deficiency, C = chronic disease, S = sideroblastic anaemia}
+-  Macrocytic = {A = alcohol (cirrhosis), B = B12 deficiency, C = compensatory reticulocytosis (blood loss and hemolysis), D = drug/dysplasia, E = endocrine (hypothyroidism), F = folate deficiency/foetus (pregnancy)}
+
+## Trigger 5
+
+Metronidazole: inhibits nucleic acid synthesis so it affects both bacteria and protozoa
+
+Long term consequences of parasitic infn:
+
+-  Damage to gut mucosa
+-  Can migrate to subarachnoid space => meningitis/encephalitis
+-  Malnutrition
+-  Failure to thrive
+
+
 # Short case 1
 
 # Short case 2
