@@ -16,7 +16,9 @@ urlcolor: blue
 
 ## Coeliacs
 
-Coeliacs: gluten => gliadin (in the stomach; resists breakdown) => reaches the SI then binds to TFR (transferrin receptor; usually used to absorb iron, may be overexpressed) => transcytosed across enterocyte => lamina propia => gliadin is deamidated then phagocytosed by macrophages => macros are usually doing this for normal food anyway; abnormal reaction in coeliacs => Th2 (CD4+) => inflamm cytokines such as interferon-$\gamma$ and TNF-$\alpha$ => direct damage to epithelial cells in SI + killer CD8 t-cells stimulated => bad. 
+Epidemiology: caucasians of european ancestry. 
+
+Coeliacs: gluten => gliadin (in the stomach; resists breakdown from gastric enzymes) => reaches the SI then binds to TFR (transferrin receptor; usually used to absorb iron, may be overexpressed) => transcytosed across enterocyte => lamina propia => gliadin is deamidated then phagocytosed by macrophages => macros are usually doing this for normal food anyway; abnormal reaction in coeliacs => Th2 (CD4+) => inflamm cytokines such as interferon-$\gamma$ and TNF-$\alpha$ => direct damage to epithelial cells in SI + killer CD8 t-cells stimulated => bad. 
 Ab blood tests: anti-tTG (deamidates the gliadin) and anti-endomysial (EMAs). 
 Symptoms = {children = [abd distension, failure to thrive, diarrhoea], adults = [chronic diarrhoea, bloating (distension),...]}. 
 Tl;dr autoimmune. 
@@ -105,6 +107,8 @@ Anaemic: iron deficiency is microcytic, B12/folate are macrocytic |
 
 -  Microcytic = {T = thalassaemia, I = iron deficiency, C = chronic disease, S = sideroblastic anaemia}
 -  Macrocytic = {A = alcohol (cirrhosis), B = B12 deficiency, C = compensatory reticulocytosis (blood loss and hemolysis), D = drug/dysplasia, E = endocrine (hypothyroidism), F = folate deficiency/foetus (pregnancy)}
+-  RACH, BLOOD?
+
 
 ## Trigger 5
 
@@ -120,4 +124,90 @@ Long term consequences of parasitic infn:
 
 # Short case 1
 
+## Trigger 1
+
+DDx:
+
+-  Repro/gynae: pregnancy, ovarian cysts/cancer, fibromatosis
+-  GIT: hernia, malabsorption (lactose intolerance => osmotic diarrhoea), coeliacs, IBD, infective, peptic ulcer (sequelae include cancers)
+-  Psych: depression, chronic stress
+-  Systemic: anaemia (Fe deficiency can lead to diarrhoea)
+-  Endocrine: hypothyroidism, diabetic ketoacidosis
+
+Ex:
+
+-  Inspection: scarring, swelling, asymmetry, skin changes, guarding, general discomfort, also inspect eyes for jaundice/anaemia
+-  Palpation: masses (firm/fixed/flatulent), organs, belot (wiggle) the kideys, for pain
+-  Auscultate
+-  Percussion: if considering ascites
+-  Rectal
+
+## Trigger 2
+
+Aphthous ulcers: benign mouth ulcers associated with systemic stuff like coeliacs
+
+Ix:
+
+-  Bloods: FBC (Hb = anaemia), thyroid fn test, HLA typing, B12, ELFT
+-  Stool sample
+-  Tissue typing: ?
+-  Discuss possibility for endoscopy: skip lesion things like Crohns; wait for bloods  maybe
+
+## Trigger 3
+
+Ix: suggest of coeliacs disease (systemic autoimmune disease). IgA-tTG: deamidating gluten products
+
+Further Ix:
+
+-  Iron studies
+-  Gastroscopy and biopsy
+-  Diet
+
+## Trigger 4
+
+Coeliacs associated with FHx of thyroid issues and T1D, Trisomy-21, IBD, GORD
+
+Complications: bloating, chronic diarrhoea, nutritional deficiency, increased risk of malignancy, higher motility
+
+Mx:
+
+-  Gluten free diet
+-  Frequent monitoring of coeliacs and systemic nutrient levels
+
+Gluten found in wheat, rye, HLA-DQ2 (95%) and HLA-DQ-8. Can present at any age and common (1%). Learn the histopath => GIT systems + diverse systemic symptoms
+
 # Short case 2
+
+## Trigger 1
+
+DDx:
+
+-  Hernias: read medscape article
+-  Cancer
+
+Hx:
+
+-  Reducible/irreducible, strangulated/incarcerated (soft/hard)
+-  Fluctuants: cyst can look like hernia
+-  Worse
+
+Lump:
+
+-  Fixed is worse than mobile
+
+## Trigger 2
+
+Mx: surgery
+
+Natural Hx: will only get worse 
+
+## Trigger 3
+
+The hernia became strangulated => ischamia => bowel necrosis
+
+Medical emergency
+
+Vomiting:
+
+-  Pain
+-  Bowel obstruction
