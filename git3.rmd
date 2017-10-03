@@ -1,0 +1,102 @@
+---
+title: "Gastrointestinal III"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output:
+  pdf_document
+documentclass: article
+classoption: a4paper
+fontsize: 11pt
+urlcolor: blue
+---
+
+# Main case
+
+## Trigger 1
+
+DDx: upper vs lower, stuff higher up => melaena
+
+-  Haemorrhoids: varicose vein of perianal region
+-  Colitis: ischaemic, inflamm, infn
+-  CRC
+-  IBD: ulcerative colitis + crohn's disease (less common for blood)
+-  Trauma
+-  AVM
+-  Diverticulitis
+-  Fissure
+-  Polyps/FAP
+-  Arterioenteric fistula
+-  Peptic ulcer
+
+Hx:
+
+-  HPC: onset, frequency, anything worse/better, change in diet, 
+    -  Info about poo: offensive odour (fat/mucous), consistency (liquid/solid), watery, colour, volume
+    -  How frequent is blood
+-  Associated symptoms: pain, nausea/vomiting, systemic weight loss, fatigue, bleeding/bruising
+-  PMHx/PSHx
+-  FHx
+-  Social Hx
+
+## Trigger 2
+
+Constipation: usually haemorrhoids or anal fissure especially in 27M. 27M shouldn't really be anaemic. Even in F shouldn't just say "menstruation"
+
+Types of diarrhoea: (todo: whip up a table for these types)
+
+-  Osmotic: retention of water in the bowel from accumulation of non-absorbable substances
+-  Secretory: electrolyte imbalance => water diffuses into stool. Often from inflamm
+-  Motility: changed motility from hyperthyroidism, IBS, partial gastrectomy
+-  Inflammatory: colon is inflamed, typically causes blood diarrhoea, e.g. IBD
+-  (Malabsorptive: stool will float due to fats)
+
+
+This pt: exudative (blood and mucus) + inflammatory. Not malabsorptive as his stool
+
+Mucous in GIT: secreted for protection. Pus (secreted from inflamed). IBS and IBD
+
+Associated pain to rectal bleeding:
+
+-  Rectal: fissures
+-  Abdominal:
+    -  Severe: ischaemic colitis
+    -  Mild to moderate: enteritis
+
+Loperamide: opiod receptor agonist that doesn't cross BBB, decreasing activity of myenteric plexus
+
+
+## Trigger 3
+
+Hospital admission: think holistically, this pt is young adult male who has a partner who can look after him, chance that he'll have to go to hospital at night => yes
+
+## Trigger 4
+
+Bloods: urea elevated due to dehydration; albumin elevated due to chronic bleed; Hb due to anaemia, but MCV normal so probs not iron deficiency(?); CRP+WCC due to inflamm
+
+Sigmoidoscopy: uses shorter instrument which can be done a lot faster
+
+Todo: Copy a table between UC and CD from Don's thing
+
+Natural Hx IBD: extraintestinal symptoms such as eyes, => complications such as toxic megacolon, 
+
+Toxic megacolon: inflamm => dilation of bowel => increased permeability + perforation => $\Uparrow$ septic
+
+Mx: principles start aggressive => less aggressive
+
+-  Short term: steroids
+-  Long term: immunosuppressants, resection for UC
+
+## Trigger 5
+
+IBD associated
+
+-  Skin: psorosis
+-  Jt: seroneg arthritis, ank spond
+-  Liver: primary sclerosin cholangitis
+-  Thromboses, metabolic bone diseases
+
+Regular monitoring: if the disease is being managed, liver damage, females: pregnant and many drugs are teratogenic, common malignancy in immunosuppressed are skin, vaccines
+
+# Short case 1
+
+# Short case 2
