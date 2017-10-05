@@ -99,4 +99,117 @@ Regular monitoring: if the disease is being managed, liver damage, females: preg
 
 # Short case 1
 
+## Trigger 1
+
+[Haemorrhoids](http://emedicine.medscape.com/article/775407-overview): *common* disease, varicose veins of perianal region. 
+Causes = {pregnancy, constipation, obesity, portal hypertension, tumours}. 
+Present: usually painless unless thrombosis, bleeding, "feel something when wiping". Rx: usually conservative (diet, stool softening), surgery: rubber band resection
+
+-  Internal: above pectinate line, superior rectal
+-  External: below pectinate line, inferior rectal, usually painful and usually thrombosed
+
+Causes of GIT bleeding: split into upper, lower, anal (see: lecture 3)
+
+## Trigger 2
+
+Bowel cancer:
+
+-  Left sided: constipation and is found earlier, blood on top of the poo (as poo has already formed)
+-  Right sided: more liquidy so doesn't cause constipation, occult bleeding (blood mixed in)
+
+Pain on defaecation: think haemorrhoids (thrombosed), anal fissure, anal polyps, abscesses, rectal ulcers, rectal cancer
+
+[Laxatives](https://www.nps.org.au/australian-prescriber/articles/managing-constipation-in-adults):
+
+-  Osmotic: indigestible carbohydrates => pass through => relative osmotic diarrhoea to soften stool
+-  Bulking agents 
+-  Stool softeners 
+-  Stimulants
+-  Lubricants
+
+Diverticulosis: common, L in West, R in Asia, increases with age. 
+Most are asymptomatic (70-80%), diverticular bleeding (outpouch with the vasa recta which is the weak part => bleeding not uncommon) (5-15%), diverticulitis (4%) = {simple (85%), complicated (15%)}
+
+-  True: congenital, e.g. meckels
+-  False: not all the layers, usually around vasa recta as that is the weakest, e.g. zenkers
+
+## Trigger 3
+
+Top *X* differentials, where $X=\in\mathbb{Z}$:
+
+-  CRC: due to bleeding, and altered bowel habits
+-  Diverticulitis/diverticulosis
+-  Haemorrhoids
+
+Explaining: emphasise importance and that it can cure things inside it
+
+## Trigger 4
+
+Further Ix:
+
+-  Bloods: FBC (anaemia), ELFT, CRP/ESR, group+hold?, CEA (specific marker for Ca)
+-  CT for staging
+
+Risk factors for adenocarcinoma:
+
+-  Smoking
+-  Diet
+-  Obesity
+-  Genetic risk: FAP, lynch syndrome
+
+Presentation: bleeding, abdo pain, tenesmus (feeling of incomplete emptying), anaemia (right), complete bowel obstruction, 
+
+Screening: important because catching it early has high survival rates
+
 # Short case 2
+
+## Trigger 1
+
+DDx:
+
+-  CVS: ruptured AAA => ischaemia of bowel, vasculitis
+-  Renal: UTI + symptoms of cephalexin, pyelonephritis
+-  GIT: ischaemic bowel, perforation, ulcer, CRC, diverticulitis, anal fissure, haemorrhoids, fistula, abscess, infectious colitis (*C. difficile* because in nursing home; everyone would get it)
+-  Genitourinary: pelvic inflamm disease
+
+Compared to Trevor (IBD, CRC), she is Old F in nursing home on antibiotics: infectious colitides, CRC (less likely presentation as her thing is so acute), diverticulitis, ischaemic bowel
+
+Mechanisms that antibiotics causing diarrhoea:
+
+-  Inflammatory: *C. difficile* secrete toxins
+-  Secretory: damage mucosa
+-  Osmotic: disturb carbohydrate balance
+-  Motility: increase gut motility
+
+## Trigger 2
+
+She's a vasculopath
+
+*Triple whammy for renal failure: ACE, diuretic, NSAID (aspirin)*
+
+Ex:
+
+-  CVS: important to check JVP
+-  GIT: 5 Fs 
+
+## Trigger 3
+
+Rigidity, guarding, rebound tenderness (pain after moving hand away after slowly palpating): suggests peritonitis/inflammation
+
+Ix:
+
+-  Bloods: FBC (anaemia), ELFT (kidney fn; she is on triple whammy for renal failure), ESR/CRP
+-  ECG
+-  Urine: urinalysis, dipstick
+-  Stool: cultures (hard to grow *C. difficile*)
+-  Imaging: CT (ischaemia less enhanced), angiograms
+-  Colonoscopy
+
+## Trigger 4
+
+Ischaemic colitis (pain after eating; basically angina in GIT): global hypoperfusion => ischaemia. 
+Can also be caused by strangulation, embolism, infn. 
+Hers is an *acute on chronic* presentation. 
+
+Ischaemic colitis: chronic issue, usually resolves on its own, Rx: bowel rest, broad spectrum IV antibiotics
+Acute mesenteric colitis: medical emergency 
