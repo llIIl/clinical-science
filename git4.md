@@ -13,6 +13,8 @@ urlcolor: blue
 
 # Main case
 
+Alcohol fatty liver: AST > ALT because you toa**st**
+
 ## Trigger 1
 
 Priority in assessing him:
@@ -137,4 +139,135 @@ $\beta$-blocker can help reduce portal hypertension
 
 # Short case 1
 
+## Trigger 1
+
+Further Hx: 
+
+-  Tiredness: changed anything, has anything changed recently, sleep, get context on his tiredness
+-  Any other symptoms
+    -  Unexplained weight loss, nausea, vomiting, bruising bleeding
+-  When did you last feel well?
+-  How is he coping with his brothers death?
+-  Does wife complain of you sleeping? (OSA)
+-  Fam Hx/PMHx
+-  Drugs: alcohol, illicit
+-  Diet
+
+Risk factors for liver cancer:
+
+-  Alcohol
+-  Viral infn/Hepatitis/cirrhosis
+-  IV drug use
+-  Fam Hx
+-  Obesity
+-  Haematomachrosis
+-  Male gender
+-  Aflatoxins, arsenic, anabolic steroids
+-  Smoking
+
+Tiredness
+
+-  Depression, sleep deprivation/disturbance, lifestyle, giving up caffeine, change in diet, work/stress
+-  Cancer, hypothyroidism, anaemia, coeliacs, OSA, diabetes, shift worker disorder, chronic illness
+
+## Trigger 2
+
+DDx:
+
+-  Hep C less likely as it is mostly from IV drug use
+-  Hep B: SEA with strong vertical transmission: risk factors = {blood transfusion, iv drug use, sex, living with an infn}
+
+Ex: 
+
+-  General inspection: pallor
+-  Vitals
+-  CVS Ex: murmurs because aortic stenosis/regurg can lead to 
+-  GIT: clubbing, leukoplakia, chronic liver disease, organomegaly
+-  Resp: breathing issues => apnoea, SOB
+
+## Trigger 3
+
+Ix:
+
+-  Bloods: FBC (Hb; WCC; platelets), ELFT, thyroid function test (even though male and less likely), ESR/CRP (if something suggested inflamm cause; not in this pt)
+-  Hep serology: because he has risk factors for Hep B
+
+## Trigger 4
+
+Hep serology:
+
+-  Anti HBs: resolved or vaccinated
+-  HBV DNA: shows if pt is infective 
+-  HBsAg: current HB infn
+-  Anti HBc IgG:
+
+Hep B transmitted: vertically, blood, sex, vaginal secretions, organ transplantation
+
+
 # Short case 2
+
+Learn the heps
+
+## Trigger 1
+
+Epigastric: foregut + inferior MI
+
+Ix:
+
+-  Bloods: FBC, ELFT
+-  USS
+-  Pregnancy test
+
+## Trigger 2
+
+Risk factors:
+
+-  Fat
+-  Female
+-  Fair
+-  Fourty
+-  Fertile
+-  Rapid weight loss
+-  Liver diseases
+-  Oral contraceptive pill + pregnancy
+-  Fam Hx
+-  Diabetes
+
+Complications of cholelithiasis (usually asymptomatic):
+
+-  Pain
+-  Acute cholecystitis: obstruction => inflamm => pain
+    -  Gallstone pancreatitis
+-  Ascending cholangitis
+
+Mx:
+
+-  Cholecystectomy
+-  Watch and wait: antibiotics
+-  Lithotripsy: smaller
+
+
+## Trigger 3
+
+Pain: acute pancreatitis (fatal in 10% of cases due to SIRS)
+
+Ix:
+
+-  Bloods: FBC, ELFT, 
+-  ECG
+-  CXR/AbdoXR
+-  USS
+
+Mx:
+
+-  Pain management: morphine
+-  Nil-by-mouth: probs surgery soon
+-  Fluids
+
+Acute pancreatitis: renal failure, diabetes, malnutrition, cysts  
+IGETSMASHED
+
+Ascending cholangitis:
+
+-  Charcot's triad: fever, RUQ pain, jaundice 
+-  +fever+altered mental state
