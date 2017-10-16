@@ -92,7 +92,7 @@ Peripheral stigmata of liver disease: check Talleys
 
 Got 2 of the stigmata suggestive of liver cirrhosis
 
-Multiple processes causing cirrhosis: alcohol not the only thing, maybe virus, T2D, $\alpha-1$-antitrypsin disease, haematomachrosis
+Multiple processes causing cirrhosis: alcohol not the only thing, maybe virus, T2D, $\alpha_{1}$-antitrypsin disease, haematomachrosis
 
 Liver disease => bleeding:
 
