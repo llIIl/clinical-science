@@ -172,7 +172,7 @@ Micronutrients: required in small quantities for life, generally less than $100m
 
 Vitamins: fat soluble = {A, D, E, K}, or water soluble = (B, C}
 
-![Tables](images/nm1-vit-table.png})
+![Tables](images/nm1-vit-table.png)
 
 Vit C deficiency:
 
