@@ -85,7 +85,69 @@ Metabolic syndrome = $5\times\text{risk of T2D}$
 
 # Short case 1
 
+## Trigger 1
 
+DDx weight loss:
+
+-  COPD
+-  Ca
+-  Depression
+-  Malabsorption
+-  Malnutrition
+-  Coeliacs
+-  Infn
+-  Toothache/swallowing
+-  Medications
+-  Financial problems
+
+Physiological elderly issues
+
+-  Loss of taste receptors
+-  Dysphagia
+-  Decrease resting metabolic rate
+-  Sedentary behaviour => muscle wasting
+-  Stroke
+-  Increased insulin resistance
+-  Senescent cells => secrete proinflamm cytokines
+-  Comorbidities
+
+Hx:
+
+-  How he coping with bereavment
+-  HPC: what does he eat, is he struggling eating, noticed any other symptoms (pain, parasthesia), how is he feeling, sleep, dentures
+-  Systems review: bowel habits, fever nightsweats chills
+-  PMHx: recent illnesses
+-  Medications/allergies/smoking/alcohol
+
+
+## Trigger 2
+
+Sig weight loss:
+
+-  5% over 6/12
+-  Any unintentional in adults or pt is concerned about
+
+Nutrition state: MNA (mini nutrition assessment) takes about 15min
+
+## Trigger 3
+
+Ix:
+
+-  Bloods: FBC, ELFT (albumin decreased in malnutrition), TSH, Vitamins, iron studies, ESR/CRP
+
+## Trigger 4
+
+Heading toward microcytic anaemia
+
+Age at risk for Ca
+
+Elderly deficiency:
+
+-  Vit D
+-  Ca
+-  B vitamins
+-  Fe
+-  Zn: immune system
 
 # Short case 2
 
@@ -178,6 +240,7 @@ Vit C deficiency:
 
 -  Required for collagen, hormone, aa formation, wound healing, burn recovery, antioxidant, iron absorption
 -  Pathophys: human body cannot make Vit C => can be depleted in 1-3/12 without any intake as body's stores get depleted from environment/oxidation => conn tissue (collagen) defective => poor wound healing in collagen containing tissues such as skin, cartilage, osteoid, capillaries, gum (haemorrhage), hair follicles. Bone tissue formation impaired (endochondral ossification)=> poor growth. Also affects haematopoiesis by enhancing Fe absorption to Fe^3+^
+-  Also is a cofactor for metabolism of tyrosine and cholesterol, synthesis of neurotransmitters (noradrenalin), peptide hormones, corticosteroids, aldosterone
 -  Signs/symptoms: weakness, irritability, weight loss, vague myalgies/arthralgias
 -  Risk factors: alcoholics (metabolised in liver), food fads, elderly, economically disadvantaged (no fresh food/vege), refugees, pregnant, eating disorders (anorexia), aids, T1D (increased requirement for Vit C), SI diseases (crohns, coeliacs, gastric bypass)
 -  Dx: usually clinical (skin/gingival findings, risk factors), FBC for anaemia, bleeding/coag/prothrombin are normal
