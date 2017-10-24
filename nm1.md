@@ -9,6 +9,10 @@ classoption: a4paper
 fontsize: 11pt
 urlcolor: blue
 ---
+# POW
+
+Ulceration and fissures: CD(?)  
+Pseudopolyps: UC
 
 # Main case
 
