@@ -1,5 +1,5 @@
 ---
-title: "Nutrition \& Metabolism II"
+title: "Nutrition & Metabolism II"
 author: "Aaron Khoo"
 date: "`r format(Sys.Date(), '%d %B %Y')`"
 output:
@@ -75,4 +75,46 @@ Diet: less alcohol as alcohol is metabolised preferentially
 
 # Short case 1
 
+## Trigger 1
+
+> 5/12M ED sweating, trembling
+
+Sweating: hypothalamus => sympathetic regulation => postgang *ACh* receptors (instead of noradrenaline)
+
+Hx:
+
+-  PC: recent illness, normal nappies, is he growing normally, "how do you feed him?"
+-  4-6/12 start introducing solids, around 1 year stop breast feeding (or continue within reason)
+-  PMHx: congenital, birth complications, vaccinations
+-  FHx: anything
+-  SHx:
+
+Ex:
+
+-  General inspection
+-  Vitals: temperature, *glucose*,
+-  CVS/resp
+-  GIT
+-  Everything
+
+
+## Trigger 2
+
+Ix:
+
+-  Bloods: FBC, ELFT, TSH
+-  USS
+
+## Trigger 3
+
+Learn fasting state:
+
+-  $\Uparrow$Glycogenolysis: Glycogen => G6P (G6P-ase) => Glucose
+-  $\Uparrow$Lipolysis
+-  $\Uparrow$Gluconeogenesis
+
+[Corn starch: wiki page of gsd 1a](https://en.wikipedia.org/wiki/Glycogen_storage_disease_type_I)
+
 # Short case 2
+
+![Photo of PKU board](images/nm2-sc2.png)
