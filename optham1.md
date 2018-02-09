@@ -54,4 +54,16 @@ Triage red eye for urgent referral to opthamologist: read GOLDEN EYE RULES
 
 # Short case 1
 
+Central artery/vein occlusion => extremely acute
+
+Retinal detachment => stuff enters vitreous => floaters
+
+Losing vision in centre of eye means that the macula is affected: red flag
+
 # Short case 2
+
+If eye is down and out it is CNIII palsy because LR abducting and SO depressing
+
+If strabismus consider neuroblastoma
+
+Rb1 mutation increases risk of osteosarcoma
