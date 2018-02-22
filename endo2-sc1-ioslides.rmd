@@ -1,0 +1,173 @@
+---
+title: 'Endocrine 2: Short Case 1'
+author: "Aaron Khoo"
+date: "22 February 2018"
+output: 
+  ioslides_presentation:
+    incremental: true
+    smaller: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## PC
+
+**(trigger 1) Sharon Leyton, a 32-year old woman, presents to you, her GP, with earache. After taking a history and examining her ear you diagnose acute otitis media, likely from her recent URTI. As you explain these findings you also notice a lump in her anterior neck that moves when she swallows.**
+
+
+-  What is the significance of Sharon’s lump moving upon swallowing?
+-  Review anatomy of the area
+
+
+## Moving lump example
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLO6h8RsRSw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+## Anat
+
+<a href="https://i.imgur.com/Jzl8vrV.png">
+  <img src="https://imgur.com/Jzl8vrVl.png" />
+</a>
+
+(from Talley and O'Connor)
+
+
+## Anat (cont.)
+
+<a href="https://i.imgur.com/TFVilav.png">
+  <img src="https://imgur.com/TFVilavl.png" />
+</a>
+
+(from duckduckgo)
+
+## Anat (cont.)
+
+<a href="https://i.imgur.com/qVUMoCI.png">
+  <img src="https://imgur.com/qVUMoCIl.png" />
+</a>
+
+## DDx (quickly)
+
+Discuss possible hypotheses for a lump in this region (this is a good opportunity to consider the anatomy of the area!)
+
+> - Superficial
+>    -  Sebaceous cyst, lipoma (soft, lobulated, and not fixed to skin), abscess, dermoid cyst
+> - Lymph nodes
+>    -  Superficial and deep
+> - Deep
+>    -  Anterior triangle (moves on swallowing): thyroid and thyroglossal cyst (+ moves on tongue being poked out)
+>    -  Ant. triangle (does not move on swallowing): salivary glands, branchial cyst, carotid body tumour, carotid aneurysm, sternomastoid "tumour" (appears only in babies and is result of trauma)
+>    -  Post. triangle: cervical rib, subclavian artery aneurysm, pharyngeal pouch (may fill and empty following a meal), cystic hygroma (collection of dilated lymphatics presenting in infancy; compressible, soft)
+
+
+## Hx
+
+-  Returning to ‘history’ in light of this finding, what specific questions you would now want to ask Sharon?
+
+- **(trigger 2) Sharon says that until you pointed it out, she had been unaware of any swelling in her neck. She says that she has been feeling anxious and stressed for some time, but she attributes this to having three young children and doing a PhD. She denies any weight loss, sweating, or palpitations. She has had no difficulties swallowing or any change in voice. There are no other significant symptoms and apart from the delivery of her three children and a miscarriage, she has no past medical or family history of note. She has never smoked and only rarely drinks alcohol.**
+
+-  Do you understand the relevance of each of the specific questions that were asked? Were there any that you had not thought of when discussing the last trigger to note for the future?
+
+## Ex
+
+-  What are the general principles for examining a lump in any region? What is the significance of the specific features of the lump that you examine for? 
+    -  Size, location, shape (well defined?), consistency (smooth/hard/rubbery/irregular/...), fluctuance (fluctuant suggests fluid filled lesion), trans-illumination, pulsatility (vascular origin), temperature (inflamm cause), overlying skin changes, relation to underlying/overlying tissues (does it move or not), auscultation
+    -  [neck lump Ex](https://geekymedics.com/neck-lump-examination-osce-guide/)
+-  Discuss what further examination you would perform on Sharon.
+
+-  **(trigger 2) You then turn to examine Sharon further:**
+-  **clinically euthyroid**
+-  **neck palpation reveals a soft, 2cm mobile nodule in the right lobe of the thyroid gland with no fixation to adjacent tissues and no palpable lymph nodes.**
+
+
+## Ix
+
+-  **(trigger 2) You arrange for Sharon to have her TSH levels checked in the first instance. The test results come back the next day and demonstrate a TSH that falls within the normal range (1.8 mU/L [0.40-5.00mIU/L])**
+-  On the basis of clinical findings so far, what would be your next line of investigation, and why?
+    -  Bloods: FBC (Hb, WCC), ESR (increases in infection and malignancy), thyroid fn test
+    -  USS (solid/cystic swellings, size, location)
+    -  FNAC
+
+## if thyrotoxic (still trigger 2)
+
+-  What different approach might you have taken had Sharon been thyrotoxic?
+
+-  <a href="https://i.imgur.com/U1vA1Se.png">
+  <img src="https://imgur.com/U1vA1Sel.png" />
+</a>
+
+-  *In most cases, once thyrotoxicosis has been detected, patients should be referred to an endocrinologist for management* [BMJ 2006 Dx and Mx of thyrotoxicosis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1476727/)
+
+## Ix results 
+
+-  **(trigger 3) An ultrasound of Sharon’s thyroid gland demonstrates a single nodule within the lower pole of the right lobe of the thyroid, 2cm in diameter. There are no worrying or suspicious features on ultrasound examination, nor is there any evidence of abnormally enlarged cervical lymph nodes.**
+-  **An aspirate is taken from the centre of the nodule and sent for cytological examination. The report comes back as ‘malignant features consistent with papillary thyroid cancer’.**
+-  **You arrange to see Sharon to discuss this result and refer her to the thyroid cancer clinic at the hospital for further management.**
+
+
+## Thyroid cancer epidemiology
+
+-  How common is thyroid cancer? Why might the incidence be increasing? 
+
+-  <a href="https://i.imgur.com/s6NCprM.png">
+  <img src="https://imgur.com/s6NCprMl.png" />
+</a>    
+
+-  Increasing rapidly, almost universally amongst high income countries. Almost exclusively attributable to papillary thyroid cancer. **Why: ?** Increased detection of small tumours that are incidentally noted on diagnostic imaging studies. HOWEVER increase in prevalence of larger tumours, higher rates of aggressive papillary thyroid cancers and distant mets and increase in thyroid-spec mortality after around a decade of stability. [source](https://www-sciencedirect-com.ezproxy.library.uq.edu.au/science/article/pii/S0140673612622053)
+
+
+## Thyroid cancer + Mx principles
+
+-  What are the major pathological types of thyroid cancer? What kind of prognosis is expected with each? [2010 7th ed AJCC Cancer staging manual](https://www.cancer.org/cancer/thyroid-cancer/detection-diagnosis-staging/survival-rates.html)
+    -  Papillary (80%): I = near 100%, II = near 100%, III = 93%, IV = 51%
+    -  Follicular (15%): I = near 100%, II = near 100%, III = 71%, IV = 50%
+    -  Medullary (3%): I = near 100%, II = 98%, III = 81%, IV = 28%
+    -  Anaplastic/undifferentiated (2%): all IV = 7%
+    -  Thyroid lymphoma (~1%; usually w/ hashimotos): IE = ~80%, IIE and IVE < 36% [wikipedia](https://en.wikipedia.org/wiki/Thyroid_lymphoma)
+-  What are the principles of management of thyroid cancer?
+    -  Multidisciplinary team, *patient focus*, surgery, pathology (staging + is pt high/low risk), I-131 ablation/therapy +/- radiotherapy, follow-up, [In-depth here by British thyroid association; royal college of physicians](http://www.baets.org.uk/wp-content/uploads/2013/02/management-_thyroid-cancer-guideline.pdf)
+
+## Breaking bad news
+
+-  How would you go about explaining to Sharon about her diagnosis having called her back to see you? 
+-  `as.integer(runif(1,1,10))`
+
+-  **SPIKES**
+    -  Setting
+    -  Perception
+    -  Invitation
+    -  Knowledge
+    -  Explore and empathise
+    -  Strategy and summary
+
+
+## Mx {.smaller}
+
+**(trigger 4) Sharon sees an endocrine surgeon who performs a total thyroidectomy, together with an ipsilateral central lymph node dissection when lymph node involvement is suspected intraoperatively. Post-operatively her serum calcium is monitored with no hypocalcaemia documented, and Sharon is later discharged home on replacement thyroxine therapy. Final pathology confirms a 2cm papillary thyroid cancer, with two central lymph nodes involved by metastatic cancer. Sharon is seen in the combined endocrinology/radiation oncology thyroid cancer clinic for radioiodine ablation and supervision of long-term follow-up. Her post-ablation whole body scan shows no evidence of metastatic disease and thyroglobulin levels are undetectable. Sharon remains on thyroxine and at 12 months has a further ultrasound scan and measurement of thyroglobulin levels. Both the scan and thyroglobulin level are negative, so the tumour is able to be classified as stage 1 (T1N1aM0).**
+
+-  T1: Tumor ≤ 2 cm in greatest dimension limited to the thyroid 
+-  N1: Metastasis to regional nodes. N1a: Metastasis to level VI or VII (pretracheal, paratracheal, prelaryngeal / Delphian or upper mediastinal) lymph nodes; this can be unilateral or bilateral disease
+-  M0: No distant metastasis
+
+-  Hypocalc**ae**mia: calcium blocks sodium channels and inhibits depolarization of nerve and muscle fibers => reduced calcium lowers the threshold for depolarization
+    -  CATs go numb - convulsions, arrhythmias, tetany, and numbness in the hands and feet and around the mouth
+
+
+
+## Trigger 4 questions
+
+-  Discuss the relevance of each of the cues from this trigger.
+-  Why might Sharon have become hypocalcaemic post surgery?
+    -   Parathyroid gland trauma/devascularisation/removal
+-  What are some of the other potential complications of thyroid surgery?
+    -  postop bleeding, recurrent laryngeal nerve and superior laryngeal nerve damage, thyrotoxic storm (pre/intra/post-op), infection, hypothyroidism
+-  Do you understand the purpose and principles of radioiodine ablation?
+    -  [The radioactive iodine destroys any remaining cancer cells and any remaining healthy thyroid tissue.](https://www.medscape.com/viewarticle/763197). Destroy remaining thyroid tissue as the surgeon may have left some residual especially around key structures such as recurrent laryngeal nerve and parathyroid glands.
+-  What is thyroglobulin and what is the purpose of measuring it here?
+    -  Precursor of T3 and T4. In differentiated thyroid cancer (particularly papillary and follicular) [thyroglobulin] is usually increased to >100 ng/mL. Therefore post surgery and I-131 ablation it is a good prognositic indicator of disease status. A baseline initially can be taken, but it just adds info as to whether the tumour is producing thyroglobulin. 
+-  What can you tell Sharon about her long-term prognosis?
+    -  Good
