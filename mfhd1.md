@@ -53,7 +53,7 @@ Tl;dr most common: PALM-COEIN (polyp, adenomyosis, leiomyoma, malignancy and hyp
 -  Neoplasia: endometrial hyperplasia/carcinoma, uterine sarcoma
 -  Infn and inflamm: endometritis, pelvic inflammatory disease
 -  Disorders of local endometrial haemostasis
-
+-  Ectopic pregnancy usually ruptures after 8 weeks
 
 MSAC recommended:
 
@@ -78,7 +78,7 @@ The average age of menopause is 51 years [8]. Menopause is defined as 12 months 
 {Terminology](http://sinoemedicalassociation.org/AP2/OBGYNTERMINOLOGYDEFINITION.pdf)
 
 -  GPA = {gravida (number of pregnancies), para (number of births of viable offspring), ab abortus (abortions)}
--  TPAL = {term births, preterm births (<37 weeks gestation), abortions, living children}
+-  TPAL = {term births, preterm births ($<$37 weeks gestation), abortions, living children}
 
 
 Hx:
@@ -102,7 +102,7 @@ Terminology
 
 Ex:
 
--  General appearance
+-  General appearance: anaemic pallor would present in the conjunctiva first, pbesity => $\Uparrow$ oestrogen due to adipose tissue
 -  Thyroid
 -  Pelvic examination: potential sites of bleeding, masses, size and contour of the uterus (pregnancy, leiomyomas, malignancy), current bleeding, adnexal mass or tenderness
 -  Abdo examination
@@ -160,3 +160,5 @@ Endometrial hyperplasia results from continuous estrogen stimulation that is uno
 # Short case 1
 
 # Short case 2
+
+DRE because you can palpate parts of the uterus. Adds extra information on top of bimanual examination

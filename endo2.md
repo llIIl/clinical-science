@@ -10,6 +10,12 @@ fontsize: 11pt
 urlcolor: blue
 ---
 
+# Random notes
+
+Chvostek sign: 2cm anterior to earlobe is facial N => tap it => ipsilateral contractions => indicates hypocalcaemia
+
+Trosseau sign is the other one that you should read up as it has much higher sensitivity
+
 # POW: Thyroid gland
 
 PC: solitary thyroid nodule (lump in the neck): can be neoplastic or non-neoplastic. Important DDx are mets, lymph node, parathyroid gland
@@ -74,6 +80,4 @@ Mx:
 
 Hyper/hypo-thyroidism is high yield
 
-# Short case 1
 
-# Short case 2
