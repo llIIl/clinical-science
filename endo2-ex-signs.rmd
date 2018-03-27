@@ -1,0 +1,55 @@
+---
+title: "Inspection during the Endocrine exam"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+header-includes:
+  -  \usetheme{metropolis}
+  -  \usepackage{moresize}
+output:
+  beamer_presentation
+---
+
+# Review
+
+## Thyroid
+
+\scriptsize
+
+```{r thyroidtable, echo=FALSE, message=FALSE, warnings=FALSE, results='asis'}
+thyroid_table <- "|           | Hyperthyroidism                                                                  | Hypothyroidism                                                                                                                                                  |
+|----------|----------------------------------|----------------------------------|
+| General   | Weight loss, anxiety, frightened facies of thyrotoxicosis                        | Mental and physical sluggishness, myxoedema madness, hypothroid speech (slow, nasal, deep)                                                         |
+| Hands     | Tremor, onycholysis, thyroid acropathy (clubbing), palmar erythema, sweaty palms | Peripheral cyanosis, swelling, yellow discolouration (hypercarotenaemia), palmor crease pallor                                                                  |
+| Arms      | Proximal myopathy, abnormal brisk reflexes                                       |                                                                                                                                                                 |
+| Eyes/Face | Exopthalmos, thyroid stare, lid retraction, lid lag                              | Hypercarotenaemia skin not sclera, alopecia, vitililgo, loss of outer third of eyebrows, xanthelasmata, coolness, dryness, hair thinning, tongue swelling |
+| Neck      | Thyroid enlargement                                                              | Thyroid enlargement                                                                                                                                             |
+| Chest     | Gynaecomastia                                                                    | Auscultate for pericardial/pleural effusion                                                                                                                     |
+| Legs      | Pretibial myxoedema, proximal myopathy, hyperreflexia                            | Non-pitting oedema, hung-up reflex (achilles tendon)                                                                                                            |
+"
+cat(thyroid_table)
+```
+
+
+## Pituitary
+
+\footnotesize
+
+```{r pittable, echo=FALSE, message=FALSE, warnings=FALSE, results='asis'}
+
+pituitary_table <- "|                | Panhypothyroidism                                                          | Acromegaly                                                                                                   |
+|----------------|----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| General        | Short stature, pallor, fine wrinkled skin, lack of body hair               |                                                                                                              |
+| Face           | Skin wrinkles (gonadotrophin deficiency), visual fields due to mass effect | Large supraorbital ridge, lips thickened, visual field defects, enlarged tongue, splayed and separated teeth |
+| Chest          | skin pallor, decrease in nipple pigmentation                               | Coarse body hair and gynaecomastia, arrhythmias                                                              |
+| Genital region | loss of pubic hair, testicular atrophy                                     |                                                                                                              |
+| Ankle reflexes | Hung up jerks (pituitary hypothyroidism)                                   |                                                                                                              |
+| Hands          |                                                                            | Wide shape, increased sweating, warmth, thickened skin, proximal myopathy                                    |"
+cat(pituitary_table)
+```
+
+
+## Adrenals
+
+-  Cushings: skin thickness of hands, moonlike facies, central obesity, bruising, excessive pigmentation, proximal myopathy, buffalo hump, striae, psychosis, visual fields, acne, hirsutism, oedema in legs, hypertension, increase in hepatic gluconeogenesis
+-  Addinson's: cachexia, pigmentation in the palmar creases elbows gums and buccal mucosa, vitiligo, postural hypotension 
+

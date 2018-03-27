@@ -1,0 +1,93 @@
+---
+title: "MFHD5: SC2"
+author: "Aaron Khoo"
+date:  `r format(Sys.Date(), '%d %B %Y')`
+output:
+  ioslides_presentation:
+    incremental: true
+    smaller: true
+---
+
+## Trigger 1
+
+In an urban general practice, your next patient is Mrs Reem Rashidi, aged 26 years.
+
+After looking at her notes you remember initially seeing Mrs Rashidi with her husband last year for an upper respiratory tract infection. She had recently arrived in Australia from her home in Egypt. She had migrated here with her husband for his work. At the time she had spoken no English.
+
+You invite Mrs Rashidi, who is unaccompanied this time, to sit down, at which point she apologises for not being able to speak English well. Her English is in fact very good, and while not fluent, you certainly have no difficulty in establishing that she has a urinary tract infection for which you prescribe antibiotics.
+
+As you are running on time in your clinic (!), you ask how she is settling in to life in Australia. Given that you know from your discussion today that she is sexually active, you also decide to use this as an opportunity for health promotion. While printing off a leaflet in Arabic about the topic, you ask her if she has heard about cervical cancer and the test that is offered to screen for it in Australia.
+
+## National cervical screening program
+
+-  **What is the current cervical screening program in Australia? What is its purpose? Where is the data stored?**
+-  Current:
+-  Purpose
+-  Data: "securely" stored in the Register, protected by latest "state-of-the-art-data security" measures, according to "strict" Australian government info security requirements. Stored on-shore in Australia. Commonwealth Department of Health will have control over all info in the Register.
+-  **Who is eligible/should be targeted for screening**
+-  **What are some reasons for women not taking up cervical screening?**
+-  **What are the risk factors for development of cervical cancer?**
+-  HPV infection (HPV protein E7 cuts Rb brakes; E6 silences and degrades *TP53*), cigarette smoking (increases genetic damage via carcinogens), lack of regular screening
+-  **How is the test reported, and what would be the process for an abnormal result?**
+
+-  **What symptoms may patients with cervical pathology present with?**
+-  **What are the barriers to health promotion in culturally and linguistically diverse (CALD) patients? How might you go about addressing these?**
+
+
+## Collecting a sample
+
+-  **How in practice is the cervical sample actually taken? How would you explain this to a patient?**
+1.  After the patient is prepared and comfortable, begin the speculum examination by examining the external genitalia for any abnormalities, then:
+
+## Trigger 2
+
+Mrs Rashidi takes the leaflet and you tell her that she can make an appointment to discuss it further with you and get the test done if she wishes to. You explain that although her English is very good, it may be wise to use an independent interpreter to discuss the matter further to ensure that she fully understands the test and what is involved. You reassure her that the interpreters are bound by confidentiality. A nurse will also be present for the test, and Mrs Rashidi requests that if this is the case she would like a female nurse.
+
+Mrs Rashidi returns two weeks later and an interpreter has been arranged via telephone for the consultation. You ask her what she understands about the Cervical Screening Test and why it is done to which she responds clearly via the interpreter. You go through the practicalities of what the test involves and show her a speculum. When you ask if she would like to go ahead and have the test done today she replies,
+
+‘Yes, I would, but…..I’m not sure whether you will be able to do it on me.’
+
+You ask her to explain. ‘I was ‘cut’ when I was nine. It often hurts with sex and Isometimes have a little bleeding afterwards. I’m not sure that you will be able to get ‘this’ (pointing to the speculum) inside.
+
+’You tell her that you can’t be sure until you have a look but that if it is difficult she can stop you at any time. You say that given her bleeding after sex, it is particularly important. (On further questioning she denies any other changes in menstrual pattern). She indicates that she would like to try and you introduce her to your practice nurse who guides her through undressing and positioning on the bed.
+
+## Questions
+
+-  **Why use an independent interpreter rather than her husband or other family member?**
+-  Increased medical knowledge, better understanding of languages, covered under insurance, confidentiality
+-  **Do you understand what is meant by the reference to being ‘cut’? What is female genital cutting / mutilation (FGM) (a term often best avoided), and what is its prevalence worldwide?** [more info](http://www.who.int/mediacentre/factsheets/fs241/en/)
+-  Female genital mutilation (FGM) comprises all procedures that involve partial or total removal of the external female genitalia, or other injury to the female genital organs for non-medical reasons. It has no health benefits for girls and women. Procedures can cause severe bleeding and problems urinating, and later cysts, infections, as well as complications in childbirth and increased risk of newborn deaths.
+More than 200 million girls and women alive today have been cut in 30 countries in Africa, the Middle East and Asia where FGM is concentrated. *It is a violation of  human rights*.
+-  **Why might she have dyspareunia and post-coital bleeding?**
+-  **What other complications are associated with the practice of FGM?**
+-  Short term: pain, haemorrhage, shock, infn, HIV (possibly due to lack of sterlisation), urinary retention/dysuria, scarring, shock, psychological trauma
+-  Long term: pain, infn (UTIs, chronica genital infns, chronic repro tract infns), dysuria, menstrual issues (due to obstruction of vaginal opening), keloids, HIV, female sexual Hx (removal of highly sensitive tissue, particularly clitoris, may decrease desire, pleasure, leading to dyspareunia, decreased lubrication, reduced frequency/absence of orgasm [anorgasmia], mental trauma), obstetric complications (such as caesarean, post-partum haemorrhage, tears/lacerations, prolonged labour), perinatal risks, psychological consequences
+-  **What are the options if a speculum examination is too difficult in the GP practice?**
+-   **What pathology of the cervix might be directly visualized on speculum examination?** [reading with some images](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3031439/)
+-  Nabothian cysts: common & benign. May be translucent or opaque, whitish to yellow, mm to 4cm in diameter. Caused by transformation squamous metaplasia/inflamm blocking a gland orifice => endocervical columnar cells secrete mucus => covered by epithelium => cyst formation.
+-  Leiomyomas
+-  Cervical ectropion: eversion of the endocervix exposes columnar epithelium to vaginal milieu. Vaginal discharge most common symptom. Epithelium has reddish appearance sim to granulation tissue.
+-  Cervical polyps: larger polyps should be evaluated and removed by a gynecologist; removal is typically straightforward office procedure
+-  Endometriosis (present as red, blue, or black cervical lesions (“powder burns”)) and adenomyosis (may involve the endocervical canal or form a polypoid mass protruding into the endocervical canal)
+-  Cervicitis: appearance depends on cause such as HSV (multiple small vesicular or ulcerative lesions), trichomonoiasis (punctate haemorrhages => strawberry cervix), chlamydial and gonococcal (mucopurulent discharge, cervical friability, cervical oedema)
+
+
+## Trigger 3
+
+Mrs Rashidi is nervous but your practice nurse helps to put her at ease. On examination of the external genitalia she has had a clitoridectomy and complete excision of her labia minora, leaving scarring.
+
+You use a small speculum with a water-based lubricant and ask Mrs Rashidi to insert it a little way herself before you take over. Whilst she does wince sharply at one point and you stop immediately, she says she is ok and to carry on. You manage to open the speculum and view the cervix. The cervix is of a nulliparous appearance and you can see no ectropion or other evidence of abnormality. The walls of the vagina are also normal in appearance. You perform the test, obtaining cells from the transformation zone (there is no contact bleeding), before warning Mrs Rashidi that you are about to gently remove the speculum.
+
+You explain to Mrs Rashidi once dressed that if any abnormalities are detected it does not necessarily mean that she has cancer but she will be contacted to have some further tests. You also explain if the test result is normal, she will receive a reminder from the National Cervical Screening Program in five years when another test is due.
+
+## Questions
+
+-  **Do you understand the terms ‘endocervix’, ‘transformation zone’, and ‘ectropion’?**
+-  Transformation zone: between the endo and ectocervix which have two different epithelial linings. Endocervix. This is where HPV infects
+-  **How does the transformation zone ‘move’ throughout reproductive life?**
+-  Glandular epithelium moves down to ectocervix during female maturation
+-  **What is colposcopy? Why and when is this necessary?**
+-  **How would you explain the new cervical screening test to your patients who are used to having a Pap smear? What are the major changes you’d explain to them?**
+-  Now it is every 5 years instead of 2 years (this is fine as the development is so slow), cheaper and safer, and pap cytology has been replaced by HPV molecular genotypinmg test
+-  **Why do women who have had the HPV vaccine still need this screening? What is the theory behind the HPV cancer vaccine? When is it given in Australia?**
+-  Gardasil targets 6/11/16/18, cervical cancer can also be caused by non-HPV 16/18 (25%) and non-HPV related (5%)
