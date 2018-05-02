@@ -1,0 +1,70 @@
+---
+title: "Haematology II"
+author: "Aaron Khoo"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output:
+  pdf_document
+documentclass: article
+classoption: a4paper
+fontsize: 11pt
+urlcolor: blue
+---
+
+
+# Main case
+
+## Trigger 1
+
+DDx:
+
+-  Liver pathology can cause both thrombocytopaenia and loss of girth
+-  Mets to bone marrow such as from lung
+-  EBV
+-  Lymphoma
+-  Leukaemia
+-  Multiple myeloma
+-  Acquired haemophilia
+-  Could be two separate pathologies
+
+Ex:
+
+-  Inspection: cachexia is hints of rapid weight loss (overall wt loss, loose skin, looks unhealthy)
+-  Haem: lymph nodes, pallor, bony tenderness, scratch marks
+-  Abdo: hepatosplenomegaly, jaundice/spider naevia/gynaecomastia/oedema for liver pathology
+-  Resp: if worried about lung Ca
+
+## Trigger 2
+
+Top Dx
+
+-  Lymphoma
+-  Leukaemia
+-  Metastatic Ca
+-  Still consider HIV as generalised lymphadenopathy $\pm$ pain
+
+Splenomegaly
+
+-  Massive:
+-  Large: malaria
+
+## Trigger 3
+
+Pancytopaenia
+
+-  Lymphoma: pancytopaenia from bone marrow infiltration and crowding out so it cannot produce normal cells
+-  Leukaemia: producing abnormal cells?
+-  Aplastic anaemia: basically no more bone marrow left, cannot produce anything
+-  Vitamin B12/folate deficiency
+-  Medications
+
+
+B symptoms: reserve for use when talking about lymphoma. Night sweats have to be drenching. If not quite B symptoms then it is called constitutional symptoms 
+
+## Trigger 5
+
+-  Infiltration extramedullary haematopoeisis => hepatosplenomegaly => early satiety from pushing against it
+
+
+# Short case 1
+
+# Short case 2
