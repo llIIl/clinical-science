@@ -67,4 +67,76 @@ B symptoms: reserve for use when talking about lymphoma. Night sweats have to be
 
 # Short case 1
 
+Mech of fever: exogenous pyrogens => IL-1 and TNF => increased cyclooxygenase activity => $\Uparrow$ PG including PGE~2~ => reset temperature set point in hypothalamus
+
+## Trigger 1
+
+Fatigue in children + *infn*
+
+-  Acute: *URTI*, sinus *infn*, hepatitis, chickenpox, measles, meningitis
+-  More prolonged: *mononucleosis*, CMV, OSA
+-  Chronic: tb, diabetes, *IBD*, CKD, thyroid disease, heart failure, poor nutrition, *cancer*, abscesses
+
+Anaemia needs to be severe to cause persistent fatigue in children
+
+## Trigger 2
+
+"Growing pains": shouldn't affect the chest (sternum) but can affect children as young as 5
+
+If generalised bone pain => really should consider leukaemia
+
+
+## Trigger 3
+
+Pale during fever because of vasodilation and less blood going to skin
+
+Ix:
+
+-  Good idea to do uric acid, LDH, Ca, Phos as a baseline in case tumour lysis syndrome
+
+
+
 # Short case 2
+
+## Trigger 1
+
+Amoxiciliin + clavulanic acid: common for strep
+
+DDx:
+
+-  EBV
+-  HIV
+-  CMV
+-  Acute hepatitis: abdo symptoms
+-  Lymphoma: drenching night sweats
+-  Withdrawal symptoms from alc/drugs can cause night sweats
+-  Infective endocarditis
+
+Histoplasmosis can come from bat bites
+
+Pharyngitis is mostly viral
+
+## Trigger 2
+
+First line for tonsilitis is penicillin (amoxiclav)
+
+Ix:
+
+-  FBC
+-  ELFT + creatinine = liver + kidney
+-  CXR: tb in lungs
+-  USS: spleen size, but it won't be diagnostic of prognostic so a bit useless..
+
+
+## Trigger 3
+
+Bloods:
+
+-  Dehydration: osmolality high and urea high
+-  ALT and AST: ALT = hepatocellular, AST = alcohol (sometimes)
+-  Liver impairment
+
+
+
+
+
