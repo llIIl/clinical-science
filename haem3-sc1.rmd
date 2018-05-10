@@ -1,0 +1,173 @@
+---
+title: Bad Formation (haem3sc1)
+date: "10/05/2018"
+author: Aaron Khoo
+output:
+  ioslides_presentation:
+    incremental: true
+    smaller: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Hx
+
+Lorraine Cooper, is a new patient， 73F
+
+<a href="https://i.imgur.com/QKrjYof.png">
+  <img src="https://imgur.com/QKrjYofl.png" />
+</a>
+
+## Hx + Ex  (Trigger 1, 2)
+
+You note on the chart that she is a 73 year old female with a local address. You greet Lorraine and ask her how you can help. She responds “To be perfectly honest with you doctor, I just want a second opinion. I have been **tired for some time now**, when I told my other doctor they did some tests which showed that my blood cells are no longer OK, especially my red cells– I think they call that anaemia. The doctor then said that my fatigue was due to my **anaemia** and this **should be investigated further with a number of tests**. Isn’t there something I could just take for this rather than more investigations? **I really don’t want any more poking and prodding**. You make a quick phone call to have Lorraine’s recent results sent to you and continue with your history.
+
+You get some more background on Lorraine, and she tells you she is very well and in fact is **not on any medications**. Apart from some **osteoarthritis of her knees which she treats with hydrotherapy and physical exercise**, she has never had any serious illnesses. She has always been a **keen athlete** and attributes her good health to **regular physical activity**. She tells you she began **feeling fatigued over the course of the last year** and only brought it to her **usual doctor’s attention two weeks ago**. When she was told she was **anaemic**, Lorraine was partially surprised and didn’t realise anaemia could make her feel this tired. She describes **struggling to get out of bed in the morning and can feel a little stiff in her joints** but figured this was just aging. She has had to **give away bowls and tennis as she just doesn’t have the energy anymore**.
+
+Her **examination is unremarkable**. Her **obs are stable** with a BP of 120/80mmHg and PR of 65. A haematological examination is unremarkable.
+
+
+## Questions (Trigger 1)
+
+-  **Given the story, what is the likely abnormality on Lorraine’s bloods?**
+-  **What further aspects of history do you want to clarify?**
+-  What is meant by fatigue? It can be used to describe
+    -  Difficulty or inability to initiate activity (*subjective sense of weakness*)
+    -  Reduced capacity to maintain activity (*easy fatigability*)
+    -  Difficulty with concentration, memory, and emotional stability (*mental fatigue*)
+-  Onset (ty uptodate)
+    -  Acute fatigue: one month or less
+    -  Subacute fatigue: between one and six months
+    -  Chronic fatigue: over six months
+        - Cause of chronic fatigue can be identified in approximately two-thirds of patients. Sometimes explained by overwork. Small number of cases are diagnosed with myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) a disorder of unknown cause, but if the criteria is not met then it is known as idiopathic chronic fatigue. Both are diagnoses of exclusion.
+
+## Fatigue
+
+-  **When is fatigue pathological?**
+-  Red flags: recent onset of fatigue in a previously well older patient, unintentional weight loss, abnormal bleeding, shortness of breath, unexplained lymphadenopathy, fever, recent onset or progression of cardio/gastro/neuro/rheum symptoms
+-  **What are common causes for fatigue in this age group?**
+-  **What are serious and not to be missed causes for fatigue in the elderly?**
+-  The below is just general causes of fatigue (not spec to elderly)
+-  *Probability diagnoses* include stress and anxiety, depression, viral/post-viral infection and sleep-related disorders
+-  *Serious disorders* include malignancy, cardiac arrhythmias, cardiomyopathy, anaemia, bacterial infection, haemochromatosis, human immunodeficiency virus (HIV) infection and hepatitis C
+-  *Common pitfalls* include coeliac disease, pregnancy, renal failure and metabolic disturbances. Medication-related side effects are another key consideration.
+
+## Fatigue causes by system
+
+-  **Cardiopulmonary**: congestive heart failure, chronic obstructive pulmonary disease, sleep apnoea.
+-  **Endocrinologic/metabolic**: hypo/hyper-thyroidism, chronic renal disease, chronic hepatic disease, adrenal insufficiency, electrolyte abnormalities.
+-  **Haematologic/neoplastic**: anaemia of diff causes, occult malignancy, myeloproliferative disorder, myelodysplastic syndromes, leukaemia/lymphoma, aplastic anaemia.
+-  **Infectious**: Mononucleosis syndrome, viral hepatitis, HIV, subacute bacterial endocarditis, *tuberculosis*.
+-  **Rheumatologic**: fibromyalgia, polymyalgia rheumatica, *systemic lupus erythematosus*, rheumatoid arthritis, Sjögren's syndrome, *sarcoidosis*.
+-  **Psychological** (esp if prolonged fatigue): Depression, anxiety disorder, somatisation disorder.
+-  **Neurological**: Multiple sclerosis.
+-  **Medications**: Benzodiazepines, antidepressants, muscle relaxants, first-generation antihistamines, beta-blockers, opioids.
+-  **Substance abuse**: EtOH, marijuana, opioids, cocaine/other stimulants.
+
+
+
+## Bloods (Trigger 2)
+
+<a href="https://i.imgur.com/WHAdzYZ.png">
+  <img src="https://imgur.com/WHAdzYZl.png" />
+</a>
+
+## Simple blood cell lines
+
+<a href="https://i.imgur.com/maYXUIT.png">
+  <img src="https://imgur.com/maYXUITl.png" />
+</a>
+
+
+
+## Questions (Trigger 2)
+
+-  Trigger 2 cont: You discuss with Lorraine that it would be worthwhile doing some further blood tests and considering referral to a haematologist. She is happy to oblige, anything to work out what's wrong.
+-  **What pattern of abnormality is seen on the FBC?**
+-  **What is the medical term used to describe this pattern of changes in her FBC and what are the causes?**
+-  Pancytopenia (bicytopenia?): usually due to cancer, leukaemia, lymphoma, MM, TB, fungal, bone marrow aplasia (drug toxicities, nutrition, HIV, hepatitis, Parvovirus B19, autoimmune destruction)
+-  **What other mechanisms can lead to a thrombocytopenia?**
+-  *Decreased platelet production* (bone marrow failure/suppression, chronic EtOH, infn, MDS), *increased platelet consumption* (allo/auto-immune, DIC, sepsis, drug induced, infn, mechanical destruction by mech valves, HELLP, TTP/HUS), *sequestration/other* (chronic EtOH, hypersplenism, liver disease)
+-  **What other possible causes of neutropenia are there?** [source](http://www.neutropenianet.org/wp-content/uploads/2013/07/publication-eval-treatment-of-scn.pdf)
+-  Infn, drugs, autoimmune, nutritional, MDS, aplastic anaemia, cong bone marrow failure, neutropenia syndromes (GSD1b and other rare things)
+-  **At what level of neutropenia does infection become a concern?**
+-  0.2 - 0.5 increased risk of infn, < 0.2 risk of severe life threatening infn and opportunistic organisms
+
+## Questions cont. (Trigger 2)
+
+-  **What is the potential cause of high LDH level?**
+-  Tissue damage: haemolytic anaemia, pernicious anaemia, infn, sepsis, AKI, acute liver disease, pacnreatitis, bone fractures, malignancy
+-  **Is this anaemia proportionate to the degree of fatigue? How do the symptoms of anaemia evolve as the degree of anaemia increases?**
+-  Age usually compounds fatigue, more anaemia = more fatigue, younger persons can tolerate more anaemia (no reputable source)
+-  **What are your differential diagnoses?**
+-  Pancytopenia: aplastic anaemia, mets to bone, MM, lymphoma, leukaemia, MDS, myelofibrosis, severe B12 folate deficiency, SLE, HIV/EBV, pernicious anaemia, medications, low dose arsenic poisoning, megaloblastic anaemia
+
+## Further Ix (Trigger 3)
+
+You repeat the blood tests which show a stable picture on the FBC, but specifically ask
+for a reticulocyte count.
+
+Additional results show that the reticulocyte count is 7 (10 - 100 x10^9^/L) indicating a
+marrow cause for her anaemia.
+
+Lorraine agrees to see a haematologist.
+
+## Questions (Trigger 3)
+
+-  **What is the significance of the abnormalities on the smear?**
+-  **What are macrothrombocytes?**
+-  Neutrophils: [normal](https://en.wikipedia.org/wiki/Neutrophil#/media/File:Neutrophils.jpg) vs [hypogranulated](https://en.wikipedia.org/wiki/Myelodysplastic_syndrome#/media/File:Hypogranular_neutrophil_with_a_pseudo-Pelger-Huet_nucleus_in_MDS.jpg)
+-  [Oval macrocytes](https://i.imgur.com/IV5TEb7.png)
+-  Macrothrombocytes: [smartsparrow](https://smartsparrow.global.ssl.fastly.net/repo/images/1d2066e379f598eeb9e9d4f6f101b90a.png)
+-  **What are the causes of macrocytic anaemias?**
+-  Macrocytic: increased reticulocytes (haemolytic anaemia, bone marrow recovery following chemo, recovery from bleed), megaloblastic (vit b12, folate, medications), multifactorial (EtOH, liver disease, HIV, MDS, aplastic anaemia, MM, preggers)
+-  **How are the reticulocyte count and marrow involvement help in differentiating your hypotheses list?**
+-  Aplastic anaemia, leukaemia, MDS, CHIP
+
+
+## Trigger 4
+
+Lorraine sees the haematologist who arranges for a bone marrow aspirate / trephine
+which shows increased marrow cellularity with tri-lineage dysplasia. Iron stains show
+normal iron stores but a small number of ring sideroblasts are present. The marrow has
+been sent for cytogenetic testing.
+
+The haematologist advises Lorraine that she has myelodysplastic syndrome and that
+unfortunately this is a very serious incurable condition which will become progressively
+worse. It is likely that the first intervention she will require will blood transfusions in the not too distant future.
+
+
+## Questions (Trigger 4)
+
+-  **What are the various forms of myelodysplasia?**
+-  <a href="https://i.imgur.com/Nyrxp78.png">
+  <img src="https://imgur.com/Nyrxp78l.png" />
+</a>
+-  [reading classification](https://academic.oup.com/view-large/35527240)
+-  **What proportion of these are secondary to other causes? What are these?**
+-  About 80% of people with MDS have primary MDS (no apparent risk factors). Secondary has poorer prognosis and risk factors are: previous chemo (alkylating agents/purine analogues), radiotherapy, tobacco smoking, benzene+derivatives, agricultural and industrial workers more likely
+-  **At what point do blood transfusions become necessary? Are there complications associated with transfusion dependence?**
+-  Chronic RBC transfusions are associated with chronic anaemia, leading to excess morbidity, and they cannot completely correct impaired QoL, may also be associated with iron overload => deleterious on organs (this is a bit disputed [MDS reading](https://academic.oup.com/annonc/article/25/suppl_3/iii57/1740877))
+-  **At what level of platelets or neutrophils do complications usually arise?**
+
+## Questions cont. (Trigger 4)
+
+-  **What is the natural history of this disorder?**
+-  Highly variable, survival ranges from a few weeks to several years. The median OS is 15-30 months and the risk of progression to AML is 25%-35% at 5 years. Bone marrow failure (infection and haemorrhage) is the leading cause of death, with more patients dying before overt AML has occurred
+-  [Revised International Prognostic Scoring System (IPSS-R) for myelodysplastic syndromes](https://academic.oup.com/view-large/35527248) stratifies patients into five risk groups (v low, low, int, high, v high)
+-  If she was at [high risk](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/annonc/25/suppl_3/10.1093_annonc_mdu180/3/mdu18002.png?Expires=1526047443&Signature=jd--FREEBGN0cNyVIGcYxEAWH01IU1W0N1Vx3Mur4v5rL~8BODfiZBoAlMgJAxu5cDYuOWgpT6ZeFkHU2jSy14oTgF7WDYZQPUpjyVUSSzDjtQXJO80-avbLy6YFDZZV2-D1aOusxmmaGXPXlgppRFqKdzPEHIKbXn60m4JJcwYxX-6Sph~B-3ArEekiCIIySUyD5hhRKR3LruN9FoLR9ir3s9WKb-6255hWMOzKaqXy1RrB-fMBB~dn750VLyn~~EuQQd31Ohu8UukEFNsGC5R3payOuEXIIAjr3btMhCw2yABTWmpS8zHqCLe9QAD3C4DmbGLl~kpQDCwUD436YA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
+
+## References
+
+-  [RACGP fatigue](https://www.racgp.org.au/afp/2014/july/fatigue/)
+-  [uptodate fatigue in adults](https://www-uptodate-com.ezproxy.library.uq.edu.au/contents/approach-to-the-adult-patient-with-fatigue)
+-  [Thrombocytopenia aafp](https://www.aafp.org/afp/2012/0315/p612.html)
+-  [Neutropenia by randos](http://www.neutropenianet.org/wp-content/uploads/2013/07/publication-eval-treatment-of-scn.pdf)
+-  [Macrocytic anaemia uptodate](https://www-uptodate-com.ezproxy.library.uq.edu.au/contents/macrocytosis-macrocytic-anemia?topicRef=7133&source=see_link)
+-  [MDS](https://academic.oup.com/annonc/article/25/suppl_3/iii57/1740877)
+-  [Hematologylearning for some images](https://hematologylearning.weebly.com/white-blood-cell-inclusions-and-abnormalities.html)
+-  [simpler MDS reading cancer.net](https://www.cancer.net/cancer-types/myelodysplastic-syndromes-mds/subtypes-and-classification)
