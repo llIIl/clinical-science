@@ -1,0 +1,183 @@
+---
+title: Home, Sweet Home! (mh1mc)
+date: "16/05/2018"
+author: Aaron Khoo
+output:
+  ioslides_presentation:
+    incremental: true
+    smaller: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Vocabulary of mood (source lec 2)
+
+affect mood anhedonia alexithymia euthymic
+
+-  Affect: superficial and immediate emotional state of pt, observable (facial expression and social gestures)
+-  Mood: underlying and usually more enduring emotional state of pt, have to ask
+-  Anhedonia: inability to experience pleasure
+-  Alexithymia: no words for feelings (?inability to identify and describe emotions in the self??)
+-  Euthymic: normal mood
+
+## Trigger 1: Presentation
+
+Marlene Truscott is a 44-year-old patient of your suburban group practice, whom you have seen only occasionally. She says "I need some more sleepers, Doctor - you know, the Temazepams." You notice that Marlene looks clearly agitated. For a start, she is quite adamant that she just needs more "sleepers", but as you gently persist in finding out more about her circumstances at home, she relaxes a little and opens up in conversation.
+
+## Questions (trig 1)
+
+-  **What are the important features of Marlene’s presentation? Why?**
+    -  Agitation is an acute state of anxiety, heightened emotional arousal, and increased motor activity
+    -  Benzodiazepines: augment GABA's inhibitory effect by increasing the frequency of channel openings. This inhibitory effect leads to the anxiolytic, hypnotic, anticonvulsive, and muscle-relaxing properties of benzodiazepines.
+-  **List possible causes of these features and explain the underlying mechanisms.**
+    -  Primary psychiatric: MDE/MDD, chronic depression, bipolar disorder, psychotic disorders, dementia, substance use (benzodiazepines) disorders, personality disorders, anxiety disorders, schizophrenia, ADHD
+    -  Primary medical: insomnia, medications, fatigue/weight loss/insomnia (cancer, and endocrine, cardiovascular or neurological diseases), hypothyroidism. "Presence of medical conditions that may be causally related to the depression itself through pathophysiological mechanisms and in such cases the depression may remit completely with the successful treatment of the underlying medical condition." [ref](https://www-clinicalkey-com-au.ezproxy.library.uq.edu.au/#!/content/book/3-s2.0-B9780323295079000299?scrollTo=%23hl0000204)
+
+## Questions (cont)
+
+-  **Marlene’s agitation raises questions:**
+    -  **Is her agitation related to her request for medications? Is she depressed? Is she anxious?**
+    -  **Might she be using the benzodiazepines for daytime sedation? Is she dependent on benzodiazepines?**
+    -  **Is she contemplating suicide, and collecting the means? Has she been "shopping around", visiting different doctors?**
+    -  **Is she actually seeking someone sympathetic to talk to about her life's stresses, and the request for medication is merely an opening gambit?**
+-  **How might the possibility of Marlene having suicidal thoughts be approached?**
+    -  Ask about the specific nature of the ideation, intent, plans, available means (eg, firearms), and actions
+    -  Assess the patient for risk factors for suicide, including prior history of suicide attempts, comorbid psychiatric and general medical illnesses, and family history of suicidal behavior
+    -  Develop a safety plan for further evaluation and treatment that depends upon the level of risk and may range from continued primary care follow-up alone to outpatient psychiatric or emergency room psychiatric evaluation
+
+
+## Questions
+
+-  **What else would you need to find out to consider a diagnosis of depression? (write up 9 things)**
+    -  <a href="https://i.imgur.com/SD0uQQ1.png">
+  <img src="https://imgur.com/SD0uQQ1l.png" />
+</a>
+-  **What information do you need to refine your initial hypothesis/differential diagnosis?**
+
+
+## Trigger 2: History
+
+After 20 minutes of conversation (during which time you actively and empathetically listen, and gently ask her questions that facilitate the flow of her disclosures), Marlene’s story emerges.
+
+She is married, and has two children. Her 16-year-old son, Tom, is in grade 11 and progressing well, but her 14-year-old daughter, Tracey, is "uncontrollable" and is often out all night, coming home intoxicated. Marlene believes she is sexually active but their relationship is so poor they can never have any meaningful discussion with her daughter about the subject. Marlene states that she and her daughter have never been "close".
+
+Marlene's husband of 20 years, Euan, an accountant aged 39, drinks heavily and spends little time with the family. He also often comes home intoxicated and is verbally abusive; he regards the children’s problems as her fault. She and Euan rarely have sex, and that is too often, Marlene says. She uses prescription sedatives for sleep, and often a stiff Scotch as well. She denies drinking during the daytime. Her insomnia is of the early-waking type. She feels churned up most of the time and finds it hard to make decisions, even about minor domestic issues. She says that she can't be bothered taking care of her appearance, and that she avoids going out. Nothing gives her pleasure. She does not know why her life has turned out this way, or what she has done wrong to deserve it, but is sure that somehow, it is her fault. She doesn't think that things will ever get any better, and she wonders if the family would be better off without her.
+
+Her past medical history is unremarkable. Marlene is not inclined to share much about her childhood, except to say that her parents' divorce when she was in her early teens was "a terrible time".
+
+## Questions (trig 2)
+
+-  **How does this information help you refine your differential diagnosis?**
+-  **Which ones are now the most likely?**
+-  **What information from examining Marlene would help you?**
+-  **What are the symptoms and signs of depression?**
+    -  Above + aches or pains, headaches, cramps, or digestive problems without a clear physical cause and/or that do not ease even with treatment
+-  **Is depression a serious (fatal?) illness?**
+    -  mean(Depressed patients) = 77.6% of normal function, with advanced CAD/angina = 65.8%/71.6%， back problems/arthritis/diabetes/HTN = (79%， 88.1%), increased mortality, 21% of recurrent depressive disorder patients attempt suicide, 11th largest burden of disease worldwide by DALYs, comorbidities, influences the course of concomitant medical diseases (increased cardiac mortality, increased diabetic-complications)
+-  **What other family factors may a GP need to consider?**
+
+## Risk factors for mood disorders
+
+There are 9:
+
+-  <a href="https://i.imgur.com/QwEP94a.png">
+  <img src="https://imgur.com/QwEP94al.png" />
+</a>
+
+## Trigger 3: Progress
+
+One week later (during which time Tom and Tracey heard their parents fighting every night), Tom phones the doctor's surgery, very concerned that he has come home from school and found his mother "asleep" in her bed and very difficult to rouse. When shaken vigorously, she murmurs in a very slurred voice, Sorry. "So stupid!" An empty bottle of Marlene's Temazepam was beside her, and a nearly empty bottle of Scotch. The practice nurse calls an ambulance for Tom and instructs him to stay with his mother and ensure she lies on her side until the ambulance arrives.
+
+## Questions (trig 3)
+
+-  **What principles would underlie the acute management of Marlene? Note that acute poisoning will be covered in more detail within clinical science 4.**
+    -  Resus: ABCD(isability via GCS, blood glucose), Hx (may be unreliable but try to establish what was taken, vomiting, PMHx/meds/allergies, suicide note?, histories from others), general Ex (vitals done above too, temp, rigidity [ecstasy, amphetamines], skin, breath for ketones), Ix
+    -  Obtain more info, decontaminate if appropriate, decrease absorption, increase elimination, supportive, specific antidote
+-  **How might Tom be feeling, finding his mother in this state? Frightened? Shaky? Confused?**
+-  **How might this event impact his relationship with his mother over time?**
+-  **The distress in this family is multifaceted. What thoughts for future intervention will you consider?**
+
+
+## Trigger 4: Progress
+
+Marlene is taken to hospital and managed with a Guedel airway, administration of intravenous fluids and oxygen via a face mask. Marlene wakes up enough to spit out the airway, and cough. She is very drunk and minimally responds to commands. The emergency department registrar orders a routine blood test for levels of paracetamol, alcohol and benzodiazepines. Paracetamol levels are normal. Marlene is transferred from the emergency department to the ward. Marlene does not experience any medical complications. Once she is medically stabilised and able to engage in a psychiatric assessment, Marlene is referred to the psychiatry registrar who comes to assess Marlene.
+
+## Questions (trig 4)
+
+-  **What might the registrar ask Marlene?**
+-  **What are the risk factors for suicide? (8...)**
+    -   Male gender, recent losses, drug/alc abuse, MDD, lack of social support, serious physical illness, past history of suicide attempts, family history of completed suicide
+-  **What are the preventable factors for suicide in adolescents and adults?**
+-  **How common is suicide?**
+    -  M>F, [rates by year](https://i.imgur.com/xJrpFRh.png), [rates by age M](https://i.imgur.com/Jj9yfKL.png), most common cause of death in Aus aged 15-44, over 3000 die each year (approx 8 a day), more than 65,000 make an attempt
+-  **What public health strategies have been introduced to prevent suicide?**
+    -  the thing on cliff edges from lifeline, beyondblue (if theyre funded by gov)
+-  **What barriers may prevent patients from discussing suicide and accepting help?**
+-  **Could Marlene’s suicide attempt have been prevented?**
+
+## Trigger 5: Progress
+
+Marlene discloses to the psychiatry registrar that she regrets her actions, which were impulsive. She is distressed to think about how her family would be affected if she did suicide. She admits to feeling depressed and is given information about Sertraline, a selective serotonin reuptake inhibitor as treatment for her depression. Marlene is reluctant to take medication because she feels, "I got myself into this, I’ll have to sort it out".
+
+## Questions (trig 5)
+
+-  **How do selective serotonin reuptake inhibitors work?**
+-  **Why are they used in the treatment of depression?**
+    -  Current first line drugs for MDD (sertraline: zoloft, xydep,.. and fluoxetine: prozac, lovan,...)
+    -  Inhibit reuptake into presynaptic cell => more serotonin in synaptic cleft => more available to bind to postsynaptic-R
+-  **What other conditions are they used to treat? What are the side effects? How long do they take to work?**
+    -  bullimia, depression, generalised anxiety disorder, obsessive-compulsive disorder, panic disorder, PTSD, stroke recovery(?)
+    -  Serotonin syndrome (may consist of increased heart rate, shivering, sweating, dilated pupils, myoclonus (intermittent jerking or twitching), as well as overresponsive reflexes), nervousness, anxiety, insomnia, nausea, disarrhoea, dizziness, anorexia, weight loss, fatigue, headache, sedation, rash, pruritis, sexual dysfn (in 30-60%), increased suicide risk <= 18. Genetics plays a factor in side effects (L~A~ 5-HTTPLR allele is associated with decreased adverse effects)
+    -  2-3 weeks
+-  **What are the other classes of antidepressants?**
+    -  MAO inhibitor
+
+## Overview of drugs
+
+<a href="https://i.imgur.com/6c1Muzv.png">
+  <img src="https://imgur.com/6c1Muzvl.png" />
+</a>
+
+## Questions (cont.)
+
+-  **What other non-pharmacological treatments are available for depression?**
+    -  Therapeutic alliance, psychotherapy (CBT, IPT, PST,...), psychoeducation, scheduling of pleasant activities, medications, behavioural activation, combined medications + psychotherapy, ECT, exercise, bright light
+
+## Trigger 6: Closure
+
+Euan is away for a few days and is contacted by Tom with the news of Marlene's suicide attempt. Tracey is horrified by Marlene's overdose and blames herself and her father. She is counselled by the psychiatry registrar, who arranges to see her again later in the day.
+
+During the second conversation, Tracey tearfully discloses to the registrar how much she and Tom hate hearing their parents fight, and how she often goes out to get away from all the strife. The registrar is supportive and validates her need to get away from the tension of her parents' conflict.
+
+Marlene is discharged three days later. She accepts the recommendation from the psychiatry registrar to have sessions with a clinical psychologist at a local private practice on referral from her GP (under a Better Access to Mental Health Scheme). Marlene's psychologist explores her depressed mood and troubled relationships with her daughter and husband. Marlene is offered the option of bringing Tracey to some sessions to work on restoring a more supportive relationship with her daughter. Marlene is also offered a referral to a couples' therapist should she and Euan indicate willingness to work on their distressed relationship.
+
+Tracey visits their family GP and finds relief in talking about her "screwed up" family. She admits to wanting to be more aware of her mother's problems now. Marlene considers leaving Euan but is too financially dependent and cannot see how she could look after the children. Some months after Marlene's hospital admission, Euan (after a number of "secret" visits to his GP) tells Marlene that he is going to get some help for his drinking. She is surprised and thinks to herself, "I'll believe that when I see it."
+
+## Questions (trig 6)
+
+-  **What help is available for patients and their families following a suicide attempt?**
+    -  Patients: around 50% of those discharged from hospital after a suicide attempt do not attend any subsequent treatment
+    -  Families: [SuicideLine Victoria](https://www.suicideline.org.au/resource/supporting-someone-after-suicide-attempt/) (probably have to live there),
+-  **What is the role of psychotherapy in treating patients with mental illness?**
+-  **What are the different types of psychotherapy?**
+    -  CBT = cognitive behavioural psychotherapy
+    -  One of the most effective treatments for conditions where anxiety or depression is the main problem
+    -  Most effective psychological treatment for moderate and severe depression
+    -  As effective as antidepressants for many types of depression (lecture 4)
+-  **What is the evidence for marital therapy as an intervention for depression?**
+    -  There probably is some
+
+
+## Mindfullness meditation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6p_yaNFSYao" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+## References
+
+-  [uptodate psychosis](https://www-uptodate-com.ezproxy.library.uq.edu.au/contents/clinical-manifestations-differential-diagnosis-and-initial-management-of-psychosis-in-adults#H261969392)
+-  [racgp illlicit drug overdose](https://www.racgp.org.au/afp/2013/july/illicit-drug-overdose/)
+-  Screenshots from lectures
+-  [Suicide prevention](https://www.psychology.org.au/inpsych/2016/feb/christensen/)
