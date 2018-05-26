@@ -13,10 +13,10 @@ urlcolor: blue
 
 # Main case
 
-DDx for AUB (in USA prevalence 53 per 1000 for women $18\leq\text{age}\leq50}
+DDx for AUB (in USA prevalence 53 per 1000 for women $18\leq\text{age}\leq50$
 
 -  Genital tract disorders
-    -  Uterus: 
+    -  Uterus:
         -  Benign: endometrial polyps, endometrial hyperplasia, fibroids (leiomyomas), adenomyosis
         -  Cancer: endometrial adenocarcinoma, sarcoma
         -  Infn: pelvic inflammatory disease, endometritis
@@ -141,7 +141,7 @@ DDx focal thickening endometrium:
 
 ## Trigger 5
 
-Pipelle introduced in the 80s made of flexibly polyporpylene sheath, piston slides within the sheath allowing negative pressure to be applied and obtain sample. 
+Pipelle introduced in the 80s made of flexibly polyporpylene sheath, piston slides within the sheath allowing negative pressure to be applied and obtain sample.
 There was a higher complication rate in the D+C group but the failure rate was higher in the endometrial pipelle biopsy group
 Pipelle biopsy and D&C showed almost equal success rate in the diagnosis of endometrial pathologies.
 Both biopsy methods are not perfect, but pipelle biopsy is a cheaper and easy technique compared with D&C [source](https://link-springer-com.ezproxy.library.uq.edu.au/article/10.1007/s00404-012-2438-8)
@@ -155,7 +155,7 @@ Nuclear atypia – Nuclear atypia is the presence of nuclear enlargement; the ch
 
 Pathophysiology of endometrial hyperplasia
 
-Endometrial hyperplasia results from continuous estrogen stimulation that is unopposed by progesterone. This can be due to endogenous estrogen or exogenous estrogenic sources. The exact mechanism of estrogen's role in the transformation of normal endometrium to hyperplasia and cancer is unknown. Genetic alterations are known to be associated with hyperplasia and type I endometrial cancers. Lesions with hyperplasia are associated with microsatellite instability and defects in DNA mismatch repair genes (MLH1, MSH2, MSH6, PMS2) associated with the Lynch Syndrome.  PTEN tumor suppressor gene mutations have also been found in 55% of hyperplasia cases and 83% of hyperplasia cases once it has progressed to endometrial cancer. 
+Endometrial hyperplasia results from continuous estrogen stimulation that is unopposed by progesterone. This can be due to endogenous estrogen or exogenous estrogenic sources. The exact mechanism of estrogen's role in the transformation of normal endometrium to hyperplasia and cancer is unknown. Genetic alterations are known to be associated with hyperplasia and type I endometrial cancers. Lesions with hyperplasia are associated with microsatellite instability and defects in DNA mismatch repair genes (MLH1, MSH2, MSH6, PMS2) associated with the Lynch Syndrome.  PTEN tumor suppressor gene mutations have also been found in 55% of hyperplasia cases and 83% of hyperplasia cases once it has progressed to endometrial cancer.
 
 # Short case 1
 
